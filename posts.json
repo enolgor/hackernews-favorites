@@ -1,5 +1,210 @@
 [
   {
+    "title": "What are your most used self-hosted applications?",
+    "link": "item?id=31260061",
+    "age": "2022-05-04T13:27:42.000Z"
+  },
+  {
+    "title": "Bash-oneliner: A collection of handy Bash one-liners and terminal tricks",
+    "link": "item?id=31250275",
+    "age": "2022-05-03T16:31:31.000Z"
+  },
+  {
+    "title": "Pitivi, a free and open source video editor for Linux",
+    "link": "item?id=31244448",
+    "age": "2022-05-03T04:02:09.000Z"
+  },
+  {
+    "title": "Fritzing is an open-source electronic design tool",
+    "link": "item?id=31235109",
+    "age": "2022-05-02T13:51:28.000Z"
+  },
+  {
+    "title": "Software Jailbreak for Any Kindle",
+    "link": "item?id=31220553",
+    "age": "2022-04-30T23:37:42.000Z"
+  },
+  {
+    "title": "Ultorg: A user interface for relational databases [video]",
+    "link": "item?id=31219324",
+    "age": "2022-04-30T21:02:05.000Z"
+  },
+  {
+    "title": "Doctree",
+    "link": "item?id=31203384",
+    "age": "2022-04-29T10:11:36.000Z"
+  },
+  {
+    "title": "Running Containers on AWS Lambda",
+    "link": "item?id=31182099",
+    "age": "2022-04-27T16:28:08.000Z"
+  },
+  {
+    "title": "Electronics Explained: Fundamentals for engineers, technicians and makers (2018)",
+    "link": "item?id=31163871",
+    "age": "2022-04-26T04:13:04.000Z"
+  },
+  {
+    "title": "Learn Go with Tests",
+    "link": "item?id=31163709",
+    "age": "2022-04-26T03:43:32.000Z"
+  },
+  {
+    "title": "Crimes with Go Generics",
+    "link": "item?id=31149801",
+    "age": "2022-04-25T01:07:06.000Z"
+  },
+  {
+    "title": "Tcl the Misunderstood (2006)",
+    "link": "item?id=31129936",
+    "age": "2022-04-23T00:19:23.000Z"
+  },
+  {
+    "title": "How SHA-256 Works Step-by-Step",
+    "link": "item?id=31129484",
+    "age": "2022-04-22T23:22:55.000Z"
+  },
+  {
+    "title": "Magic-trace &#x2013; High-resolution traces of what a process is doing",
+    "link": "item?id=31121319",
+    "age": "2022-04-22T13:30:03.000Z"
+  },
+  {
+    "title": "Tabler Icons &#x2013; Free vector icons for web design",
+    "link": "item?id=31121089",
+    "age": "2022-04-22T13:02:46.000Z"
+  },
+  {
+    "title": "The bottom is dropping out of Netflix",
+    "link": "item?id=31120094",
+    "age": "2022-04-22T10:45:53.000Z"
+  },
+  {
+    "title": "The smallest 256x256 single-color PNG file, and where you&apos;ve seen it (2015)",
+    "link": "item?id=31115857",
+    "age": "2022-04-21T22:17:38.000Z"
+  },
+  {
+    "title": "SketchUp for iPad: 3D Visualization on iPad",
+    "link": "item?id=31106536",
+    "age": "2022-04-21T06:28:49.000Z"
+  },
+  {
+    "title": "Are you the asshole? &#x2013; AI powered answer bot",
+    "link": "item?id=31099655",
+    "age": "2022-04-20T16:45:00.000Z"
+  },
+  {
+    "title": "Home lab beginners guide (2021)",
+    "link": "item?id=31094301",
+    "age": "2022-04-20T08:49:24.000Z"
+  },
+  {
+    "title": "Show HN: Make your PDF look scanned in browser",
+    "link": "item?id=31083432",
+    "age": "2022-04-19T14:15:23.000Z"
+  },
+  {
+    "title": "Nixery &#x2013; Docker images on the fly with Nix",
+    "link": "item?id=31079144",
+    "age": "2022-04-19T02:13:11.000Z"
+  },
+  {
+    "title": "Ask HN: Internet magically gets faster when opening speedtest?",
+    "link": "item?id=31062799",
+    "age": "2022-04-17T18:01:05.000Z"
+  },
+  {
+    "title": "Choosing the Right Integers",
+    "link": "item?id=31061683",
+    "age": "2022-04-17T15:50:34.000Z"
+  },
+  {
+    "title": "&#x201C;YouTube-dl&#x201D; and &#x201C;Pirate Bay&#x201D; back on DDG",
+    "link": "item?id=31061163",
+    "age": "2022-04-17T14:41:34.000Z"
+  },
+  {
+    "title": "Show HN: Golang FFmpeg wrapper for simple Video I/O and Webcam Streaming",
+    "link": "item?id=31053274",
+    "age": "2022-04-16T15:51:27.000Z"
+  },
+  {
+    "title": "A Census of Minecraft Servers",
+    "link": "item?id=31052254",
+    "age": "2022-04-16T13:44:20.000Z"
+  },
+  {
+    "title": "Moreutils: A collection of Unix tools that nobody thought to write long ago",
+    "link": "item?id=31043655",
+    "age": "2022-04-15T18:16:08.000Z"
+  },
+  {
+    "title": "Elliptic Curve Cryptography: A Basic Introduction",
+    "link": "item?id=31040571",
+    "age": "2022-04-15T14:21:16.000Z"
+  },
+  {
+    "title": "Youtube.js &#x2013; full-featured wrapper around YouTube&apos;s private API",
+    "link": "item?id=31021611",
+    "age": "2022-04-13T23:31:54.000Z"
+  },
+  {
+    "title": "New(ish) command line tools",
+    "link": "item?id=31009313",
+    "age": "2022-04-12T23:08:52.000Z"
+  },
+  {
+    "title": "When to use generics",
+    "link": "item?id=31008141",
+    "age": "2022-04-12T20:56:15.000Z"
+  },
+  {
+    "title": "Apple introduces new version of iMovie featuring Storyboards and Magic Movie",
+    "link": "item?id=31005399",
+    "age": "2022-04-12T17:06:00.000Z"
+  },
+  {
+    "title": "The complete guide to protecting your APIs with OAuth2",
+    "link": "item?id=31004928",
+    "age": "2022-04-12T16:34:57.000Z"
+  },
+  {
+    "title": "A tiny Docker image to serve static websites",
+    "link": "item?id=31003395",
+    "age": "2022-04-12T14:42:46.000Z"
+  },
+  {
+    "title": "Automate Public Certificates Lifecycle Management via RFC 8555 (ACME)",
+    "link": "item?id=30997735",
+    "age": "2022-04-12T02:02:16.000Z"
+  },
+  {
+    "title": "The Joy of Small Projects",
+    "link": "item?id=30980307",
+    "age": "2022-04-10T18:43:30.000Z"
+  },
+  {
+    "title": "Ask HN: How to improve as a struggling junior software engineer?",
+    "link": "item?id=30974544",
+    "age": "2022-04-10T04:46:12.000Z"
+  },
+  {
+    "title": "Persepolis of ancient Persia rendered in WebGL",
+    "link": "item?id=30965352",
+    "age": "2022-04-09T04:52:09.000Z"
+  },
+  {
+    "title": "Zas Editor",
+    "link": "item?id=30952084",
+    "age": "2022-04-08T00:48:42.000Z"
+  },
+  {
+    "title": "Navi- an interactive cheatsheet tool for the command line",
+    "link": "item?id=30925843",
+    "age": "2022-04-05T22:22:24.000Z"
+  },
+  {
     "title": "Show HN: Datagridxl2.js &#x2013; Fast Excel-like data table library",
     "link": "item?id=30919257",
     "age": "2022-04-05T14:16:33.000Z"
