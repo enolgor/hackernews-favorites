@@ -1,875 +1,881 @@
 # HackerNews Favs!
 
-1. `13/05/2022` [Show HN: A Full-Stack Web Framework for Go](https://news.ycombinator.com/item?id=31371340)
+1. `15/05/2022` [Golang Diaries: Generics](https://news.ycombinator.com/item?id=31387312)
 
-2. `12/05/2022` [Infrastructure From Code](https://news.ycombinator.com/item?id=31360776)
+2. `14/05/2022` [Java record pattern matching in JDK 19](https://news.ycombinator.com/item?id=31378896)
 
-3. `12/05/2022` [Map of Reddit](https://news.ycombinator.com/item?id=31357314)
+3. `13/05/2022` [Show HN: A Full-Stack Web Framework for Go](https://news.ycombinator.com/item?id=31371340)
 
-4. `08/05/2022` [PowerToys &#x2013; open-source Windows utilities](https://news.ycombinator.com/item?id=31304777)
+4. `13/05/2022` [Quick Start Guide for Flipper Zero](https://news.ycombinator.com/item?id=31368209)
 
-5. `08/05/2022` [VSCode &#x2013; Markdown Edition](https://news.ycombinator.com/item?id=31304441)
+5. `12/05/2022` [Infrastructure From Code](https://news.ycombinator.com/item?id=31360776)
 
-6. `05/05/2022` [USB Cheat Sheet](https://news.ycombinator.com/item?id=31271038)
+6. `12/05/2022` [Map of Reddit](https://news.ycombinator.com/item?id=31357314)
 
-7. `05/05/2022` [A Faster Lexer in Go](https://news.ycombinator.com/item?id=31270142)
+7. `08/05/2022` [PowerToys &#x2013; open-source Windows utilities](https://news.ycombinator.com/item?id=31304777)
 
-8. `04/05/2022` [What are your most used self-hosted applications?](https://news.ycombinator.com/item?id=31260061)
+8. `08/05/2022` [VSCode &#x2013; Markdown Edition](https://news.ycombinator.com/item?id=31304441)
 
-9. `03/05/2022` [Bash-oneliner: A collection of handy Bash one-liners and terminal tricks](https://news.ycombinator.com/item?id=31250275)
+9. `05/05/2022` [USB Cheat Sheet](https://news.ycombinator.com/item?id=31271038)
 
-10. `03/05/2022` [I fell in love with low-JS](https://news.ycombinator.com/item?id=31249181)
+10. `05/05/2022` [A Faster Lexer in Go](https://news.ycombinator.com/item?id=31270142)
 
-11. `03/05/2022` [Pitivi, a free and open source video editor for Linux](https://news.ycombinator.com/item?id=31244448)
+11. `04/05/2022` [What are your most used self-hosted applications?](https://news.ycombinator.com/item?id=31260061)
 
-12. `02/05/2022` [Fritzing is an open-source electronic design tool](https://news.ycombinator.com/item?id=31235109)
+12. `03/05/2022` [Bash-oneliner: A collection of handy Bash one-liners and terminal tricks](https://news.ycombinator.com/item?id=31250275)
 
-13. `30/04/2022` [Software Jailbreak for Any Kindle](https://news.ycombinator.com/item?id=31220553)
+13. `03/05/2022` [I fell in love with low-JS](https://news.ycombinator.com/item?id=31249181)
 
-14. `30/04/2022` [Ultorg: A user interface for relational databases [video]](https://news.ycombinator.com/item?id=31219324)
+14. `03/05/2022` [Pitivi, a free and open source video editor for Linux](https://news.ycombinator.com/item?id=31244448)
 
-15. `29/04/2022` [Doctree](https://news.ycombinator.com/item?id=31203384)
+15. `02/05/2022` [Fritzing is an open-source electronic design tool](https://news.ycombinator.com/item?id=31235109)
 
-16. `27/04/2022` [Running Containers on AWS Lambda](https://news.ycombinator.com/item?id=31182099)
+16. `30/04/2022` [Software Jailbreak for Any Kindle](https://news.ycombinator.com/item?id=31220553)
 
-17. `26/04/2022` [Electronics Explained: Fundamentals for engineers, technicians and makers (2018)](https://news.ycombinator.com/item?id=31163871)
+17. `30/04/2022` [Ultorg: A user interface for relational databases [video]](https://news.ycombinator.com/item?id=31219324)
 
-18. `26/04/2022` [Learn Go with Tests](https://news.ycombinator.com/item?id=31163709)
+18. `29/04/2022` [Doctree](https://news.ycombinator.com/item?id=31203384)
 
-19. `25/04/2022` [Crimes with Go Generics](https://news.ycombinator.com/item?id=31149801)
+19. `27/04/2022` [Running Containers on AWS Lambda](https://news.ycombinator.com/item?id=31182099)
 
-20. `23/04/2022` [Tcl the Misunderstood (2006)](https://news.ycombinator.com/item?id=31129936)
+20. `26/04/2022` [Electronics Explained: Fundamentals for engineers, technicians and makers (2018)](https://news.ycombinator.com/item?id=31163871)
 
-21. `22/04/2022` [How SHA-256 Works Step-by-Step](https://news.ycombinator.com/item?id=31129484)
+21. `26/04/2022` [Learn Go with Tests](https://news.ycombinator.com/item?id=31163709)
 
-22. `22/04/2022` [Magic-trace &#x2013; High-resolution traces of what a process is doing](https://news.ycombinator.com/item?id=31121319)
+22. `25/04/2022` [Crimes with Go Generics](https://news.ycombinator.com/item?id=31149801)
 
-23. `22/04/2022` [Tabler Icons &#x2013; Free vector icons for web design](https://news.ycombinator.com/item?id=31121089)
+23. `23/04/2022` [Tcl the Misunderstood (2006)](https://news.ycombinator.com/item?id=31129936)
 
-24. `22/04/2022` [The bottom is dropping out of Netflix](https://news.ycombinator.com/item?id=31120094)
+24. `22/04/2022` [How SHA-256 Works Step-by-Step](https://news.ycombinator.com/item?id=31129484)
 
-25. `21/04/2022` [The smallest 256x256 single-color PNG file, and where you&apos;ve seen it (2015)](https://news.ycombinator.com/item?id=31115857)
+25. `22/04/2022` [Magic-trace &#x2013; High-resolution traces of what a process is doing](https://news.ycombinator.com/item?id=31121319)
 
-26. `21/04/2022` [SketchUp for iPad: 3D Visualization on iPad](https://news.ycombinator.com/item?id=31106536)
+26. `22/04/2022` [Tabler Icons &#x2013; Free vector icons for web design](https://news.ycombinator.com/item?id=31121089)
 
-27. `20/04/2022` [Are you the asshole? &#x2013; AI powered answer bot](https://news.ycombinator.com/item?id=31099655)
+27. `22/04/2022` [The bottom is dropping out of Netflix](https://news.ycombinator.com/item?id=31120094)
 
-28. `20/04/2022` [Home lab beginners guide (2021)](https://news.ycombinator.com/item?id=31094301)
+28. `21/04/2022` [The smallest 256x256 single-color PNG file, and where you&apos;ve seen it (2015)](https://news.ycombinator.com/item?id=31115857)
 
-29. `19/04/2022` [Show HN: Make your PDF look scanned in browser](https://news.ycombinator.com/item?id=31083432)
+29. `21/04/2022` [SketchUp for iPad: 3D Visualization on iPad](https://news.ycombinator.com/item?id=31106536)
 
-30. `19/04/2022` [Nixery &#x2013; Docker images on the fly with Nix](https://news.ycombinator.com/item?id=31079144)
+30. `20/04/2022` [Are you the asshole? &#x2013; AI powered answer bot](https://news.ycombinator.com/item?id=31099655)
 
-31. `17/04/2022` [Ask HN: Internet magically gets faster when opening speedtest?](https://news.ycombinator.com/item?id=31062799)
+31. `20/04/2022` [Home lab beginners guide (2021)](https://news.ycombinator.com/item?id=31094301)
 
-32. `17/04/2022` [Choosing the Right Integers](https://news.ycombinator.com/item?id=31061683)
+32. `19/04/2022` [Show HN: Make your PDF look scanned in browser](https://news.ycombinator.com/item?id=31083432)
 
-33. `17/04/2022` [&#x201C;YouTube-dl&#x201D; and &#x201C;Pirate Bay&#x201D; back on DDG](https://news.ycombinator.com/item?id=31061163)
+33. `19/04/2022` [Nixery &#x2013; Docker images on the fly with Nix](https://news.ycombinator.com/item?id=31079144)
 
-34. `16/04/2022` [Show HN: Golang FFmpeg wrapper for simple Video I/O and Webcam Streaming](https://news.ycombinator.com/item?id=31053274)
+34. `17/04/2022` [Ask HN: Internet magically gets faster when opening speedtest?](https://news.ycombinator.com/item?id=31062799)
 
-35. `16/04/2022` [A Census of Minecraft Servers](https://news.ycombinator.com/item?id=31052254)
+35. `17/04/2022` [Choosing the Right Integers](https://news.ycombinator.com/item?id=31061683)
 
-36. `15/04/2022` [Moreutils: A collection of Unix tools that nobody thought to write long ago](https://news.ycombinator.com/item?id=31043655)
+36. `17/04/2022` [&#x201C;YouTube-dl&#x201D; and &#x201C;Pirate Bay&#x201D; back on DDG](https://news.ycombinator.com/item?id=31061163)
 
-37. `15/04/2022` [Elliptic Curve Cryptography: A Basic Introduction](https://news.ycombinator.com/item?id=31040571)
+37. `16/04/2022` [Show HN: Golang FFmpeg wrapper for simple Video I/O and Webcam Streaming](https://news.ycombinator.com/item?id=31053274)
 
-38. `13/04/2022` [Youtube.js &#x2013; full-featured wrapper around YouTube&apos;s private API](https://news.ycombinator.com/item?id=31021611)
+38. `16/04/2022` [A Census of Minecraft Servers](https://news.ycombinator.com/item?id=31052254)
 
-39. `12/04/2022` [New(ish) command line tools](https://news.ycombinator.com/item?id=31009313)
+39. `15/04/2022` [Moreutils: A collection of Unix tools that nobody thought to write long ago](https://news.ycombinator.com/item?id=31043655)
 
-40. `12/04/2022` [When to use generics](https://news.ycombinator.com/item?id=31008141)
+40. `15/04/2022` [Elliptic Curve Cryptography: A Basic Introduction](https://news.ycombinator.com/item?id=31040571)
 
-41. `12/04/2022` [Apple introduces new version of iMovie featuring Storyboards and Magic Movie](https://news.ycombinator.com/item?id=31005399)
+41. `13/04/2022` [Youtube.js &#x2013; full-featured wrapper around YouTube&apos;s private API](https://news.ycombinator.com/item?id=31021611)
 
-42. `12/04/2022` [The complete guide to protecting your APIs with OAuth2](https://news.ycombinator.com/item?id=31004928)
+42. `12/04/2022` [New(ish) command line tools](https://news.ycombinator.com/item?id=31009313)
 
-43. `12/04/2022` [A tiny Docker image to serve static websites](https://news.ycombinator.com/item?id=31003395)
+43. `12/04/2022` [When to use generics](https://news.ycombinator.com/item?id=31008141)
 
-44. `12/04/2022` [Automate Public Certificates Lifecycle Management via RFC 8555 (ACME)](https://news.ycombinator.com/item?id=30997735)
+44. `12/04/2022` [Apple introduces new version of iMovie featuring Storyboards and Magic Movie](https://news.ycombinator.com/item?id=31005399)
 
-45. `10/04/2022` [The Joy of Small Projects](https://news.ycombinator.com/item?id=30980307)
+45. `12/04/2022` [The complete guide to protecting your APIs with OAuth2](https://news.ycombinator.com/item?id=31004928)
 
-46. `10/04/2022` [Ask HN: How to improve as a struggling junior software engineer?](https://news.ycombinator.com/item?id=30974544)
+46. `12/04/2022` [A tiny Docker image to serve static websites](https://news.ycombinator.com/item?id=31003395)
 
-47. `09/04/2022` [Persepolis of ancient Persia rendered in WebGL](https://news.ycombinator.com/item?id=30965352)
+47. `12/04/2022` [Automate Public Certificates Lifecycle Management via RFC 8555 (ACME)](https://news.ycombinator.com/item?id=30997735)
 
-48. `08/04/2022` [Zas Editor](https://news.ycombinator.com/item?id=30952084)
+48. `10/04/2022` [The Joy of Small Projects](https://news.ycombinator.com/item?id=30980307)
 
-49. `05/04/2022` [Navi- an interactive cheatsheet tool for the command line](https://news.ycombinator.com/item?id=30925843)
+49. `10/04/2022` [Ask HN: How to improve as a struggling junior software engineer?](https://news.ycombinator.com/item?id=30974544)
 
-50. `05/04/2022` [Show HN: Datagridxl2.js &#x2013; Fast Excel-like data table library](https://news.ycombinator.com/item?id=30919257)
+50. `09/04/2022` [Persepolis of ancient Persia rendered in WebGL](https://news.ycombinator.com/item?id=30965352)
 
-51. `04/04/2022` [USB-C hubs and my slow descent into madness (2021)](https://news.ycombinator.com/item?id=30911598)
+51. `08/04/2022` [Zas Editor](https://news.ycombinator.com/item?id=30952084)
 
-52. `02/04/2022` [QOI &#x2013; The Quite OK Image Format](https://news.ycombinator.com/item?id=30885668)
+52. `05/04/2022` [Navi- an interactive cheatsheet tool for the command line](https://news.ycombinator.com/item?id=30925843)
 
-53. `01/04/2022` [Basque&#x2013;Icelandic Pidgin](https://news.ycombinator.com/item?id=30873832)
+53. `05/04/2022` [Show HN: Datagridxl2.js &#x2013; Fast Excel-like data table library](https://news.ycombinator.com/item?id=30919257)
 
-54. `31/03/2022` [An Intuitive Guide to Linear Algebra](https://news.ycombinator.com/item?id=30866244)
+54. `04/04/2022` [USB-C hubs and my slow descent into madness (2021)](https://news.ycombinator.com/item?id=30911598)
 
-55. `25/03/2022` [An Introduction to Generics](https://news.ycombinator.com/item?id=30804253)
+55. `02/04/2022` [QOI &#x2013; The Quite OK Image Format](https://news.ycombinator.com/item?id=30885668)
 
-56. `22/03/2022` [Connecting a gaming PC to Apple Studio Display](https://news.ycombinator.com/item?id=30767860)
+56. `01/04/2022` [Basque&#x2013;Icelandic Pidgin](https://news.ycombinator.com/item?id=30873832)
 
-57. `12/03/2022` [A non-standard book list for software developers](https://news.ycombinator.com/item?id=30651273)
+57. `31/03/2022` [An Intuitive Guide to Linear Algebra](https://news.ycombinator.com/item?id=30866244)
 
-58. `09/03/2022` [Why tensors? A beginner&apos;s perspective](https://news.ycombinator.com/item?id=30610238)
+58. `25/03/2022` [An Introduction to Generics](https://news.ycombinator.com/item?id=30804253)
 
-59. `07/03/2022` [Select, put and delete data from JSON, TOML, YAML, XML and CSV files](https://news.ycombinator.com/item?id=30592987)
+59. `22/03/2022` [Connecting a gaming PC to Apple Studio Display](https://news.ycombinator.com/item?id=30767860)
 
-60. `07/03/2022` [So you want to study mathematics](https://news.ycombinator.com/item?id=30591177)
+60. `12/03/2022` [A non-standard book list for software developers](https://news.ycombinator.com/item?id=30651273)
 
-61. `06/03/2022` [$1 Microcontrollers (2017)](https://news.ycombinator.com/item?id=30575434)
+61. `09/03/2022` [Why tensors? A beginner&apos;s perspective](https://news.ycombinator.com/item?id=30610238)
 
-62. `06/03/2022` [The Scientist and Engineer&apos;s Guide to Digital Signal Processing](https://news.ycombinator.com/item?id=30574389)
+62. `07/03/2022` [Select, put and delete data from JSON, TOML, YAML, XML and CSV files](https://news.ycombinator.com/item?id=30592987)
 
-63. `02/03/2022` [Google mandates workers back to Silicon Valley, other offices from April 4](https://news.ycombinator.com/item?id=30533540)
+63. `07/03/2022` [So you want to study mathematics](https://news.ycombinator.com/item?id=30591177)
 
-64. `02/03/2022` [SingleFile: Save a complete web page into a single HTML file](https://news.ycombinator.com/item?id=30527999)
+64. `06/03/2022` [$1 Microcontrollers (2017)](https://news.ycombinator.com/item?id=30575434)
 
-65. `27/02/2022` [Lambda Calculus in 400 Bytes](https://news.ycombinator.com/item?id=30493713)
+65. `06/03/2022` [The Scientist and Engineer&apos;s Guide to Digital Signal Processing](https://news.ycombinator.com/item?id=30574389)
 
-66. `21/02/2022` [Valencia&apos;s irrigation system is now a model for sustainable farming](https://news.ycombinator.com/item?id=30419451)
+66. `02/03/2022` [Google mandates workers back to Silicon Valley, other offices from April 4](https://news.ycombinator.com/item?id=30533540)
 
-67. `21/02/2022` [Show HN: Google Drive to SQLite](https://news.ycombinator.com/item?id=30417411)
+67. `02/03/2022` [SingleFile: Save a complete web page into a single HTML file](https://news.ycombinator.com/item?id=30527999)
 
-68. `18/02/2022` [Grist &#x2013; Open core alternative to Airtable and Google Sheets](https://news.ycombinator.com/item?id=30392227)
+68. `27/02/2022` [Lambda Calculus in 400 Bytes](https://news.ycombinator.com/item?id=30493713)
 
-69. `18/02/2022` [Open-source online SVG path editor](https://news.ycombinator.com/item?id=30382577)
+69. `21/02/2022` [Valencia&apos;s irrigation system is now a model for sustainable farming](https://news.ycombinator.com/item?id=30419451)
 
-70. `16/02/2022` [1Password for SSH and Git (Beta)](https://news.ycombinator.com/item?id=30359430)
+70. `21/02/2022` [Show HN: Google Drive to SQLite](https://news.ycombinator.com/item?id=30417411)
 
-71. `16/02/2022` [Music theory for nerds (2016)](https://news.ycombinator.com/item?id=30358903)
+71. `18/02/2022` [Grist &#x2013; Open core alternative to Airtable and Google Sheets](https://news.ycombinator.com/item?id=30392227)
 
-72. `15/02/2022` [Free public domain ebooks in PDf, ePub, mobi formats](https://news.ycombinator.com/item?id=30352207)
+72. `18/02/2022` [Open-source online SVG path editor](https://news.ycombinator.com/item?id=30382577)
 
-73. `15/02/2022` [My smart home 2021: A Home Assistant love story](https://news.ycombinator.com/item?id=30349767)
+73. `16/02/2022` [1Password for SSH and Git (Beta)](https://news.ycombinator.com/item?id=30359430)
 
-74. `15/02/2022` [JDeploy &#x2013; Deploy desktop Java apps as native bundles on Mac, Linux, and Windows](https://news.ycombinator.com/item?id=30340503)
+74. `16/02/2022` [Music theory for nerds (2016)](https://news.ycombinator.com/item?id=30358903)
 
-75. `14/02/2022` [City Generator](https://news.ycombinator.com/item?id=30338074)
+75. `15/02/2022` [Free public domain ebooks in PDf, ePub, mobi formats](https://news.ycombinator.com/item?id=30352207)
 
-76. `14/02/2022` [Show HN: Free and open-source illustrations for your projects](https://news.ycombinator.com/item?id=30332535)
+76. `15/02/2022` [My smart home 2021: A Home Assistant love story](https://news.ycombinator.com/item?id=30349767)
 
-77. `10/02/2022` [Show HN: EdgeDB 1.0](https://news.ycombinator.com/item?id=30290225)
+77. `15/02/2022` [JDeploy &#x2013; Deploy desktop Java apps as native bundles on Mac, Linux, and Windows](https://news.ycombinator.com/item?id=30340503)
 
-78. `09/02/2022` [Simutrans &#x2013; Transport Simulator](https://news.ycombinator.com/item?id=30278595)
+78. `14/02/2022` [City Generator](https://news.ycombinator.com/item?id=30338074)
 
-79. `03/02/2022` [Show HN: I made a little digital circuit simulator that operates on PNGs](https://news.ycombinator.com/item?id=30193997)
+79. `14/02/2022` [Show HN: Free and open-source illustrations for your projects](https://news.ycombinator.com/item?id=30332535)
 
-80. `28/01/2022` [The Manga Guide Series](https://news.ycombinator.com/item?id=30120927)
+80. `10/02/2022` [Show HN: EdgeDB 1.0](https://news.ycombinator.com/item?id=30290225)
 
-81. `28/01/2022` [Docker for Mac Without Docker Desktop](https://news.ycombinator.com/item?id=30116433)
+81. `09/02/2022` [Simutrans &#x2013; Transport Simulator](https://news.ycombinator.com/item?id=30278595)
 
-82. `27/01/2022` [A Primer on B&#xE9;zier Curves](https://news.ycombinator.com/item?id=30100427)
+82. `03/02/2022` [Show HN: I made a little digital circuit simulator that operates on PNGs](https://news.ycombinator.com/item?id=30193997)
 
-83. `23/01/2022` [A native Go userland for your Raspberry Pi 3 or 4 appliances](https://news.ycombinator.com/item?id=30047025)
+83. `28/01/2022` [The Manga Guide Series](https://news.ycombinator.com/item?id=30120927)
 
-84. `21/01/2022` [FalsiScan: Make it look like a PDF has been hand signed and scanned](https://news.ycombinator.com/item?id=30024165)
+84. `28/01/2022` [Docker for Mac Without Docker Desktop](https://news.ycombinator.com/item?id=30116433)
 
-85. `21/01/2022` [Free Postgres databases for small projects](https://news.ycombinator.com/item?id=30018197)
+85. `27/01/2022` [A Primer on B&#xE9;zier Curves](https://news.ycombinator.com/item?id=30100427)
 
-86. `17/01/2022` [Containerize Go and SQLite with Docker](https://news.ycombinator.com/item?id=29972655)
+86. `23/01/2022` [A native Go userland for your Raspberry Pi 3 or 4 appliances](https://news.ycombinator.com/item?id=30047025)
 
-87. `17/01/2022` [Jodd &#x2013; The Unbearable Lightness of Java](https://news.ycombinator.com/item?id=29971182)
+87. `21/01/2022` [FalsiScan: Make it look like a PDF has been hand signed and scanned](https://news.ycombinator.com/item?id=30024165)
 
-88. `17/01/2022` [Show HN: MdSilo &#x2013; A knowledge silo that runs in your web browser](https://news.ycombinator.com/item?id=29969757)
+88. `21/01/2022` [Free Postgres databases for small projects](https://news.ycombinator.com/item?id=30018197)
 
-89. `14/01/2022` [Show HN: RootMy.TV](https://news.ycombinator.com/item?id=29938520)
+89. `17/01/2022` [Containerize Go and SQLite with Docker](https://news.ycombinator.com/item?id=29972655)
 
-90. `14/01/2022` [Simple.css &#x2013; A classless CSS framework](https://news.ycombinator.com/item?id=29929438)
+90. `17/01/2022` [Jodd &#x2013; The Unbearable Lightness of Java](https://news.ycombinator.com/item?id=29971182)
 
-91. `11/01/2022` [Launch HN: Clover (YC S20) &#x2013; Notes, whiteboarding, and daily planner in one tool](https://news.ycombinator.com/item?id=29892134)
+91. `17/01/2022` [Show HN: MdSilo &#x2013; A knowledge silo that runs in your web browser](https://news.ycombinator.com/item?id=29969757)
 
-92. `06/01/2022` [Optimizing Docker image size and why it matters](https://news.ycombinator.com/item?id=29828386)
+92. `14/01/2022` [Show HN: RootMy.TV](https://news.ycombinator.com/item?id=29938520)
 
-93. `06/01/2022` [JPEG: Image Compression Algorithm (2017)](https://news.ycombinator.com/item?id=29821687)
+93. `14/01/2022` [Simple.css &#x2013; A classless CSS framework](https://news.ycombinator.com/item?id=29929438)
 
-94. `03/01/2022` [Compiling a Go program into a native binary for Nintendo Switch](https://news.ycombinator.com/item?id=29780739)
+94. `11/01/2022` [Launch HN: Clover (YC S20) &#x2013; Notes, whiteboarding, and daily planner in one tool](https://news.ycombinator.com/item?id=29892134)
 
-95. `02/01/2022` [Zotero: Free, easy-to-use tool to collect, organize, cite, and share research](https://news.ycombinator.com/item?id=29774097)
+95. `06/01/2022` [Optimizing Docker image size and why it matters](https://news.ycombinator.com/item?id=29828386)
 
-96. `01/01/2022` [Haxor News: Hacker News in the terminal](https://news.ycombinator.com/item?id=29759204)
+96. `06/01/2022` [JPEG: Image Compression Algorithm (2017)](https://news.ycombinator.com/item?id=29821687)
 
-97. `30/12/2021` [A fast SQLite PWA notebook for CSV files](https://news.ycombinator.com/item?id=29735392)
+97. `03/01/2022` [Compiling a Go program into a native binary for Nintendo Switch](https://news.ycombinator.com/item?id=29780739)
 
-98. `28/12/2021` [Show HN: A tool to send push notifications to your phone, written in Go](https://news.ycombinator.com/item?id=29715464)
+98. `02/01/2022` [Zotero: Free, easy-to-use tool to collect, organize, cite, and share research](https://news.ycombinator.com/item?id=29774097)
 
-99. `17/12/2021` [YouTube-dl&apos;s first release since June 2021](https://news.ycombinator.com/item?id=29590501)
+99. `01/01/2022` [Haxor News: Hacker News in the terminal](https://news.ycombinator.com/item?id=29759204)
 
-100. `16/12/2021` [Ask HN: Are most of us developers lying about how much work we do?](https://news.ycombinator.com/item?id=29581125)
+100. `30/12/2021` [A fast SQLite PWA notebook for CSV files](https://news.ycombinator.com/item?id=29735392)
 
-101. `15/12/2021` [Pico CSS Framework](https://news.ycombinator.com/item?id=29559961)
+101. `28/12/2021` [Show HN: A tool to send push notifications to your phone, written in Go](https://news.ycombinator.com/item?id=29715464)
 
-102. `12/12/2021` [Hammerspoon &#x2013; Lua-based powerful tool automation of macOS](https://news.ycombinator.com/item?id=29533495)
+102. `17/12/2021` [YouTube-dl&apos;s first release since June 2021](https://news.ycombinator.com/item?id=29590501)
 
-103. `04/12/2021` [Apache Guacamole](https://news.ycombinator.com/item?id=29442643)
+103. `16/12/2021` [Ask HN: Are most of us developers lying about how much work we do?](https://news.ycombinator.com/item?id=29581125)
 
-104. `01/12/2021` [Show HN: Neko &#x2013; Self hosted virtual browser that runs in Docker and uses WebRTC](https://news.ycombinator.com/item?id=29406112)
+104. `15/12/2021` [Pico CSS Framework](https://news.ycombinator.com/item?id=29559961)
 
-105. `01/12/2021` [Supabase open sourced their dashboard](https://news.ycombinator.com/item?id=29401589)
+105. `12/12/2021` [Hammerspoon &#x2013; Lua-based powerful tool automation of macOS](https://news.ycombinator.com/item?id=29533495)
 
-106. `01/12/2021` [Lazydocker: The lazier way to manage everything Docker](https://news.ycombinator.com/item?id=29400741)
+106. `04/12/2021` [Apache Guacamole](https://news.ycombinator.com/item?id=29442643)
 
-107. `30/11/2021` [An Illustrated Guide to Elliptic Curve Cryptography Validation](https://news.ycombinator.com/item?id=29397243)
+107. `01/12/2021` [Show HN: Neko &#x2013; Self hosted virtual browser that runs in Docker and uses WebRTC](https://news.ycombinator.com/item?id=29406112)
 
-108. `30/11/2021` [Lazygit: A simple terminal UI for Git commands](https://news.ycombinator.com/item?id=29394162)
+108. `01/12/2021` [Supabase open sourced their dashboard](https://news.ycombinator.com/item?id=29401589)
 
-109. `30/11/2021` [4x Smaller, 50x Faster](https://news.ycombinator.com/item?id=29387761)
+109. `01/12/2021` [Lazydocker: The lazier way to manage everything Docker](https://news.ycombinator.com/item?id=29400741)
 
-110. `29/11/2021` [Ask HN: Are there any 4K &#x201C;dumb&#x201D; televisions?](https://news.ycombinator.com/item?id=29382643)
+110. `30/11/2021` [An Illustrated Guide to Elliptic Curve Cryptography Validation](https://news.ycombinator.com/item?id=29397243)
 
-111. `29/11/2021` [Fleet, a Lightweight IDE from JetBrains](https://news.ycombinator.com/item?id=29377515)
+111. `30/11/2021` [Lazygit: A simple terminal UI for Git commands](https://news.ycombinator.com/item?id=29394162)
 
-112. `29/11/2021` [Free SVG images and icons, released under Creative Commons CC0](https://news.ycombinator.com/item?id=29376832)
+112. `30/11/2021` [4x Smaller, 50x Faster](https://news.ycombinator.com/item?id=29387761)
 
-113. `27/11/2021` [Ask HN: Software Engineer hitting 40: what&apos;s next?](https://news.ycombinator.com/item?id=29360119)
+113. `29/11/2021` [Ask HN: Are there any 4K &#x201C;dumb&#x201D; televisions?](https://news.ycombinator.com/item?id=29382643)
 
-114. `27/11/2021` [Show HN: I made a movie recommendation app based on your mood](https://news.ycombinator.com/item?id=29359966)
+114. `29/11/2021` [Fleet, a Lightweight IDE from JetBrains](https://news.ycombinator.com/item?id=29377515)
 
-115. `27/11/2021` [The Entire History of Soviet Rocket Engines](https://news.ycombinator.com/item?id=29359038)
+115. `29/11/2021` [Free SVG images and icons, released under Creative Commons CC0](https://news.ycombinator.com/item?id=29376832)
 
-116. `26/11/2021` [Show HN: Randomly create beautiful website layouts](https://news.ycombinator.com/item?id=29349079)
+116. `27/11/2021` [Ask HN: Software Engineer hitting 40: what&apos;s next?](https://news.ycombinator.com/item?id=29360119)
 
-117. `25/11/2021` [OpenLGTV: Legal reverse engineering and research of LG TVs firmware](https://news.ycombinator.com/item?id=29338658)
+117. `27/11/2021` [Show HN: I made a movie recommendation app based on your mood](https://news.ycombinator.com/item?id=29359966)
 
-118. `24/11/2021` [My Custom CSS Reset](https://news.ycombinator.com/item?id=29330335)
+118. `27/11/2021` [The Entire History of Soviet Rocket Engines](https://news.ycombinator.com/item?id=29359038)
 
-119. `24/11/2021` [GC progress from JDK 8 to JDK 17](https://news.ycombinator.com/item?id=29330109)
+119. `26/11/2021` [Show HN: Randomly create beautiful website layouts](https://news.ycombinator.com/item?id=29349079)
 
-120. `23/11/2021` [An engineer&apos;s observations on Web3 and its possibilities](https://news.ycombinator.com/item?id=29321987)
+120. `25/11/2021` [OpenLGTV: Legal reverse engineering and research of LG TVs firmware](https://news.ycombinator.com/item?id=29338658)
 
-121. `18/11/2021` [Tldraw &#x2013; a tiny little drawing app](https://news.ycombinator.com/item?id=29261733)
+121. `24/11/2021` [My Custom CSS Reset](https://news.ycombinator.com/item?id=29330335)
 
-122. `17/11/2021` [Show HN: I made a Chrome extension that can automate any website](https://news.ycombinator.com/item?id=29254147)
+122. `24/11/2021` [GC progress from JDK 8 to JDK 17](https://news.ycombinator.com/item?id=29330109)
 
-123. `14/11/2021` [Show HN: Windows 2000 on Docker](https://news.ycombinator.com/item?id=29217622)
+123. `23/11/2021` [An engineer&apos;s observations on Web3 and its possibilities](https://news.ycombinator.com/item?id=29321987)
 
-124. `13/11/2021` [Project Euler](https://news.ycombinator.com/item?id=29211532)
+124. `18/11/2021` [Tldraw &#x2013; a tiny little drawing app](https://news.ycombinator.com/item?id=29261733)
 
-125. `13/11/2021` [Restic &#x2013; Backups Done Right](https://news.ycombinator.com/item?id=29209455)
+125. `17/11/2021` [Show HN: I made a Chrome extension that can automate any website](https://news.ycombinator.com/item?id=29254147)
 
-126. `13/11/2021` [Sign arbitrary data with your SSH keys](https://news.ycombinator.com/item?id=29208518)
+126. `14/11/2021` [Show HN: Windows 2000 on Docker](https://news.ycombinator.com/item?id=29217622)
 
-127. `12/11/2021` [Useful sed scripts and patterns](https://news.ycombinator.com/item?id=29196221)
+127. `13/11/2021` [Project Euler](https://news.ycombinator.com/item?id=29211532)
 
-128. `11/11/2021` [3D printed mirror array](https://news.ycombinator.com/item?id=29191918)
+128. `13/11/2021` [Restic &#x2013; Backups Done Right](https://news.ycombinator.com/item?id=29209455)
 
-129. `10/11/2021` [Rows.com &#x2013; Spreadsheet that supports external API integration and collaboration](https://news.ycombinator.com/item?id=29171490)
+129. `13/11/2021` [Sign arbitrary data with your SSH keys](https://news.ycombinator.com/item?id=29208518)
 
-130. `10/11/2021` [Using Flutter to build a native-looking desktop app for macOS and Windows](https://news.ycombinator.com/item?id=29170955)
+130. `12/11/2021` [Useful sed scripts and patterns](https://news.ycombinator.com/item?id=29196221)
 
-131. `09/11/2021` [AnimeGANv2: Convert Face Portraits into Anime](https://news.ycombinator.com/item?id=29162248)
+131. `11/11/2021` [3D printed mirror array](https://news.ycombinator.com/item?id=29191918)
 
-132. `09/11/2021` [Show HN: I built a no-BS recipe search engine](https://news.ycombinator.com/item?id=29161585)
+132. `10/11/2021` [Rows.com &#x2013; Spreadsheet that supports external API integration and collaboration](https://news.ycombinator.com/item?id=29171490)
 
-133. `09/11/2021` [WSL2 can now mount Linux ext4 disks directly](https://news.ycombinator.com/item?id=29159990)
+133. `10/11/2021` [Using Flutter to build a native-looking desktop app for macOS and Windows](https://news.ycombinator.com/item?id=29170955)
 
-134. `09/11/2021` [Making an old USB printer support Apple AirPrint using a Raspberry Pi](https://news.ycombinator.com/item?id=29156529)
+134. `09/11/2021` [AnimeGANv2: Convert Face Portraits into Anime](https://news.ycombinator.com/item?id=29162248)
 
-135. `08/11/2021` [Library Genesis Desktop app, now with IPFS support](https://news.ycombinator.com/item?id=29149152)
+135. `09/11/2021` [Show HN: I built a no-BS recipe search engine](https://news.ycombinator.com/item?id=29161585)
 
-136. `07/11/2021` [How does a game engine work? an overview (2016)](https://news.ycombinator.com/item?id=29136429)
+136. `09/11/2021` [WSL2 can now mount Linux ext4 disks directly](https://news.ycombinator.com/item?id=29159990)
 
-137. `06/11/2021` [Big Tech Coding Interview Framework &#x2013; Pt 1. Inspect](https://news.ycombinator.com/item?id=29132196)
+137. `09/11/2021` [Making an old USB printer support Apple AirPrint using a Raspberry Pi](https://news.ycombinator.com/item?id=29156529)
 
-138. `04/11/2021` [Why is Excalidraw so good?](https://news.ycombinator.com/item?id=29109995)
+138. `08/11/2021` [Library Genesis Desktop app, now with IPFS support](https://news.ycombinator.com/item?id=29149152)
 
-139. `04/11/2021` [Show HN: Initiative.sh, an in-browser command line for D&amp;D](https://news.ycombinator.com/item?id=29106581)
+139. `07/11/2021` [How does a game engine work? an overview (2016)](https://news.ycombinator.com/item?id=29136429)
 
-140. `03/11/2021` [Luau goes open-source](https://news.ycombinator.com/item?id=29097692)
+140. `06/11/2021` [Big Tech Coding Interview Framework &#x2013; Pt 1. Inspect](https://news.ycombinator.com/item?id=29132196)
 
-141. `02/11/2021` [Curves and Surfaces](https://news.ycombinator.com/item?id=29083349)
+141. `04/11/2021` [Why is Excalidraw so good?](https://news.ycombinator.com/item?id=29109995)
 
-142. `02/11/2021` [DevUtils: Offline Toolbox for Developers](https://news.ycombinator.com/item?id=29077933)
+142. `04/11/2021` [Show HN: Initiative.sh, an in-browser command line for D&amp;D](https://news.ycombinator.com/item?id=29106581)
 
-143. `01/11/2021` [A cross platform front-end GUI of the popular YouTube-dl written in wxPython](https://news.ycombinator.com/item?id=29063836)
+143. `03/11/2021` [Luau goes open-source](https://news.ycombinator.com/item?id=29097692)
 
-144. `31/10/2021` [A developer&apos;s guide to programatically overcome fear of failure](https://news.ycombinator.com/item?id=29056215)
+144. `02/11/2021` [Curves and Surfaces](https://news.ycombinator.com/item?id=29083349)
 
-145. `31/10/2021` [Get started making music](https://news.ycombinator.com/item?id=29055433)
+145. `02/11/2021` [DevUtils: Offline Toolbox for Developers](https://news.ycombinator.com/item?id=29077933)
 
-146. `31/10/2021` [Curated list of userscripts](https://news.ycombinator.com/item?id=29054673)
+146. `01/11/2021` [A cross platform front-end GUI of the popular YouTube-dl written in wxPython](https://news.ycombinator.com/item?id=29063836)
 
-147. `30/10/2021` [Fundamentals of Piano Practice](https://news.ycombinator.com/item?id=29052747)
+147. `31/10/2021` [A developer&apos;s guide to programatically overcome fear of failure](https://news.ycombinator.com/item?id=29056215)
 
-148. `29/10/2021` [Publish your PWA to the iOS App Store](https://news.ycombinator.com/item?id=29040793)
+148. `31/10/2021` [Get started making music](https://news.ycombinator.com/item?id=29055433)
 
-149. `29/10/2021` [Meow Hash (2018)](https://news.ycombinator.com/item?id=29038813)
+149. `31/10/2021` [Curated list of userscripts](https://news.ycombinator.com/item?id=29054673)
 
-150. `28/10/2021` [55 GiB/s FizzBuzz](https://news.ycombinator.com/item?id=29031488)
+150. `30/10/2021` [Fundamentals of Piano Practice](https://news.ycombinator.com/item?id=29052747)
 
-151. `28/10/2021` [Computer-1 mini-ITX Chassis](https://news.ycombinator.com/item?id=29027328)
+151. `29/10/2021` [Publish your PWA to the iOS App Store](https://news.ycombinator.com/item?id=29040793)
 
-152. `28/10/2021` [I was rejected by Codecademy three times, so I built my own](https://news.ycombinator.com/item?id=29025401)
+152. `29/10/2021` [Meow Hash (2018)](https://news.ycombinator.com/item?id=29038813)
 
-153. `28/10/2021` [Software Architecture Patterns: 5 minute read](https://news.ycombinator.com/item?id=29024767)
+153. `28/10/2021` [55 GiB/s FizzBuzz](https://news.ycombinator.com/item?id=29031488)
 
-154. `28/10/2021` [First Impressions with the Raspberry Pi Zero 2 W](https://news.ycombinator.com/item?id=29024702)
+154. `28/10/2021` [Computer-1 mini-ITX Chassis](https://news.ycombinator.com/item?id=29027328)
 
-155. `28/10/2021` [Blender 3.x roadmap](https://news.ycombinator.com/item?id=29024572)
+155. `28/10/2021` [I was rejected by Codecademy three times, so I built my own](https://news.ycombinator.com/item?id=29025401)
 
-156. `28/10/2021` [Project Gutenberg is no longer fully blocked in Germany](https://news.ycombinator.com/item?id=29024039)
+156. `28/10/2021` [Software Architecture Patterns: 5 minute read](https://news.ycombinator.com/item?id=29024767)
 
-157. `28/10/2021` [Open secrets about Hacker News](https://news.ycombinator.com/item?id=29024032)
+157. `28/10/2021` [First Impressions with the Raspberry Pi Zero 2 W](https://news.ycombinator.com/item?id=29024702)
 
-158. `28/10/2021` [A comprehensive guide to go generate](https://news.ycombinator.com/item?id=29023981)
+158. `28/10/2021` [Blender 3.x roadmap](https://news.ycombinator.com/item?id=29024572)
 
-159. `28/10/2021` [Raspberry Pi Zero 2 W](https://news.ycombinator.com/item?id=29022887)
+159. `28/10/2021` [Project Gutenberg is no longer fully blocked in Germany](https://news.ycombinator.com/item?id=29024039)
 
-160. `27/10/2021` [I made my own garum](https://news.ycombinator.com/item?id=29011872)
+160. `28/10/2021` [Open secrets about Hacker News](https://news.ycombinator.com/item?id=29024032)
 
-161. `27/10/2021` [Show HN: Coding Font &#x2013; A game to find your favorite coding font](https://news.ycombinator.com/item?id=29010443)
+161. `28/10/2021` [A comprehensive guide to go generate](https://news.ycombinator.com/item?id=29023981)
 
-162. `27/10/2021` [Go 1.18 will embed source version information into binaries](https://news.ycombinator.com/item?id=29008811)
+162. `28/10/2021` [Raspberry Pi Zero 2 W](https://news.ycombinator.com/item?id=29022887)
 
-163. `26/10/2021` [Show HN: CookLang &#x2013; Recipe Markup Language](https://news.ycombinator.com/item?id=28997309)
+163. `27/10/2021` [I made my own garum](https://news.ycombinator.com/item?id=29011872)
 
-164. `26/10/2021` [Offline-First Database Comparison](https://news.ycombinator.com/item?id=28995268)
+164. `27/10/2021` [Show HN: Coding Font &#x2013; A game to find your favorite coding font](https://news.ycombinator.com/item?id=29010443)
 
-165. `25/10/2021` [PiBox Mini &#x2013; Modular Raspberry Pi Storage Server](https://news.ycombinator.com/item?id=28992873)
+165. `27/10/2021` [Go 1.18 will embed source version information into binaries](https://news.ycombinator.com/item?id=29008811)
 
-166. `24/10/2021` [New language features since Java 8 to 17](https://news.ycombinator.com/item?id=28979048)
+166. `26/10/2021` [Show HN: CookLang &#x2013; Recipe Markup Language](https://news.ycombinator.com/item?id=28997309)
 
-167. `23/10/2021` [Tinysheet](https://news.ycombinator.com/item?id=28967514)
+167. `26/10/2021` [Offline-First Database Comparison](https://news.ycombinator.com/item?id=28995268)
 
-168. `20/10/2021` [Vscode.dev](https://news.ycombinator.com/item?id=28932206)
+168. `25/10/2021` [PiBox Mini &#x2013; Modular Raspberry Pi Storage Server](https://news.ycombinator.com/item?id=28992873)
 
-169. `19/10/2021` [Overly analytical guide to escorting](https://news.ycombinator.com/item?id=28924751)
+169. `24/10/2021` [New language features since Java 8 to 17](https://news.ycombinator.com/item?id=28979048)
 
-170. `19/10/2021` [A Graduate Course in Applied Cryptography](https://news.ycombinator.com/item?id=28918554)
+170. `23/10/2021` [Tinysheet](https://news.ycombinator.com/item?id=28967514)
 
-171. `19/10/2021` [Raspberry Pi Build HAT &#x2013; Controls Lego Technic motors and sensors](https://news.ycombinator.com/item?id=28915544)
+171. `20/10/2021` [Vscode.dev](https://news.ycombinator.com/item?id=28932206)
 
-172. `17/10/2021` [Web Browser Engineering](https://news.ycombinator.com/item?id=28898157)
+172. `19/10/2021` [Overly analytical guide to escorting](https://news.ycombinator.com/item?id=28924751)
 
-173. `17/10/2021` [Techmap: Find companies using technologies you love](https://news.ycombinator.com/item?id=28897492)
+173. `19/10/2021` [A Graduate Course in Applied Cryptography](https://news.ycombinator.com/item?id=28918554)
 
-174. `17/10/2021` [The Food Timeline](https://news.ycombinator.com/item?id=28893605)
+174. `19/10/2021` [Raspberry Pi Build HAT &#x2013; Controls Lego Technic motors and sensors](https://news.ycombinator.com/item?id=28915544)
 
-175. `16/10/2021` [Amazon Corretto JDK](https://news.ycombinator.com/item?id=28892031)
+175. `17/10/2021` [Web Browser Engineering](https://news.ycombinator.com/item?id=28898157)
 
-176. `16/10/2021` [Git Command Explorer](https://news.ycombinator.com/item?id=28888763)
+176. `17/10/2021` [Techmap: Find companies using technologies you love](https://news.ycombinator.com/item?id=28897492)
 
-177. `15/10/2021` [Create and share images of your source code](https://news.ycombinator.com/item?id=28874123)
+177. `17/10/2021` [The Food Timeline](https://news.ycombinator.com/item?id=28893605)
 
-178. `15/10/2021` [Remote OK Open Startup](https://news.ycombinator.com/item?id=28873956)
+178. `16/10/2021` [Amazon Corretto JDK](https://news.ycombinator.com/item?id=28892031)
 
-179. `14/10/2021` [Hands-On Rust: Effective Learning Through 2D Game Development and Play](https://news.ycombinator.com/item?id=28861618)
+179. `16/10/2021` [Git Command Explorer](https://news.ycombinator.com/item?id=28888763)
 
-180. `14/10/2021` [Esbuild &#x2013; An extremely fast JavaScript bundler](https://news.ycombinator.com/item?id=28860713)
+180. `15/10/2021` [Create and share images of your source code](https://news.ycombinator.com/item?id=28874123)
 
-181. `14/10/2021` [Syncthing &#x2013; a continuous file synchronization program](https://news.ycombinator.com/item?id=28859521)
+181. `15/10/2021` [Remote OK Open Startup](https://news.ycombinator.com/item?id=28873956)
 
-182. `12/10/2021` [Ask HN: Solo-preneurs, how do you DevOps to save time?](https://news.ycombinator.com/item?id=28838132)
+182. `14/10/2021` [Hands-On Rust: Effective Learning Through 2D Game Development and Play](https://news.ycombinator.com/item?id=28861618)
 
-183. `12/10/2021` [Rancher Desktop, a Docker Desktop Replacement](https://news.ycombinator.com/item?id=28835690)
+183. `14/10/2021` [Esbuild &#x2013; An extremely fast JavaScript bundler](https://news.ycombinator.com/item?id=28860713)
 
-184. `10/10/2021` [Which version of JDK should I use?](https://news.ycombinator.com/item?id=28820601)
+184. `14/10/2021` [Syncthing &#x2013; a continuous file synchronization program](https://news.ycombinator.com/item?id=28859521)
 
-185. `10/10/2021` [Localstack &#x2013; Local AWS Emulator](https://news.ycombinator.com/item?id=28820012)
+185. `12/10/2021` [Ask HN: Solo-preneurs, how do you DevOps to save time?](https://news.ycombinator.com/item?id=28838132)
 
-186. `08/10/2021` [Super Mario 64 has been ported to iOS](https://news.ycombinator.com/item?id=28801507)
+186. `12/10/2021` [Rancher Desktop, a Docker Desktop Replacement](https://news.ycombinator.com/item?id=28835690)
 
-187. `08/10/2021` [Orion is a new WebKit-based browser for Mac](https://news.ycombinator.com/item?id=28799049)
+187. `10/10/2021` [Which version of JDK should I use?](https://news.ycombinator.com/item?id=28820601)
 
-188. `08/10/2021` [GPU.js](https://news.ycombinator.com/item?id=28797182)
+188. `10/10/2021` [Localstack &#x2013; Local AWS Emulator](https://news.ycombinator.com/item?id=28820012)
 
-189. `08/10/2021` [Hugo Themes ranked by GitHub Stars](https://news.ycombinator.com/item?id=28795478)
+189. `08/10/2021` [Super Mario 64 has been ported to iOS](https://news.ycombinator.com/item?id=28801507)
 
-190. `06/10/2021` [Terraform vs. AWS CloudFormation](https://news.ycombinator.com/item?id=28777997)
+190. `08/10/2021` [Orion is a new WebKit-based browser for Mac](https://news.ycombinator.com/item?id=28799049)
 
-191. `03/10/2021` [E-Ink Magic Calendar that runs off a battery powered Raspberry Pi](https://news.ycombinator.com/item?id=28740452)
+191. `08/10/2021` [GPU.js](https://news.ycombinator.com/item?id=28797182)
 
-192. `03/10/2021` [Effective Go](https://news.ycombinator.com/item?id=28735620)
+192. `08/10/2021` [Hugo Themes ranked by GitHub Stars](https://news.ycombinator.com/item?id=28795478)
 
-193. `01/10/2021` [DNS Record Types](https://news.ycombinator.com/item?id=28714667)
+193. `06/10/2021` [Terraform vs. AWS CloudFormation](https://news.ycombinator.com/item?id=28777997)
 
-194. `30/09/2021` [Show HN: Hacker News client with a twist](https://news.ycombinator.com/item?id=28704873)
+194. `03/10/2021` [E-Ink Magic Calendar that runs off a battery powered Raspberry Pi](https://news.ycombinator.com/item?id=28740452)
 
-195. `29/09/2021` [Mosquitto: An open-source MQTT broker](https://news.ycombinator.com/item?id=28695346)
+195. `03/10/2021` [Effective Go](https://news.ycombinator.com/item?id=28735620)
 
-196. `07/05/2021` [Crossbar.io &#x2013; an open source platform for distributed and microservice apps](https://news.ycombinator.com/item?id=27078792)
+196. `01/10/2021` [DNS Record Types](https://news.ycombinator.com/item?id=28714667)
 
-197. `03/07/2020` [Show HN: The Book of Minecraft Modding](https://news.ycombinator.com/item?id=23723058)
+197. `30/09/2021` [Show HN: Hacker News client with a twist](https://news.ycombinator.com/item?id=28704873)
 
-198. `01/07/2020` [Raspberry Pi 4 PCIe bridge &#x201C;chip&#x201D;](https://news.ycombinator.com/item?id=23701208)
+198. `29/09/2021` [Mosquitto: An open-source MQTT broker](https://news.ycombinator.com/item?id=28695346)
 
-199. `31/05/2020` [Basic Intro to Elliptic Curve Cryptography (2019)](https://news.ycombinator.com/item?id=23370009)
+199. `07/05/2021` [Crossbar.io &#x2013; an open source platform for distributed and microservice apps](https://news.ycombinator.com/item?id=27078792)
 
-200. `30/05/2020` [Show HN: `fzf` * `Git` done right](https://news.ycombinator.com/item?id=23363767)
+200. `03/07/2020` [Show HN: The Book of Minecraft Modding](https://news.ycombinator.com/item?id=23723058)
 
-201. `27/05/2020` [Show HN: Obsidian &#x2013; A knowledge base that works on local Markdown files](https://news.ycombinator.com/item?id=23324598)
+201. `01/07/2020` [Raspberry Pi 4 PCIe bridge &#x201C;chip&#x201D;](https://news.ycombinator.com/item?id=23701208)
 
-202. `27/05/2020` [Diving into Go by building a CLI application](https://news.ycombinator.com/item?id=23318137)
+202. `31/05/2020` [Basic Intro to Elliptic Curve Cryptography (2019)](https://news.ycombinator.com/item?id=23370009)
 
-203. `26/05/2020` [AWS services explained in one line each](https://news.ycombinator.com/item?id=23309269)
+203. `30/05/2020` [Show HN: `fzf` * `Git` done right](https://news.ycombinator.com/item?id=23363767)
 
-204. `22/05/2020` [Ask HN: What startup/technology is on your &apos;to watch&apos; list?](https://news.ycombinator.com/item?id=23276456)
+204. `27/05/2020` [Show HN: Obsidian &#x2013; A knowledge base that works on local Markdown files](https://news.ycombinator.com/item?id=23324598)
 
-205. `22/05/2020` [Show HN: Create a custom macOS app from a group of websites](https://news.ycombinator.com/item?id=23275080)
+205. `27/05/2020` [Diving into Go by building a CLI application](https://news.ycombinator.com/item?id=23318137)
 
-206. `20/05/2020` [Unofficial APIs](https://news.ycombinator.com/item?id=23248980)
+206. `26/05/2020` [AWS services explained in one line each](https://news.ycombinator.com/item?id=23309269)
 
-207. `18/05/2020` [Grafana 7.0](https://news.ycombinator.com/item?id=23227287)
+207. `22/05/2020` [Ask HN: What startup/technology is on your &apos;to watch&apos; list?](https://news.ycombinator.com/item?id=23276456)
 
-208. `16/05/2020` [Show HN: XP.css &#x2013; Windows XP CSS file and framework for building GUIs](https://news.ycombinator.com/item?id=23205579)
+208. `22/05/2020` [Show HN: Create a custom macOS app from a group of websites](https://news.ycombinator.com/item?id=23275080)
 
-209. `16/05/2020` [Game Programming Patterns (2014)](https://news.ycombinator.com/item?id=23203699)
+209. `20/05/2020` [Unofficial APIs](https://news.ycombinator.com/item?id=23248980)
 
-210. `12/05/2020` [In Praise of AutoHotKey](https://news.ycombinator.com/item?id=23156060)
+210. `18/05/2020` [Grafana 7.0](https://news.ycombinator.com/item?id=23227287)
 
-211. `12/05/2020` [A 2020 Vision of Linear Algebra](https://news.ycombinator.com/item?id=23150699)
+211. `16/05/2020` [Show HN: XP.css &#x2013; Windows XP CSS file and framework for building GUIs](https://news.ycombinator.com/item?id=23205579)
 
-212. `11/05/2020` [Create Diagrams in VS Code with Draw.io](https://news.ycombinator.com/item?id=23138507)
+212. `16/05/2020` [Game Programming Patterns (2014)](https://news.ycombinator.com/item?id=23203699)
 
-213. `06/05/2020` [Dissecting an SSL Certificate (2017)](https://news.ycombinator.com/item?id=23096166)
+213. `12/05/2020` [In Praise of AutoHotKey](https://news.ycombinator.com/item?id=23156060)
 
-214. `06/05/2020` [Buttplug: An open-source software suite for teledildonics](https://news.ycombinator.com/item?id=23094477)
+214. `12/05/2020` [A 2020 Vision of Linear Algebra](https://news.ycombinator.com/item?id=23150699)
 
-215. `06/05/2020` [GitHub Codespaces](https://news.ycombinator.com/item?id=23092904)
+215. `11/05/2020` [Create Diagrams in VS Code with Draw.io](https://news.ycombinator.com/item?id=23138507)
 
-216. `05/05/2020` [Nintendo has reportedly suffered a significant legacy console leak](https://news.ycombinator.com/item?id=23078078)
+216. `06/05/2020` [Dissecting an SSL Certificate (2017)](https://news.ycombinator.com/item?id=23096166)
 
-217. `04/05/2020` [Sonic Pi is a code-based music creation and performance tool](https://news.ycombinator.com/item?id=23066922)
+217. `06/05/2020` [Buttplug: An open-source software suite for teledildonics](https://news.ycombinator.com/item?id=23094477)
 
-218. `02/05/2020` [Witchcraft and Wizardry &#x2013; RPG game created in Minecraft](https://news.ycombinator.com/item?id=23051053)
+218. `06/05/2020` [GitHub Codespaces](https://news.ycombinator.com/item?id=23092904)
 
-219. `30/04/2020` [A Mathematical Theory of Communication (1948) [pdf]](https://news.ycombinator.com/item?id=23035107)
+219. `05/05/2020` [Nintendo has reportedly suffered a significant legacy console leak](https://news.ycombinator.com/item?id=23078078)
 
-220. `29/04/2020` [Hacking Together an E-ink Dashboard](https://news.ycombinator.com/item?id=23022940)
+220. `04/05/2020` [Sonic Pi is a code-based music creation and performance tool](https://news.ycombinator.com/item?id=23066922)
 
-221. `27/04/2020` [How to avoid Amazon: guide to online shopping](https://news.ycombinator.com/item?id=22997193)
+221. `02/05/2020` [Witchcraft and Wizardry &#x2013; RPG game created in Minecraft](https://news.ycombinator.com/item?id=23051053)
 
-222. `27/04/2020` [GitQlient &#x2013; a multi-platform GUI-oriented Git client written with Qt](https://news.ycombinator.com/item?id=22995682)
+222. `30/04/2020` [A Mathematical Theory of Communication (1948) [pdf]](https://news.ycombinator.com/item?id=23035107)
 
-223. `27/04/2020` [textfiles.com](https://news.ycombinator.com/item?id=22995008)
+223. `29/04/2020` [Hacking Together an E-ink Dashboard](https://news.ycombinator.com/item?id=23022940)
 
-224. `27/04/2020` [Lamest Edit Wars](https://news.ycombinator.com/item?id=22992544)
+224. `27/04/2020` [How to avoid Amazon: guide to online shopping](https://news.ycombinator.com/item?id=22997193)
 
-225. `25/04/2020` [Show HN: Free foreign exchange rates API](https://news.ycombinator.com/item?id=22979288)
+225. `27/04/2020` [GitQlient &#x2013; a multi-platform GUI-oriented Git client written with Qt](https://news.ycombinator.com/item?id=22995682)
 
-226. `21/04/2020` [98.css &#x2013; design system for building faithful recreations of Windows 98 UIs](https://news.ycombinator.com/item?id=22940564)
+226. `27/04/2020` [textfiles.com](https://news.ycombinator.com/item?id=22995008)
 
-227. `19/04/2020` [Show HN: A programmable tooltip on Mac OS](https://news.ycombinator.com/item?id=22919843)
+227. `27/04/2020` [Lamest Edit Wars](https://news.ycombinator.com/item?id=22992544)
 
-228. `19/04/2020` [OpenCore: Hackintosh Alternative to Clover](https://news.ycombinator.com/item?id=22916281)
+228. `25/04/2020` [Show HN: Free foreign exchange rates API](https://news.ycombinator.com/item?id=22979288)
 
-229. `19/04/2020` [Hands-on Scala Programming](https://news.ycombinator.com/item?id=22914610)
+229. `21/04/2020` [98.css &#x2013; design system for building faithful recreations of Windows 98 UIs](https://news.ycombinator.com/item?id=22940564)
 
-230. `14/04/2020` [The Webpage, an online RSS reader and news aggregator, styled like a newspaper](https://news.ycombinator.com/item?id=22863536)
+230. `19/04/2020` [Show HN: A programmable tooltip on Mac OS](https://news.ycombinator.com/item?id=22919843)
 
-231. `10/04/2020` [E Ink smart screen puts a newspaper on your wall](https://news.ycombinator.com/item?id=22831323)
+231. `19/04/2020` [OpenCore: Hackintosh Alternative to Clover](https://news.ycombinator.com/item?id=22916281)
 
-232. `09/04/2020` [Ask HN: Has any progress been made on large format E-ink displays?](https://news.ycombinator.com/item?id=22827833)
+232. `19/04/2020` [Hands-on Scala Programming](https://news.ycombinator.com/item?id=22914610)
 
-233. `09/04/2020` [Ask HN: Recommend me a course on Coursera](https://news.ycombinator.com/item?id=22826722)
+233. `14/04/2020` [The Webpage, an online RSS reader and news aggregator, styled like a newspaper](https://news.ycombinator.com/item?id=22863536)
 
-234. `09/04/2020` [Open-Source Virtual Background](https://news.ycombinator.com/item?id=22823070)
+234. `10/04/2020` [E Ink smart screen puts a newspaper on your wall](https://news.ycombinator.com/item?id=22831323)
 
-235. `08/04/2020` [Show HN: Online Town &#x2013; A better way to gather online](https://news.ycombinator.com/item?id=22818300)
+235. `09/04/2020` [Ask HN: Has any progress been made on large format E-ink displays?](https://news.ycombinator.com/item?id=22827833)
 
-236. `05/04/2020` [Ask HN: What are you learning?](https://news.ycombinator.com/item?id=22786287)
+236. `09/04/2020` [Ask HN: Recommend me a course on Coursera](https://news.ycombinator.com/item?id=22826722)
 
-237. `03/04/2020` [Show HN: 2D Tilemap on Top of Jitsi Meet](https://news.ycombinator.com/item?id=22772800)
+237. `09/04/2020` [Open-Source Virtual Background](https://news.ycombinator.com/item?id=22823070)
 
-238. `02/04/2020` [How to manage HTML DOM with vanilla JavaScript only?](https://news.ycombinator.com/item?id=22758218)
+238. `08/04/2020` [Show HN: Online Town &#x2013; A better way to gather online](https://news.ycombinator.com/item?id=22818300)
 
-239. `27/03/2020` [Mycroft &#x2013; An open-source voice assistant](https://news.ycombinator.com/item?id=22702195)
+239. `05/04/2020` [Ask HN: What are you learning?](https://news.ycombinator.com/item?id=22786287)
 
-240. `21/03/2020` [LibraryThing Is Now Free to All](https://news.ycombinator.com/item?id=22651120)
+240. `03/04/2020` [Show HN: 2D Tilemap on Top of Jitsi Meet](https://news.ycombinator.com/item?id=22772800)
 
-241. `21/03/2020` [Stock Jump &#x2013; a ski-jumping game with real stock data](https://news.ycombinator.com/item?id=22650351)
+241. `02/04/2020` [How to manage HTML DOM with vanilla JavaScript only?](https://news.ycombinator.com/item?id=22758218)
 
-242. `21/03/2020` [Grocy: web-based, self-hosted grocery and household management](https://news.ycombinator.com/item?id=22646358)
+242. `27/03/2020` [Mycroft &#x2013; An open-source voice assistant](https://news.ycombinator.com/item?id=22702195)
 
-243. `19/03/2020` [Things you can do with a browser in 2020](https://news.ycombinator.com/item?id=22630143)
+243. `21/03/2020` [LibraryThing Is Now Free to All](https://news.ycombinator.com/item?id=22651120)
 
-244. `19/03/2020` [UpNext &#x2013; an ePaper digital calendar for your desk](https://news.ycombinator.com/item?id=22628348)
+244. `21/03/2020` [Stock Jump &#x2013; a ski-jumping game with real stock data](https://news.ycombinator.com/item?id=22650351)
 
-245. `16/03/2020` [Outbreak &#x2013; playable simulations of a disease outbreak](https://news.ycombinator.com/item?id=22596158)
+245. `21/03/2020` [Grocy: web-based, self-hosted grocery and household management](https://news.ycombinator.com/item?id=22646358)
 
-246. `16/03/2020` [Concentrichron: A clock and calendar made of concentric rings](https://news.ycombinator.com/item?id=22591818)
+246. `19/03/2020` [Things you can do with a browser in 2020](https://news.ycombinator.com/item?id=22630143)
 
-247. `14/03/2020` [Show HN: Kosmi &#x2013; Hang out with friends and family online](https://news.ycombinator.com/item?id=22576940)
+247. `19/03/2020` [UpNext &#x2013; an ePaper digital calendar for your desk](https://news.ycombinator.com/item?id=22628348)
 
-248. `14/03/2020` [Ask HN: Non-cloud voice recognition for home use?](https://news.ycombinator.com/item?id=22576589)
+248. `16/03/2020` [Outbreak &#x2013; playable simulations of a disease outbreak](https://news.ycombinator.com/item?id=22596158)
 
-249. `14/03/2020` [Show HN: Simulation-based high school physics course notes](https://news.ycombinator.com/item?id=22574441)
+249. `16/03/2020` [Concentrichron: A clock and calendar made of concentric rings](https://news.ycombinator.com/item?id=22591818)
 
-250. `13/03/2020` [Linux Kernel Teaching](https://news.ycombinator.com/item?id=22564665)
+250. `14/03/2020` [Show HN: Kosmi &#x2013; Hang out with friends and family online](https://news.ycombinator.com/item?id=22576940)
 
-251. `10/03/2020` [Redwood: An integrated, full-stack, JavaScript web framework for the JAMstack](https://news.ycombinator.com/item?id=22537944)
+251. `14/03/2020` [Ask HN: Non-cloud voice recognition for home use?](https://news.ycombinator.com/item?id=22576589)
 
-252. `26/02/2020` [CouchDB 3.0](https://news.ycombinator.com/item?id=22425834)
+252. `14/03/2020` [Show HN: Simulation-based high school physics course notes](https://news.ycombinator.com/item?id=22574441)
 
-253. `24/02/2020` [Google interviewing process for software developer role in 2020](https://news.ycombinator.com/item?id=22405372)
+253. `13/03/2020` [Linux Kernel Teaching](https://news.ycombinator.com/item?id=22564665)
 
-254. `23/02/2020` [Mathematics for the Adventurous Self-Learner](https://news.ycombinator.com/item?id=22400375)
+254. `10/03/2020` [Redwood: An integrated, full-stack, JavaScript web framework for the JAMstack](https://news.ycombinator.com/item?id=22537944)
 
-255. `22/02/2020` [MusicKit JS](https://news.ycombinator.com/item?id=22392108)
+255. `26/02/2020` [CouchDB 3.0](https://news.ycombinator.com/item?id=22425834)
 
-256. `22/02/2020` [What Happened with Lego](https://news.ycombinator.com/item?id=22391648)
+256. `24/02/2020` [Google interviewing process for software developer role in 2020](https://news.ycombinator.com/item?id=22405372)
 
-257. `21/02/2020` [Show HN: MDAnki &#x2013; convert Markdown to Anki cards](https://news.ycombinator.com/item?id=22385408)
+257. `23/02/2020` [Mathematics for the Adventurous Self-Learner](https://news.ycombinator.com/item?id=22400375)
 
-258. `19/02/2020` [Reducing Docker Image Size](https://news.ycombinator.com/item?id=22369080)
+258. `22/02/2020` [MusicKit JS](https://news.ycombinator.com/item?id=22392108)
 
-259. `14/02/2020` [A Map of Mathematics](https://news.ycombinator.com/item?id=22328516)
+259. `22/02/2020` [What Happened with Lego](https://news.ycombinator.com/item?id=22391648)
 
-260. `14/02/2020` [Classification of the Principal Programming Paradigms (2009)](https://news.ycombinator.com/item?id=22325842)
+260. `21/02/2020` [Show HN: MDAnki &#x2013; convert Markdown to Anki cards](https://news.ycombinator.com/item?id=22385408)
 
-261. `13/02/2020` [Show HN: I published my first website &#x2013; ShellMagic.xyz](https://news.ycombinator.com/item?id=22318677)
+261. `19/02/2020` [Reducing Docker Image Size](https://news.ycombinator.com/item?id=22369080)
 
-262. `13/02/2020` [Usenet &#x2013; Let&apos;s Return to Public Spaces](https://news.ycombinator.com/item?id=22317234)
+262. `14/02/2020` [A Map of Mathematics](https://news.ycombinator.com/item?id=22328516)
 
-263. `12/02/2020` [Gears](https://news.ycombinator.com/item?id=22310813)
+263. `14/02/2020` [Classification of the Principal Programming Paradigms (2009)](https://news.ycombinator.com/item?id=22325842)
 
-264. `30/01/2020` [Sovereign: Ansible playbooks to build and maintain your own private cloud](https://news.ycombinator.com/item?id=22191416)
+264. `13/02/2020` [Show HN: I published my first website &#x2013; ShellMagic.xyz](https://news.ycombinator.com/item?id=22318677)
 
-265. `22/01/2020` [City Roads &#x2013; Draw all roads in a city at once](https://news.ycombinator.com/item?id=22120449)
+265. `13/02/2020` [Usenet &#x2013; Let&apos;s Return to Public Spaces](https://news.ycombinator.com/item?id=22317234)
 
-266. `20/01/2020` [Gamedev Tutorial: Dot Product, Rulers, and Bouncing Balls](https://news.ycombinator.com/item?id=22102016)
+266. `12/02/2020` [Gears](https://news.ycombinator.com/item?id=22310813)
 
-267. `12/01/2020` [Show HN: The best technology podcast episodes](https://news.ycombinator.com/item?id=22027177)
+267. `30/01/2020` [Sovereign: Ansible playbooks to build and maintain your own private cloud](https://news.ycombinator.com/item?id=22191416)
 
-268. `04/01/2020` [Building a BitTorrent client from the ground up in Go](https://news.ycombinator.com/item?id=21958359)
+268. `22/01/2020` [City Roads &#x2013; Draw all roads in a city at once](https://news.ycombinator.com/item?id=22120449)
 
-269. `04/01/2020` [JobFunnel, a job website search aggregator](https://news.ycombinator.com/item?id=21957177)
+269. `20/01/2020` [Gamedev Tutorial: Dot Product, Rulers, and Bouncing Balls](https://news.ycombinator.com/item?id=22102016)
 
-270. `03/01/2020` [Terrain rendering algorithm in less than 20 lines of code](https://news.ycombinator.com/item?id=21944573)
+270. `12/01/2020` [Show HN: The best technology podcast episodes](https://news.ycombinator.com/item?id=22027177)
 
-271. `31/12/2019` [Show HN: A tiny isometric city builder in JavaScript](https://news.ycombinator.com/item?id=21923940)
+271. `04/01/2020` [Building a BitTorrent client from the ground up in Go](https://news.ycombinator.com/item?id=21958359)
 
-272. `29/12/2019` [Computer Science from the Bottom Up (2016)](https://news.ycombinator.com/item?id=21903007)
+272. `04/01/2020` [JobFunnel, a job website search aggregator](https://news.ycombinator.com/item?id=21957177)
 
-273. `22/12/2019` [UnDraw: Open-source illustrations for every project you can imagine and create](https://news.ycombinator.com/item?id=21858822)
+273. `03/01/2020` [Terrain rendering algorithm in less than 20 lines of code](https://news.ycombinator.com/item?id=21944573)
 
-274. `20/12/2019` [Tesseract.js: Pure JavaScript OCR for 100 Languages](https://news.ycombinator.com/item?id=21843713)
+274. `31/12/2019` [Show HN: A tiny isometric city builder in JavaScript](https://news.ycombinator.com/item?id=21923940)
 
-275. `18/12/2019` [Ask HN: How Can I Learn Music Theory?](https://news.ycombinator.com/item?id=21822225)
+275. `29/12/2019` [Computer Science from the Bottom Up (2016)](https://news.ycombinator.com/item?id=21903007)
 
-276. `16/12/2019` [Hammerspoon &#x2013; macOS automation with Lua](https://news.ycombinator.com/item?id=21801178)
+276. `22/12/2019` [UnDraw: Open-source illustrations for every project you can imagine and create](https://news.ycombinator.com/item?id=21858822)
 
-277. `14/12/2019` [Challenging projects every programmer should try](https://news.ycombinator.com/item?id=21790779)
+277. `20/12/2019` [Tesseract.js: Pure JavaScript OCR for 100 Languages](https://news.ycombinator.com/item?id=21843713)
 
-278. `13/12/2019` [Ask HN: What&apos;s the current sentiment on JWT for stateless auth tokens?](https://news.ycombinator.com/item?id=21783303)
+278. `18/12/2019` [Ask HN: How Can I Learn Music Theory?](https://news.ycombinator.com/item?id=21822225)
 
-279. `12/12/2019` [Thinking in React Hooks](https://news.ycombinator.com/item?id=21772038)
+279. `16/12/2019` [Hammerspoon &#x2013; macOS automation with Lua](https://news.ycombinator.com/item?id=21801178)
 
-280. `12/12/2019` [Music for Programming (2011)](https://news.ycombinator.com/item?id=21771600)
+280. `14/12/2019` [Challenging projects every programmer should try](https://news.ycombinator.com/item?id=21790779)
 
-281. `12/12/2019` [Switch to OpenStreetMap](https://news.ycombinator.com/item?id=21770951)
+281. `13/12/2019` [Ask HN: What&apos;s the current sentiment on JWT for stateless auth tokens?](https://news.ycombinator.com/item?id=21783303)
 
-282. `10/12/2019` [Docker-slim: Minify your Docker container image without changing anything](https://news.ycombinator.com/item?id=21755871)
+282. `12/12/2019` [Thinking in React Hooks](https://news.ycombinator.com/item?id=21772038)
 
-283. `10/12/2019` [OpenLayers](https://news.ycombinator.com/item?id=21754642)
+283. `12/12/2019` [Music for Programming (2011)](https://news.ycombinator.com/item?id=21771600)
 
-284. `09/12/2019` [Science Books of 2019](https://news.ycombinator.com/item?id=21744772)
+284. `12/12/2019` [Switch to OpenStreetMap](https://news.ycombinator.com/item?id=21770951)
 
-285. `08/12/2019` [Epsilon: The JDK&#x2019;s Do-Nothing Garbage Collector](https://news.ycombinator.com/item?id=21736199)
+285. `10/12/2019` [Docker-slim: Minify your Docker container image without changing anything](https://news.ycombinator.com/item?id=21755871)
 
-286. `06/12/2019` [Low-Cost VPS Testing](https://news.ycombinator.com/item?id=21725853)
+286. `10/12/2019` [OpenLayers](https://news.ycombinator.com/item?id=21754642)
 
-287. `06/12/2019` [NanoNeuron &#x2013; simple JavaScript functions that explain how machines learn](https://news.ycombinator.com/item?id=21719807)
+287. `09/12/2019` [Science Books of 2019](https://news.ycombinator.com/item?id=21744772)
 
-288. `05/12/2019` [Show HN: AI Dungeon 2 &#x2013; AI-generated text adventure built with 1.5B param GPT-2](https://news.ycombinator.com/item?id=21717022)
+288. `08/12/2019` [Epsilon: The JDK&#x2019;s Do-Nothing Garbage Collector](https://news.ycombinator.com/item?id=21736199)
 
-289. `05/12/2019` [Show HN: A searchable list of self-hosted software with screenshots](https://news.ycombinator.com/item?id=21712403)
+289. `06/12/2019` [Low-Cost VPS Testing](https://news.ycombinator.com/item?id=21725853)
 
-290. `05/12/2019` [Web-assembly powered WYSIWYG LaTeX Editor, supporting nearly all LaTeX package](https://news.ycombinator.com/item?id=21710105)
+290. `06/12/2019` [NanoNeuron &#x2013; simple JavaScript functions that explain how machines learn](https://news.ycombinator.com/item?id=21719807)
 
-291. `03/12/2019` [The Principles of Versioning in Go](https://news.ycombinator.com/item?id=21695658)
+291. `05/12/2019` [Show HN: AI Dungeon 2 &#x2013; AI-generated text adventure built with 1.5B param GPT-2](https://news.ycombinator.com/item?id=21717022)
 
-292. `29/11/2019` [Open-Source Home Automation](https://news.ycombinator.com/item?id=21665125)
+292. `05/12/2019` [Show HN: A searchable list of self-hosted software with screenshots](https://news.ycombinator.com/item?id=21712403)
 
-293. `28/11/2019` [An Overview of Cryptography](https://news.ycombinator.com/item?id=21660203)
+293. `05/12/2019` [Web-assembly powered WYSIWYG LaTeX Editor, supporting nearly all LaTeX package](https://news.ycombinator.com/item?id=21710105)
 
-294. `26/11/2019` [JSONCrush &#x2013; Compress JSON into URI Friendly Strings](https://news.ycombinator.com/item?id=21641760)
+294. `03/12/2019` [The Principles of Versioning in Go](https://news.ycombinator.com/item?id=21695658)
 
-295. `26/11/2019` [The LEGO Group acquires BrickLink](https://news.ycombinator.com/item?id=21639428)
+295. `29/11/2019` [Open-Source Home Automation](https://news.ycombinator.com/item?id=21665125)
 
-296. `25/11/2019` [Interactive Linear Algebra](https://news.ycombinator.com/item?id=21628449)
+296. `28/11/2019` [An Overview of Cryptography](https://news.ycombinator.com/item?id=21660203)
 
-297. `25/11/2019` [AMD Ryzen Threadripper 3960X and 3970X Review](https://news.ycombinator.com/item?id=21628149)
+297. `26/11/2019` [JSONCrush &#x2013; Compress JSON into URI Friendly Strings](https://news.ycombinator.com/item?id=21641760)
 
-298. `25/11/2019` [Writing An Interpreter In Go (2016)](https://news.ycombinator.com/item?id=21626972)
+298. `26/11/2019` [The LEGO Group acquires BrickLink](https://news.ycombinator.com/item?id=21639428)
 
-299. `21/11/2019` [How does a video codec work?](https://news.ycombinator.com/item?id=21593158)
+299. `25/11/2019` [Interactive Linear Algebra](https://news.ycombinator.com/item?id=21628449)
 
-300. `20/11/2019` [Basic Social Skills Guide (2012)](https://news.ycombinator.com/item?id=21585235)
+300. `25/11/2019` [AMD Ryzen Threadripper 3960X and 3970X Review](https://news.ycombinator.com/item?id=21628149)
 
-301. `19/11/2019` [Tools we used to create a hit HTML5 game on Steam](https://news.ycombinator.com/item?id=21572622)
+301. `25/11/2019` [Writing An Interpreter In Go (2016)](https://news.ycombinator.com/item?id=21626972)
 
-302. `15/11/2019` [NaN Gates and Flip FLOPS](https://news.ycombinator.com/item?id=21546382)
+302. `21/11/2019` [How does a video codec work?](https://news.ycombinator.com/item?id=21593158)
 
-303. `14/11/2019` [Build Your Own React](https://news.ycombinator.com/item?id=21536789)
+303. `20/11/2019` [Basic Social Skills Guide (2012)](https://news.ycombinator.com/item?id=21585235)
 
-304. `12/11/2019` [Sketchviz &#x2013; Graphviz graphs in a hand-drawn style](https://news.ycombinator.com/item?id=21518152)
+304. `19/11/2019` [Tools we used to create a hit HTML5 game on Steam](https://news.ycombinator.com/item?id=21572622)
 
-305. `11/11/2019` [Show HN: Web components to create OS-like web apps](https://news.ycombinator.com/item?id=21501457)
+305. `15/11/2019` [NaN Gates and Flip FLOPS](https://news.ycombinator.com/item?id=21546382)
 
-306. `09/11/2019` [Let&apos;s Create a Simple Load Balancer with Go](https://news.ycombinator.com/item?id=21490731)
+306. `14/11/2019` [Build Your Own React](https://news.ycombinator.com/item?id=21536789)
 
-307. `01/11/2019` [Setting up a home VPN server with WireGuard](https://news.ycombinator.com/item?id=21421365)
+307. `12/11/2019` [Sketchviz &#x2013; Graphviz graphs in a hand-drawn style](https://news.ycombinator.com/item?id=21518152)
 
-308. `31/10/2019` [Snake game made in Go](https://news.ycombinator.com/item?id=21411104)
+308. `11/11/2019` [Show HN: Web components to create OS-like web apps](https://news.ycombinator.com/item?id=21501457)
 
-309. `29/10/2019` [CorkScrew: A tool for tunneling SSH through HTTP proxies](https://news.ycombinator.com/item?id=21383765)
+309. `09/11/2019` [Let&apos;s Create a Simple Load Balancer with Go](https://news.ycombinator.com/item?id=21490731)
 
-310. `25/10/2019` [Rxdb: A reactive database where you can subscribe to the result of a query](https://news.ycombinator.com/item?id=21353020)
+310. `01/11/2019` [Setting up a home VPN server with WireGuard](https://news.ycombinator.com/item?id=21421365)
 
-311. `25/10/2019` [An Illustrated Guide to OAuth and OpenID Connect](https://news.ycombinator.com/item?id=21352045)
+311. `31/10/2019` [Snake game made in Go](https://news.ycombinator.com/item?id=21411104)
 
-312. `24/10/2019` [Ask HN: Are there books for mathematics like Feynman&apos;s lectures on physics?](https://news.ycombinator.com/item?id=21346272)
+312. `29/10/2019` [CorkScrew: A tool for tunneling SSH through HTTP proxies](https://news.ycombinator.com/item?id=21383765)
 
-313. `24/10/2019` [Web Based Qt Design Viewer](https://news.ycombinator.com/item?id=21343860)
+313. `25/10/2019` [Rxdb: A reactive database where you can subscribe to the result of a query](https://news.ycombinator.com/item?id=21353020)
 
-314. `22/10/2019` [Natural Language Processing (2018) [pdf]](https://news.ycombinator.com/item?id=21327114)
+314. `25/10/2019` [An Illustrated Guide to OAuth and OpenID Connect](https://news.ycombinator.com/item?id=21352045)
 
-315. `22/10/2019` [Firefox 70](https://news.ycombinator.com/item?id=21323663)
+315. `24/10/2019` [Ask HN: Are there books for mathematics like Feynman&apos;s lectures on physics?](https://news.ycombinator.com/item?id=21346272)
 
-316. `21/10/2019` [NordVPN confirms it was hacked](https://news.ycombinator.com/item?id=21312609)
+316. `24/10/2019` [Web Based Qt Design Viewer](https://news.ycombinator.com/item?id=21343860)
 
-317. `21/10/2019` [Ask HN: How do you share/organize knowledge at work and life?](https://news.ycombinator.com/item?id=21310030)
+317. `22/10/2019` [Natural Language Processing (2018) [pdf]](https://news.ycombinator.com/item?id=21327114)
 
-318. `21/10/2019` [DNS over HTTPS&#x2013;What Is It and Why Do People Care? [pdf]](https://news.ycombinator.com/item?id=21308939)
+318. `22/10/2019` [Firefox 70](https://news.ycombinator.com/item?id=21323663)
 
-319. `20/10/2019` [Show HN: Nginx Image with HTTP/3 (QUIC), TLS1.3 with 0-RTT, Brotli](https://news.ycombinator.com/item?id=21307888)
+319. `21/10/2019` [NordVPN confirms it was hacked](https://news.ycombinator.com/item?id=21312609)
 
-320. `20/10/2019` [Lesser Known Coding Fonts](https://news.ycombinator.com/item?id=21302498)
+320. `21/10/2019` [Ask HN: How do you share/organize knowledge at work and life?](https://news.ycombinator.com/item?id=21310030)
 
-321. `20/10/2019` [Igloo: A simple Windows automation tool](https://news.ycombinator.com/item?id=21301784)
+321. `21/10/2019` [DNS over HTTPS&#x2013;What Is It and Why Do People Care? [pdf]](https://news.ycombinator.com/item?id=21308939)
 
-322. `19/10/2019` [Structure and Interpretation of Computer Programs (1996) [pdf]](https://news.ycombinator.com/item?id=21299546)
+322. `20/10/2019` [Show HN: Nginx Image with HTTP/3 (QUIC), TLS1.3 with 0-RTT, Brotli](https://news.ycombinator.com/item?id=21307888)
 
-323. `19/10/2019` [ML From Scratch, Part 1: Linear Regression](https://news.ycombinator.com/item?id=21298233)
+323. `20/10/2019` [Lesser Known Coding Fonts](https://news.ycombinator.com/item?id=21302498)
 
-324. `19/10/2019` [Music Theory for Musicians and Normal People](https://news.ycombinator.com/item?id=21297462)
+324. `20/10/2019` [Igloo: A simple Windows automation tool](https://news.ycombinator.com/item?id=21301784)
 
-325. `18/10/2019` [New pathfinding algorithm](https://news.ycombinator.com/item?id=21294354)
+325. `19/10/2019` [Structure and Interpretation of Computer Programs (1996) [pdf]](https://news.ycombinator.com/item?id=21299546)
 
-326. `18/10/2019` [Four kinds of documentation](https://news.ycombinator.com/item?id=21289832)
+326. `19/10/2019` [ML From Scratch, Part 1: Linear Regression](https://news.ycombinator.com/item?id=21298233)
 
-327. `18/10/2019` [My Favourite Git Commit](https://news.ycombinator.com/item?id=21289827)
+327. `19/10/2019` [Music Theory for Musicians and Normal People](https://news.ycombinator.com/item?id=21297462)
 
-328. `17/10/2019` [Stupid Unix Tricks](https://news.ycombinator.com/item?id=21281025)
+328. `18/10/2019` [New pathfinding algorithm](https://news.ycombinator.com/item?id=21294354)
 
-329. `15/10/2019` [OnionShare makes it easy to publish anonymous, uncensorable websites](https://news.ycombinator.com/item?id=21260364)
+329. `18/10/2019` [Four kinds of documentation](https://news.ycombinator.com/item?id=21289832)
 
-330. `15/10/2019` [Firefox Privacy How-To Guide](https://news.ycombinator.com/item?id=21259108)
+330. `18/10/2019` [My Favourite Git Commit](https://news.ycombinator.com/item?id=21289827)
 
-331. `14/10/2019` [The Unix Game](https://news.ycombinator.com/item?id=21249792)
+331. `17/10/2019` [Stupid Unix Tricks](https://news.ycombinator.com/item?id=21281025)
 
-332. `12/10/2019` [Ask HN: What do you self-host?](https://news.ycombinator.com/item?id=21235957)
+332. `15/10/2019` [OnionShare makes it easy to publish anonymous, uncensorable websites](https://news.ycombinator.com/item?id=21260364)
 
-333. `11/10/2019` [Uber Go Style Guide](https://news.ycombinator.com/item?id=21225401)
+333. `15/10/2019` [Firefox Privacy How-To Guide](https://news.ycombinator.com/item?id=21259108)
 
-334. `10/10/2019` [2019 Js13kGames Winners](https://news.ycombinator.com/item?id=21214633)
+334. `14/10/2019` [The Unix Game](https://news.ycombinator.com/item?id=21249792)
 
-335. `08/10/2019` [Dark mode in a website with CSS](https://news.ycombinator.com/item?id=21195913)
+335. `12/10/2019` [Ask HN: What do you self-host?](https://news.ycombinator.com/item?id=21235957)
 
-336. `08/10/2019` [All paid targeting options available on social media platforms](https://news.ycombinator.com/item?id=21192710)
+336. `11/10/2019` [Uber Go Style Guide](https://news.ycombinator.com/item?id=21225401)
 
-337. `08/10/2019` [99% of the Git commands you&apos;ll need at work, demonstrated in a single script](https://news.ycombinator.com/item?id=21189256)
+337. `10/10/2019` [2019 Js13kGames Winners](https://news.ycombinator.com/item?id=21214633)
 
-338. `07/10/2019` [Elliptic Curve Cryptography Explained](https://news.ycombinator.com/item?id=21182982)
+338. `08/10/2019` [Dark mode in a website with CSS](https://news.ycombinator.com/item?id=21195913)
 
-339. `06/10/2019` [Show HN: I had issues organizing my favorite recipes, so I built this](https://news.ycombinator.com/item?id=21175492)
+339. `08/10/2019` [All paid targeting options available on social media platforms](https://news.ycombinator.com/item?id=21192710)
 
-340. `04/10/2019` [Calibre 4.0](https://news.ycombinator.com/item?id=21156482)
+340. `08/10/2019` [99% of the Git commands you&apos;ll need at work, demonstrated in a single script](https://news.ycombinator.com/item?id=21189256)
 
-341. `03/10/2019` [Ask HN: Senior Positions Interview Prep Resources?](https://news.ycombinator.com/item?id=21153175)
+341. `07/10/2019` [Elliptic Curve Cryptography Explained](https://news.ycombinator.com/item?id=21182982)
 
-342. `30/09/2019` [HEAD &#x2013; A guide to &lt;head&gt; elements](https://news.ycombinator.com/item?id=21119553)
+342. `06/10/2019` [Show HN: I had issues organizing my favorite recipes, so I built this](https://news.ycombinator.com/item?id=21175492)
 
-343. `29/09/2019` [Show HN: Aristotl &#x2013; an intuitive logical fallacy lookup tool](https://news.ycombinator.com/item?id=21110425)
+343. `04/10/2019` [Calibre 4.0](https://news.ycombinator.com/item?id=21156482)
 
-344. `24/09/2019` [Talos: OS for Kubernetes](https://news.ycombinator.com/item?id=21065272)
+344. `03/10/2019` [Ask HN: Senior Positions Interview Prep Resources?](https://news.ycombinator.com/item?id=21153175)
 
-345. `20/09/2019` [Explanation of the state of uBlock Origin and other blockers for Safari](https://news.ycombinator.com/item?id=21025252)
+345. `30/09/2019` [HEAD &#x2013; A guide to &lt;head&gt; elements](https://news.ycombinator.com/item?id=21119553)
 
-346. `19/09/2019` [Working with GitHub Actions](https://news.ycombinator.com/item?id=21020106)
+346. `29/09/2019` [Show HN: Aristotl &#x2013; an intuitive logical fallacy lookup tool](https://news.ycombinator.com/item?id=21110425)
 
-347. `17/09/2019` [Show HN: I made a resume generator for developers](https://news.ycombinator.com/item?id=20995056)
+347. `24/09/2019` [Talos: OS for Kubernetes](https://news.ycombinator.com/item?id=21065272)
 
-348. `12/09/2019` [Can I Email: &#x2018;Can I Use&#x2019; for email](https://news.ycombinator.com/item?id=20948826)
+348. `20/09/2019` [Explanation of the state of uBlock Origin and other blockers for Safari](https://news.ycombinator.com/item?id=21025252)
 
-349. `10/09/2019` [Show HN: Browse Reddit in 3D](https://news.ycombinator.com/item?id=20929801)
+349. `19/09/2019` [Working with GitHub Actions](https://news.ycombinator.com/item?id=21020106)
 
-350. `09/09/2019` [Questions to ask a company during a job interview](https://news.ycombinator.com/item?id=20916749)
+350. `17/09/2019` [Show HN: I made a resume generator for developers](https://news.ycombinator.com/item?id=20995056)
 
-351. `08/09/2019` [The Riemann Hypothesis](https://news.ycombinator.com/item?id=20912380)
+351. `12/09/2019` [Can I Email: &#x2018;Can I Use&#x2019; for email](https://news.ycombinator.com/item?id=20948826)
 
-352. `05/09/2019` [How to learn D3.js](https://news.ycombinator.com/item?id=20887708)
+352. `10/09/2019` [Show HN: Browse Reddit in 3D](https://news.ycombinator.com/item?id=20929801)
 
-353. `02/09/2019` [Timeline for Logic, &#x3BB;-Calculus, and Programming Language Theory (2012) [pdf]](https://news.ycombinator.com/item?id=20860888)
+353. `09/09/2019` [Questions to ask a company during a job interview](https://news.ycombinator.com/item?id=20916749)
 
-354. `01/09/2019` [Leon Sans, a geometric typeface made with code](https://news.ycombinator.com/item?id=20854024)
+354. `08/09/2019` [The Riemann Hypothesis](https://news.ycombinator.com/item?id=20912380)
 
-355. `01/09/2019` [The &#x201C;mail is hard&#x201D; myth](https://news.ycombinator.com/item?id=20851880)
+355. `05/09/2019` [How to learn D3.js](https://news.ycombinator.com/item?id=20887708)
 
-356. `26/08/2019` [How do black holes destroy information and why is that a problem?](https://news.ycombinator.com/item?id=20797343)
+356. `02/09/2019` [Timeline for Logic, &#x3BB;-Calculus, and Programming Language Theory (2012) [pdf]](https://news.ycombinator.com/item?id=20860888)
 
-357. `19/08/2019` [Kerbal Space Program 2](https://news.ycombinator.com/item?id=20740378)
+357. `01/09/2019` [Leon Sans, a geometric typeface made with code](https://news.ycombinator.com/item?id=20854024)
 
-358. `15/08/2019` [I completed Ultimate Go, took good notes and commented directly on source code](https://news.ycombinator.com/item?id=20701671)
+358. `01/09/2019` [The &#x201C;mail is hard&#x201D; myth](https://news.ycombinator.com/item?id=20851880)
 
-359. `10/08/2019` [A mathematician&apos;s way of converting miles to kilometers](https://news.ycombinator.com/item?id=20660634)
+359. `26/08/2019` [How do black holes destroy information and why is that a problem?](https://news.ycombinator.com/item?id=20797343)
 
-360. `09/08/2019` [Free Software network services and web applications which can be hosted locally](https://news.ycombinator.com/item?id=20658765)
+360. `19/08/2019` [Kerbal Space Program 2](https://news.ycombinator.com/item?id=20740378)
 
-361. `08/08/2019` [GitHub Actions now supports CI/CD, free for public repositories](https://news.ycombinator.com/item?id=20646350)
+361. `15/08/2019` [I completed Ultimate Go, took good notes and commented directly on source code](https://news.ycombinator.com/item?id=20701671)
 
-362. `03/08/2019` [CBOR &#x2013; Concise Binary Object Representation](https://news.ycombinator.com/item?id=20603378)
+362. `10/08/2019` [A mathematician&apos;s way of converting miles to kilometers](https://news.ycombinator.com/item?id=20660634)
 
-363. `02/08/2019` [A practical guide to CSS transitions and animations](https://news.ycombinator.com/item?id=20595153)
+363. `09/08/2019` [Free Software network services and web applications which can be hosted locally](https://news.ycombinator.com/item?id=20658765)
 
-364. `02/08/2019` [Standard Ebooks: Free public-domain ebooks, carefully produced](https://news.ycombinator.com/item?id=20594802)
+364. `08/08/2019` [GitHub Actions now supports CI/CD, free for public repositories](https://news.ycombinator.com/item?id=20646350)
 
-365. `30/07/2019` [LoRaWAN distance world record broken twice: 766km using 25mW power](https://news.ycombinator.com/item?id=20562684)
+365. `03/08/2019` [CBOR &#x2013; Concise Binary Object Representation](https://news.ycombinator.com/item?id=20603378)
 
-366. `28/07/2019` [Show HN: Memorize Terminal Commands](https://news.ycombinator.com/item?id=20550167)
+366. `02/08/2019` [A practical guide to CSS transitions and animations](https://news.ycombinator.com/item?id=20595153)
 
-367. `26/07/2019` [Mozilla debuts implementation of WebThings Gateway open-source router firmware](https://news.ycombinator.com/item?id=20532763)
+367. `02/08/2019` [Standard Ebooks: Free public-domain ebooks, carefully produced](https://news.ycombinator.com/item?id=20594802)
 
-368. `25/07/2019` [MQTT: A Conceptual Deep-Dive](https://news.ycombinator.com/item?id=20526564)
+368. `30/07/2019` [LoRaWAN distance world record broken twice: 766km using 25mW power](https://news.ycombinator.com/item?id=20562684)
 
-369. `25/07/2019` [Raspberry Pi microSD follow-up, SD Association fools me twice?](https://news.ycombinator.com/item?id=20526202)
+369. `28/07/2019` [Show HN: Memorize Terminal Commands](https://news.ycombinator.com/item?id=20550167)
 
-370. `24/07/2019` [Fork: A fast and friendly Git client for Mac and Windows](https://news.ycombinator.com/item?id=20511555)
+370. `26/07/2019` [Mozilla debuts implementation of WebThings Gateway open-source router firmware](https://news.ycombinator.com/item?id=20532763)
 
-371. `23/07/2019` [Mitchell Feigenbaum (1944&#x2013;2019), 4.66920160910299067185320382&#x2026;](https://news.ycombinator.com/item?id=20509428)
+371. `25/07/2019` [MQTT: A Conceptual Deep-Dive](https://news.ycombinator.com/item?id=20526564)
 
-372. `23/07/2019` [SVG Icons Using MIT License](https://news.ycombinator.com/item?id=20503612)
+372. `25/07/2019` [Raspberry Pi microSD follow-up, SD Association fools me twice?](https://news.ycombinator.com/item?id=20526202)
 
-373. `22/07/2019` [Show HN: Ananas &#x2013; a hackable data tool for beginners](https://news.ycombinator.com/item?id=20498474)
+373. `24/07/2019` [Fork: A fast and friendly Git client for Mac and Windows](https://news.ycombinator.com/item?id=20511555)
 
-374. `22/07/2019` [A2-class microSD cards offer no better performance for the Raspberry Pi](https://news.ycombinator.com/item?id=20497541)
+374. `23/07/2019` [Mitchell Feigenbaum (1944&#x2013;2019), 4.66920160910299067185320382&#x2026;](https://news.ycombinator.com/item?id=20509428)
 
-375. `22/07/2019` [Space Engine](https://news.ycombinator.com/item?id=20496786)
+375. `23/07/2019` [SVG Icons Using MIT License](https://news.ycombinator.com/item?id=20503612)
 
-376. `21/07/2019` [Google AI Education Resources](https://news.ycombinator.com/item?id=20493947)
+376. `22/07/2019` [Show HN: Ananas &#x2013; a hackable data tool for beginners](https://news.ycombinator.com/item?id=20498474)
 
-377. `21/07/2019` [Puffer &#x2013; Stream live TV in the browser](https://news.ycombinator.com/item?id=20491571)
+377. `22/07/2019` [A2-class microSD cards offer no better performance for the Raspberry Pi](https://news.ycombinator.com/item?id=20497541)
 
-378. `18/07/2019` [HTTP Security Headers &#x2013; A Complete Guide](https://news.ycombinator.com/item?id=20468845)
+378. `22/07/2019` [Space Engine](https://news.ycombinator.com/item?id=20496786)
 
-379. `17/07/2019` [Neuralink Live Stream [video]](https://news.ycombinator.com/item?id=20455873)
+379. `21/07/2019` [Google AI Education Resources](https://news.ycombinator.com/item?id=20493947)
 
-380. `16/07/2019` [What every computer science major should know (2011)](https://news.ycombinator.com/item?id=20453241)
+380. `21/07/2019` [Puffer &#x2013; Stream live TV in the browser](https://news.ycombinator.com/item?id=20491571)
 
-381. `15/07/2019` [Mac Open Web](https://news.ycombinator.com/item?id=20445261)
+381. `18/07/2019` [HTTP Security Headers &#x2013; A Complete Guide](https://news.ycombinator.com/item?id=20468845)
 
-382. `15/07/2019` [Let&apos;s Build a Compiler](https://news.ycombinator.com/item?id=20444474)
+382. `17/07/2019` [Neuralink Live Stream [video]](https://news.ycombinator.com/item?id=20455873)
 
-383. `15/07/2019` [Cities: Skylines Is Turing Complete](https://news.ycombinator.com/item?id=20444323)
+383. `16/07/2019` [What every computer science major should know (2011)](https://news.ycombinator.com/item?id=20453241)
 
-384. `15/07/2019` [How many kinds of USB-C to USB-C cables are there?](https://news.ycombinator.com/item?id=20443765)
+384. `15/07/2019` [Mac Open Web](https://news.ycombinator.com/item?id=20445261)
 
-385. `12/07/2019` [1Password: Standalone / Local Vault Option Gone?](https://news.ycombinator.com/item?id=20417832)
+385. `15/07/2019` [Let&apos;s Build a Compiler](https://news.ycombinator.com/item?id=20444474)
 
-386. `08/07/2019` [RSA is a fragile cryptosystem](https://news.ycombinator.com/item?id=20381779)
+386. `15/07/2019` [Cities: Skylines Is Turing Complete](https://news.ycombinator.com/item?id=20444323)
 
-387. `08/07/2019` [Intro Guide to Dockerfile Best Practices](https://news.ycombinator.com/item?id=20381388)
+387. `15/07/2019` [How many kinds of USB-C to USB-C cables are there?](https://news.ycombinator.com/item?id=20443765)
 
-388. `07/07/2019` [Learning Golang &#x2013; From Zero to Hero](https://news.ycombinator.com/item?id=20374601)
+388. `12/07/2019` [1Password: Standalone / Local Vault Option Gone?](https://news.ycombinator.com/item?id=20417832)
 
-389. `05/07/2019` [The Mystery of Florida&#x2019;s Cannonball-Eating Spanish Fort](https://news.ycombinator.com/item?id=20359255)
+389. `08/07/2019` [RSA is a fragile cryptosystem](https://news.ycombinator.com/item?id=20381779)
 
-390. `05/07/2019` [Monte Carlo methods &#x2013; Why it&apos;s a bad idea to go to the casino](https://news.ycombinator.com/item?id=20359100)
+390. `08/07/2019` [Intro Guide to Dockerfile Best Practices](https://news.ycombinator.com/item?id=20381388)
 
-391. `05/07/2019` [Mistakes we make using JavaScript Promises](https://news.ycombinator.com/item?id=20358970)
+391. `07/07/2019` [Learning Golang &#x2013; From Zero to Hero](https://news.ycombinator.com/item?id=20374601)
 
-392. `03/07/2019` [ANU Quantum Random Number Server](https://news.ycombinator.com/item?id=20342987)
+392. `05/07/2019` [The Mystery of Florida&#x2019;s Cannonball-Eating Spanish Fort](https://news.ycombinator.com/item?id=20359255)
 
-393. `03/07/2019` [Nobody talks about the real reason to use tabs over spaces](https://news.ycombinator.com/item?id=20341354)
+393. `05/07/2019` [Monte Carlo methods &#x2013; Why it&apos;s a bad idea to go to the casino](https://news.ycombinator.com/item?id=20359100)
 
-394. `02/07/2019` [How Diablo Was Reverse-Engineered Without Source Code [video]](https://news.ycombinator.com/item?id=20340406)
+394. `05/07/2019` [Mistakes we make using JavaScript Promises](https://news.ycombinator.com/item?id=20358970)
 
-395. `24/06/2019` [DigitalJs: Digital circuit simulator in browser](https://news.ycombinator.com/item?id=20269293)
+395. `03/07/2019` [ANU Quantum Random Number Server](https://news.ycombinator.com/item?id=20342987)
 
-396. `24/06/2019` [Ask HN: What do you do with your Raspberry Pi?](https://news.ycombinator.com/item?id=20264911)
+396. `03/07/2019` [Nobody talks about the real reason to use tabs over spaces](https://news.ycombinator.com/item?id=20341354)
 
-397. `24/06/2019` [Raspberry Pi 4](https://news.ycombinator.com/item?id=20260863)
+397. `02/07/2019` [How Diablo Was Reverse-Engineered Without Source Code [video]](https://news.ycombinator.com/item?id=20340406)
 
-398. `23/06/2019` [Building an LTE Access Point with a Raspberry Pi](https://news.ycombinator.com/item?id=20257990)
+398. `24/06/2019` [DigitalJs: Digital circuit simulator in browser](https://news.ycombinator.com/item?id=20269293)
 
-399. `19/06/2019` [Ask HN: Best free compute and other resources for startups?](https://news.ycombinator.com/item?id=20225118)
+399. `24/06/2019` [Ask HN: What do you do with your Raspberry Pi?](https://news.ycombinator.com/item?id=20264911)
 
-400. `18/06/2019` [Simple techniques to optimise Go programs](https://news.ycombinator.com/item?id=20213943)
+400. `24/06/2019` [Raspberry Pi 4](https://news.ycombinator.com/item?id=20260863)
 
-401. `18/06/2019` [Adventure Games and Eigenvalues (2017)](https://news.ycombinator.com/item?id=20209816)
+401. `23/06/2019` [Building an LTE Access Point with a Raspberry Pi](https://news.ycombinator.com/item?id=20257990)
 
-402. `17/06/2019` [A live map of marine traffic](https://news.ycombinator.com/item?id=20207623)
+402. `19/06/2019` [Ask HN: Best free compute and other resources for startups?](https://news.ycombinator.com/item?id=20225118)
 
-403. `14/06/2019` [Show HN: Enviro+ for Raspberry Pi &#x2013; Environmental sensors](https://news.ycombinator.com/item?id=20185182)
+403. `18/06/2019` [Simple techniques to optimise Go programs](https://news.ycombinator.com/item?id=20213943)
 
-404. `14/06/2019` [Luna &#x2013; A WYSIWYG language for data processing](https://news.ycombinator.com/item?id=20182090)
+404. `18/06/2019` [Adventure Games and Eigenvalues (2017)](https://news.ycombinator.com/item?id=20209816)
 
-405. `14/06/2019` [Game Builder: Create 3D games with friends, no experience required](https://news.ycombinator.com/item?id=20179820)
+405. `17/06/2019` [A live map of marine traffic](https://news.ycombinator.com/item?id=20207623)
 
-406. `13/06/2019` [Show HN: Browser Extension to Refine the HN Experience](https://news.ycombinator.com/item?id=20173974)
+406. `14/06/2019` [Show HN: Enviro+ for Raspberry Pi &#x2013; Environmental sensors](https://news.ycombinator.com/item?id=20185182)
 
-407. `11/06/2019` [Matrix 1.0 and the Matrix.org Foundation](https://news.ycombinator.com/item?id=20157809)
+407. `14/06/2019` [Luna &#x2013; A WYSIWYG language for data processing](https://news.ycombinator.com/item?id=20182090)
 
-408. `10/06/2019` [Google&apos;s Captcha in Firefox vs. in Chrome](https://news.ycombinator.com/item?id=20147015)
+408. `14/06/2019` [Game Builder: Create 3D games with friends, no experience required](https://news.ycombinator.com/item?id=20179820)
 
-409. `10/06/2019` [Small guide to making nice tables [pdf]](https://news.ycombinator.com/item?id=20144619)
+409. `13/06/2019` [Show HN: Browser Extension to Refine the HN Experience](https://news.ycombinator.com/item?id=20173974)
 
-410. `09/06/2019` [Building an LTE Access Point with OpenWRT Rooter](https://news.ycombinator.com/item?id=20140790)
+410. `11/06/2019` [Matrix 1.0 and the Matrix.org Foundation](https://news.ycombinator.com/item?id=20157809)
 
-411. `06/06/2019` [Ask HN: Does anyone still use IRC?](https://news.ycombinator.com/item?id=20118963)
+411. `10/06/2019` [Google&apos;s Captcha in Firefox vs. in Chrome](https://news.ycombinator.com/item?id=20147015)
 
-412. `06/06/2019` [Open Source Game Clones](https://news.ycombinator.com/item?id=20110442)
+412. `10/06/2019` [Small guide to making nice tables [pdf]](https://news.ycombinator.com/item?id=20144619)
 
-413. `05/06/2019` [I&apos;ve been building a Markdown note-taking app for 3 years](https://news.ycombinator.com/item?id=20103589)
+413. `09/06/2019` [Building an LTE Access Point with OpenWRT Rooter](https://news.ycombinator.com/item?id=20140790)
 
-414. `03/06/2019` [The Monkey Programming Language](https://news.ycombinator.com/item?id=20087573)
+414. `06/06/2019` [Ask HN: Does anyone still use IRC?](https://news.ycombinator.com/item?id=20118963)
 
-415. `01/06/2019` [Discrete Mathematics and Functional Programming (2016)](https://news.ycombinator.com/item?id=20070281)
+415. `06/06/2019` [Open Source Game Clones](https://news.ycombinator.com/item?id=20110442)
 
-416. `01/06/2019` [Stripped-down Kubernetes on the Raspberry Pi](https://news.ycombinator.com/item?id=20068291)
+416. `05/06/2019` [I&apos;ve been building a Markdown note-taking app for 3 years](https://news.ycombinator.com/item?id=20103589)
 
-417. `01/06/2019` [Confessions of a Reddit Karma Whore](https://news.ycombinator.com/item?id=20068269)
+417. `03/06/2019` [The Monkey Programming Language](https://news.ycombinator.com/item?id=20087573)
 
-418. `30/05/2019` [Mathematics all-in-one cheat-sheet (2013) [pdf]](https://news.ycombinator.com/item?id=20048205)
+418. `01/06/2019` [Discrete Mathematics and Functional Programming (2016)](https://news.ycombinator.com/item?id=20070281)
 
-419. `29/05/2019` [Advanced Data Structures (2017)](https://news.ycombinator.com/item?id=20044876)
+419. `01/06/2019` [Stripped-down Kubernetes on the Raspberry Pi](https://news.ycombinator.com/item?id=20068291)
 
-420. `28/05/2019` [Show HN: Endoflife.date &#x2013; Site with EOL dates of everything](https://news.ycombinator.com/item?id=20033728)
+420. `01/06/2019` [Confessions of a Reddit Karma Whore](https://news.ycombinator.com/item?id=20068269)
 
-421. `24/05/2019` [Making a Game Boy Game in 2017](https://news.ycombinator.com/item?id=20001151)
+421. `30/05/2019` [Mathematics all-in-one cheat-sheet (2013) [pdf]](https://news.ycombinator.com/item?id=20048205)
 
-422. `24/05/2019` [H.264 is magic (2016)](https://news.ycombinator.com/item?id=19997813)
+422. `29/05/2019` [Advanced Data Structures (2017)](https://news.ycombinator.com/item?id=20044876)
 
-423. `22/05/2019` [Show HN: Scar &#x2013; Static websites with HTTPS, a global CDN, and custom domains](https://news.ycombinator.com/item?id=19981869)
+423. `28/05/2019` [Show HN: Endoflife.date &#x2013; Site with EOL dates of everything](https://news.ycombinator.com/item?id=20033728)
 
-424. `21/05/2019` [Five Hundred and Seven Mechanical Movements (1908)](https://news.ycombinator.com/item?id=19968114)
+424. `24/05/2019` [Making a Game Boy Game in 2017](https://news.ycombinator.com/item?id=20001151)
 
-425. `20/05/2019` [WebGL Fluid Simulation](https://news.ycombinator.com/item?id=19963640)
+425. `24/05/2019` [H.264 is magic (2016)](https://news.ycombinator.com/item?id=19997813)
 
-426. `19/05/2019` [Mystery meat OpenJDK builds strike again](https://news.ycombinator.com/item?id=19955958)
+426. `22/05/2019` [Show HN: Scar &#x2013; Static websites with HTTPS, a global CDN, and custom domains](https://news.ycombinator.com/item?id=19981869)
 
-427. `17/05/2019` [New Game: Minecraft Earth](https://news.ycombinator.com/item?id=19939292)
+427. `21/05/2019` [Five Hundred and Seven Mechanical Movements (1908)](https://news.ycombinator.com/item?id=19968114)
 
-428. `16/05/2019` [ELF files on Linux](https://news.ycombinator.com/item?id=19927908)
+428. `20/05/2019` [WebGL Fluid Simulation](https://news.ycombinator.com/item?id=19963640)
 
-429. `16/05/2019` [ND4J: Scientific Computing on the JVM](https://news.ycombinator.com/item?id=19926803)
+429. `19/05/2019` [Mystery meat OpenJDK builds strike again](https://news.ycombinator.com/item?id=19955958)
 
-430. `15/05/2019` [Falsehoods programmers believe about Unix time](https://news.ycombinator.com/item?id=19922062)
+430. `17/05/2019` [New Game: Minecraft Earth](https://news.ycombinator.com/item?id=19939292)
 
-431. `12/05/2019` [Gameboy.live: A basic Gameboy emulator with terminal &#x201C;cloud gaming&#x201D; support](https://news.ycombinator.com/item?id=19894233)
+431. `16/05/2019` [ELF files on Linux](https://news.ycombinator.com/item?id=19927908)
 
-432. `08/05/2019` [Alpine Linux Docker images have NULL for root password](https://news.ycombinator.com/item?id=19861725)
+432. `16/05/2019` [ND4J: Scientific Computing on the JVM](https://news.ycombinator.com/item?id=19926803)
 
-433. `08/05/2019` [Google Fights Back](https://news.ycombinator.com/item?id=19860093)
+433. `15/05/2019` [Falsehoods programmers believe about Unix time](https://news.ycombinator.com/item?id=19922062)
 
-434. `07/05/2019` [Mathics &#x2013; A free, light-weight alternative to Mathematica](https://news.ycombinator.com/item?id=19851934)
+434. `12/05/2019` [Gameboy.live: A basic Gameboy emulator with terminal &#x201C;cloud gaming&#x201D; support](https://news.ycombinator.com/item?id=19894233)
 
-435. `07/05/2019` [The Amazing $1 Microcontroller (2017)](https://news.ycombinator.com/item?id=19851744)
+435. `08/05/2019` [Alpine Linux Docker images have NULL for root password](https://news.ycombinator.com/item?id=19861725)
 
-436. `06/05/2019` [Practices for writing high-performance Go](https://news.ycombinator.com/item?id=19839081)
+436. `08/05/2019` [Google Fights Back](https://news.ycombinator.com/item?id=19860093)
+
+437. `07/05/2019` [Mathics &#x2013; A free, light-weight alternative to Mathematica](https://news.ycombinator.com/item?id=19851934)
+
+438. `07/05/2019` [The Amazing $1 Microcontroller (2017)](https://news.ycombinator.com/item?id=19851744)
+
+439. `06/05/2019` [Practices for writing high-performance Go](https://news.ycombinator.com/item?id=19839081)
 
 

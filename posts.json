@@ -1,8 +1,23 @@
 [
   {
+    "title": "Golang Diaries: Generics",
+    "link": "item?id=31387312",
+    "age": "2022-05-15T13:04:17.000Z"
+  },
+  {
+    "title": "Java record pattern matching in JDK 19",
+    "link": "item?id=31378896",
+    "age": "2022-05-14T15:29:17.000Z"
+  },
+  {
     "title": "Show HN: A Full-Stack Web Framework for Go",
     "link": "item?id=31371340",
     "age": "2022-05-13T19:01:03.000Z"
+  },
+  {
+    "title": "Quick Start Guide for Flipper Zero",
+    "link": "item?id=31368209",
+    "age": "2022-05-13T14:36:08.000Z"
   },
   {
     "title": "Infrastructure From Code",
