@@ -720,4 +720,230 @@
 
 360. `19/10/2019` [undefined](https://news.ycombinator.com/item?id=21298233)
 
+361. `19/10/2019` [undefined](https://news.ycombinator.com/item?id=21297462)
+
+362. `18/10/2019` [undefined](https://news.ycombinator.com/item?id=21294354)
+
+363. `18/10/2019` [undefined](https://news.ycombinator.com/item?id=21289832)
+
+364. `18/10/2019` [undefined](https://news.ycombinator.com/item?id=21289827)
+
+365. `17/10/2019` [undefined](https://news.ycombinator.com/item?id=21281025)
+
+366. `15/10/2019` [undefined](https://news.ycombinator.com/item?id=21260364)
+
+367. `15/10/2019` [undefined](https://news.ycombinator.com/item?id=21259108)
+
+368. `14/10/2019` [undefined](https://news.ycombinator.com/item?id=21249792)
+
+369. `12/10/2019` [undefined](https://news.ycombinator.com/item?id=21235957)
+
+370. `11/10/2019` [undefined](https://news.ycombinator.com/item?id=21225401)
+
+371. `10/10/2019` [undefined](https://news.ycombinator.com/item?id=21214633)
+
+372. `08/10/2019` [undefined](https://news.ycombinator.com/item?id=21195913)
+
+373. `08/10/2019` [undefined](https://news.ycombinator.com/item?id=21192710)
+
+374. `08/10/2019` [undefined](https://news.ycombinator.com/item?id=21189256)
+
+375. `07/10/2019` [undefined](https://news.ycombinator.com/item?id=21182982)
+
+376. `06/10/2019` [undefined](https://news.ycombinator.com/item?id=21175492)
+
+377. `04/10/2019` [undefined](https://news.ycombinator.com/item?id=21156482)
+
+378. `03/10/2019` [undefined](https://news.ycombinator.com/item?id=21153175)
+
+379. `30/09/2019` [undefined](https://news.ycombinator.com/item?id=21119553)
+
+380. `29/09/2019` [undefined](https://news.ycombinator.com/item?id=21110425)
+
+381. `24/09/2019` [undefined](https://news.ycombinator.com/item?id=21065272)
+
+382. `20/09/2019` [undefined](https://news.ycombinator.com/item?id=21025252)
+
+383. `19/09/2019` [undefined](https://news.ycombinator.com/item?id=21020106)
+
+384. `17/09/2019` [undefined](https://news.ycombinator.com/item?id=20995056)
+
+385. `12/09/2019` [undefined](https://news.ycombinator.com/item?id=20948826)
+
+386. `10/09/2019` [undefined](https://news.ycombinator.com/item?id=20929801)
+
+387. `09/09/2019` [undefined](https://news.ycombinator.com/item?id=20916749)
+
+388. `08/09/2019` [undefined](https://news.ycombinator.com/item?id=20912380)
+
+389. `05/09/2019` [undefined](https://news.ycombinator.com/item?id=20887708)
+
+390. `02/09/2019` [undefined](https://news.ycombinator.com/item?id=20860888)
+
+391. `01/09/2019` [undefined](https://news.ycombinator.com/item?id=20854024)
+
+392. `01/09/2019` [undefined](https://news.ycombinator.com/item?id=20851880)
+
+393. `26/08/2019` [undefined](https://news.ycombinator.com/item?id=20797343)
+
+394. `19/08/2019` [undefined](https://news.ycombinator.com/item?id=20740378)
+
+395. `15/08/2019` [undefined](https://news.ycombinator.com/item?id=20701671)
+
+396. `10/08/2019` [undefined](https://news.ycombinator.com/item?id=20660634)
+
+397. `09/08/2019` [undefined](https://news.ycombinator.com/item?id=20658765)
+
+398. `08/08/2019` [undefined](https://news.ycombinator.com/item?id=20646350)
+
+399. `03/08/2019` [undefined](https://news.ycombinator.com/item?id=20603378)
+
+400. `02/08/2019` [undefined](https://news.ycombinator.com/item?id=20595153)
+
+401. `02/08/2019` [undefined](https://news.ycombinator.com/item?id=20594802)
+
+402. `30/07/2019` [undefined](https://news.ycombinator.com/item?id=20562684)
+
+403. `28/07/2019` [undefined](https://news.ycombinator.com/item?id=20550167)
+
+404. `26/07/2019` [undefined](https://news.ycombinator.com/item?id=20532763)
+
+405. `25/07/2019` [undefined](https://news.ycombinator.com/item?id=20526564)
+
+406. `25/07/2019` [undefined](https://news.ycombinator.com/item?id=20526202)
+
+407. `24/07/2019` [undefined](https://news.ycombinator.com/item?id=20511555)
+
+408. `23/07/2019` [undefined](https://news.ycombinator.com/item?id=20509428)
+
+409. `23/07/2019` [undefined](https://news.ycombinator.com/item?id=20503612)
+
+410. `22/07/2019` [undefined](https://news.ycombinator.com/item?id=20498474)
+
+411. `22/07/2019` [undefined](https://news.ycombinator.com/item?id=20497541)
+
+412. `22/07/2019` [undefined](https://news.ycombinator.com/item?id=20496786)
+
+413. `21/07/2019` [undefined](https://news.ycombinator.com/item?id=20493947)
+
+414. `21/07/2019` [undefined](https://news.ycombinator.com/item?id=20491571)
+
+415. `18/07/2019` [undefined](https://news.ycombinator.com/item?id=20468845)
+
+416. `17/07/2019` [undefined](https://news.ycombinator.com/item?id=20455873)
+
+417. `16/07/2019` [undefined](https://news.ycombinator.com/item?id=20453241)
+
+418. `15/07/2019` [undefined](https://news.ycombinator.com/item?id=20445261)
+
+419. `15/07/2019` [undefined](https://news.ycombinator.com/item?id=20444474)
+
+420. `15/07/2019` [undefined](https://news.ycombinator.com/item?id=20444323)
+
+421. `15/07/2019` [undefined](https://news.ycombinator.com/item?id=20443765)
+
+422. `12/07/2019` [undefined](https://news.ycombinator.com/item?id=20417832)
+
+423. `08/07/2019` [undefined](https://news.ycombinator.com/item?id=20381779)
+
+424. `08/07/2019` [undefined](https://news.ycombinator.com/item?id=20381388)
+
+425. `07/07/2019` [undefined](https://news.ycombinator.com/item?id=20374601)
+
+426. `05/07/2019` [undefined](https://news.ycombinator.com/item?id=20359255)
+
+427. `05/07/2019` [undefined](https://news.ycombinator.com/item?id=20359100)
+
+428. `05/07/2019` [undefined](https://news.ycombinator.com/item?id=20358970)
+
+429. `03/07/2019` [undefined](https://news.ycombinator.com/item?id=20342987)
+
+430. `03/07/2019` [undefined](https://news.ycombinator.com/item?id=20341354)
+
+431. `02/07/2019` [undefined](https://news.ycombinator.com/item?id=20340406)
+
+432. `24/06/2019` [undefined](https://news.ycombinator.com/item?id=20269293)
+
+433. `24/06/2019` [undefined](https://news.ycombinator.com/item?id=20264911)
+
+434. `24/06/2019` [undefined](https://news.ycombinator.com/item?id=20260863)
+
+435. `23/06/2019` [undefined](https://news.ycombinator.com/item?id=20257990)
+
+436. `19/06/2019` [undefined](https://news.ycombinator.com/item?id=20225118)
+
+437. `18/06/2019` [undefined](https://news.ycombinator.com/item?id=20213943)
+
+438. `18/06/2019` [undefined](https://news.ycombinator.com/item?id=20209816)
+
+439. `17/06/2019` [undefined](https://news.ycombinator.com/item?id=20207623)
+
+440. `14/06/2019` [undefined](https://news.ycombinator.com/item?id=20185182)
+
+441. `14/06/2019` [undefined](https://news.ycombinator.com/item?id=20182090)
+
+442. `14/06/2019` [undefined](https://news.ycombinator.com/item?id=20179820)
+
+443. `13/06/2019` [undefined](https://news.ycombinator.com/item?id=20173974)
+
+444. `11/06/2019` [undefined](https://news.ycombinator.com/item?id=20157809)
+
+445. `10/06/2019` [undefined](https://news.ycombinator.com/item?id=20147015)
+
+446. `10/06/2019` [undefined](https://news.ycombinator.com/item?id=20144619)
+
+447. `09/06/2019` [undefined](https://news.ycombinator.com/item?id=20140790)
+
+448. `06/06/2019` [undefined](https://news.ycombinator.com/item?id=20118963)
+
+449. `06/06/2019` [undefined](https://news.ycombinator.com/item?id=20110442)
+
+450. `05/06/2019` [undefined](https://news.ycombinator.com/item?id=20103589)
+
+451. `03/06/2019` [undefined](https://news.ycombinator.com/item?id=20087573)
+
+452. `01/06/2019` [undefined](https://news.ycombinator.com/item?id=20070281)
+
+453. `01/06/2019` [undefined](https://news.ycombinator.com/item?id=20068291)
+
+454. `01/06/2019` [undefined](https://news.ycombinator.com/item?id=20068269)
+
+455. `30/05/2019` [undefined](https://news.ycombinator.com/item?id=20048205)
+
+456. `29/05/2019` [undefined](https://news.ycombinator.com/item?id=20044876)
+
+457. `28/05/2019` [undefined](https://news.ycombinator.com/item?id=20033728)
+
+458. `24/05/2019` [undefined](https://news.ycombinator.com/item?id=20001151)
+
+459. `24/05/2019` [undefined](https://news.ycombinator.com/item?id=19997813)
+
+460. `22/05/2019` [undefined](https://news.ycombinator.com/item?id=19981869)
+
+461. `21/05/2019` [undefined](https://news.ycombinator.com/item?id=19968114)
+
+462. `20/05/2019` [undefined](https://news.ycombinator.com/item?id=19963640)
+
+463. `19/05/2019` [undefined](https://news.ycombinator.com/item?id=19955958)
+
+464. `17/05/2019` [undefined](https://news.ycombinator.com/item?id=19939292)
+
+465. `16/05/2019` [undefined](https://news.ycombinator.com/item?id=19927908)
+
+466. `16/05/2019` [undefined](https://news.ycombinator.com/item?id=19926803)
+
+467. `15/05/2019` [undefined](https://news.ycombinator.com/item?id=19922062)
+
+468. `12/05/2019` [undefined](https://news.ycombinator.com/item?id=19894233)
+
+469. `08/05/2019` [undefined](https://news.ycombinator.com/item?id=19861725)
+
+470. `08/05/2019` [undefined](https://news.ycombinator.com/item?id=19860093)
+
+471. `07/05/2019` [undefined](https://news.ycombinator.com/item?id=19851934)
+
+472. `07/05/2019` [undefined](https://news.ycombinator.com/item?id=19851744)
+
+473. `06/05/2019` [undefined](https://news.ycombinator.com/item?id=19839081)
+
 
