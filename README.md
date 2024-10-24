@@ -1,949 +1,949 @@
 # HackerNews Favs!
 
-1. `07/07/2022` [undefined](https://news.ycombinator.com/item?id=32013330)
+1. `aN/aN/NaN` [undefined](https://news.ycombinator.com/item?id=32011439)
 
-2. `07/07/2022` [undefined](https://news.ycombinator.com/item?id=32011439)
+2. `aN/aN/NaN` [undefined](https://news.ycombinator.com/item?id=32013330)
 
-3. `06/07/2022` [undefined](https://news.ycombinator.com/item?id=32000400)
+3. `aN/aN/NaN` [undefined](https://news.ycombinator.com/item?id=32000400)
 
-4. `04/07/2022` [undefined](https://news.ycombinator.com/item?id=31972681)
+4. `aN/aN/NaN` [undefined](https://news.ycombinator.com/item?id=31972681)
 
-5. `02/07/2022` [undefined](https://news.ycombinator.com/item?id=31958823)
+5. `aN/aN/NaN` [undefined](https://news.ycombinator.com/item?id=31958823)
 
-6. `20/06/2022` [undefined](https://news.ycombinator.com/item?id=31814288)
+6. `aN/aN/NaN` [undefined](https://news.ycombinator.com/item?id=31814288)
 
-7. `16/06/2022` [undefined](https://news.ycombinator.com/item?id=31769059)
+7. `aN/aN/NaN` [undefined](https://news.ycombinator.com/item?id=31626268)
 
-8. `15/06/2022` [undefined](https://news.ycombinator.com/item?id=31752516)
+8. `aN/aN/NaN` [undefined](https://news.ycombinator.com/item?id=31769059)
 
-9. `15/06/2022` [undefined](https://news.ycombinator.com/item?id=31748553)
+9. `aN/aN/NaN` [undefined](https://news.ycombinator.com/item?id=31748553)
 
-10. `12/06/2022` [undefined](https://news.ycombinator.com/item?id=31713654)
+10. `aN/aN/NaN` [undefined](https://news.ycombinator.com/item?id=31752516)
 
-11. `12/06/2022` [undefined](https://news.ycombinator.com/item?id=31713360)
+11. `aN/aN/NaN` [undefined](https://news.ycombinator.com/item?id=31696901)
 
-12. `11/06/2022` [undefined](https://news.ycombinator.com/item?id=31706835)
+12. `aN/aN/NaN` [undefined](https://news.ycombinator.com/item?id=31713360)
 
-13. `11/06/2022` [undefined](https://news.ycombinator.com/item?id=31704789)
+13. `aN/aN/NaN` [undefined](https://news.ycombinator.com/item?id=31713654)
 
-14. `10/06/2022` [undefined](https://news.ycombinator.com/item?id=31696901)
+14. `aN/aN/NaN` [undefined](https://news.ycombinator.com/item?id=31704789)
 
-15. `09/06/2022` [undefined](https://news.ycombinator.com/item?id=31681787)
+15. `aN/aN/NaN` [undefined](https://news.ycombinator.com/item?id=31706835)
 
-16. `09/06/2022` [undefined](https://news.ycombinator.com/item?id=31679811)
+16. `aN/aN/NaN` [undefined](https://news.ycombinator.com/item?id=31681787)
 
-17. `04/06/2022` [undefined](https://news.ycombinator.com/item?id=31626268)
+17. `aN/aN/NaN` [undefined](https://news.ycombinator.com/item?id=31679811)
 
-18. `31/05/2022` [undefined](https://news.ycombinator.com/item?id=31575962)
+18. `aN/aN/NaN` [undefined](https://news.ycombinator.com/item?id=31575962)
 
-19. `31/05/2022` [undefined](https://news.ycombinator.com/item?id=31574125)
+19. `aN/aN/NaN` [undefined](https://news.ycombinator.com/item?id=31574125)
 
-20. `30/05/2022` [undefined](https://news.ycombinator.com/item?id=31561575)
+20. `aN/aN/NaN` [undefined](https://news.ycombinator.com/item?id=31561575)
 
-21. `29/05/2022` [undefined](https://news.ycombinator.com/item?id=31552100)
+21. `aN/aN/NaN` [undefined](https://news.ycombinator.com/item?id=31552100)
 
-22. `27/05/2022` [undefined](https://news.ycombinator.com/item?id=31532199)
+22. `aN/aN/NaN` [undefined](https://news.ycombinator.com/item?id=31532199)
 
-23. `26/05/2022` [undefined](https://news.ycombinator.com/item?id=31520229)
+23. `aN/aN/NaN` [undefined](https://news.ycombinator.com/item?id=31503107)
 
-24. `25/05/2022` [undefined](https://news.ycombinator.com/item?id=31503107)
+24. `aN/aN/NaN` [undefined](https://news.ycombinator.com/item?id=31520229)
 
-25. `23/05/2022` [undefined](https://news.ycombinator.com/item?id=31480306)
+25. `aN/aN/NaN` [undefined](https://news.ycombinator.com/item?id=31480306)
 
-26. `22/05/2022` [undefined](https://news.ycombinator.com/item?id=31470928)
+26. `aN/aN/NaN` [undefined](https://news.ycombinator.com/item?id=31470928)
 
-27. `22/05/2022` [undefined](https://news.ycombinator.com/item?id=31468303)
+27. `aN/aN/NaN` [undefined](https://news.ycombinator.com/item?id=31468303)
 
-28. `21/05/2022` [undefined](https://news.ycombinator.com/item?id=31462563)
+28. `aN/aN/NaN` [undefined](https://news.ycombinator.com/item?id=31462563)
 
-29. `19/05/2022` [undefined](https://news.ycombinator.com/item?id=31431233)
+29. `aN/aN/NaN` [undefined](https://news.ycombinator.com/item?id=31431233)
 
-30. `18/05/2022` [undefined](https://news.ycombinator.com/item?id=31421364)
+30. `aN/aN/NaN` [undefined](https://news.ycombinator.com/item?id=31421364)
 
-31. `17/05/2022` [undefined](https://news.ycombinator.com/item?id=31412608)
+31. `aN/aN/NaN` [undefined](https://news.ycombinator.com/item?id=31412608)
 
-32. `17/05/2022` [undefined](https://news.ycombinator.com/item?id=31405890)
+32. `aN/aN/NaN` [undefined](https://news.ycombinator.com/item?id=31405890)
 
-33. `16/05/2022` [undefined](https://news.ycombinator.com/item?id=31402137)
+33. `aN/aN/NaN` [undefined](https://news.ycombinator.com/item?id=31402137)
 
-34. `16/05/2022` [undefined](https://news.ycombinator.com/item?id=31401470)
+34. `aN/aN/NaN` [undefined](https://news.ycombinator.com/item?id=31401470)
 
-35. `15/05/2022` [undefined](https://news.ycombinator.com/item?id=31387312)
+35. `aN/aN/NaN` [undefined](https://news.ycombinator.com/item?id=31368209)
 
-36. `14/05/2022` [undefined](https://news.ycombinator.com/item?id=31378896)
+36. `aN/aN/NaN` [undefined](https://news.ycombinator.com/item?id=31378896)
 
-37. `13/05/2022` [undefined](https://news.ycombinator.com/item?id=31371340)
+37. `aN/aN/NaN` [undefined](https://news.ycombinator.com/item?id=31387312)
 
-38. `13/05/2022` [undefined](https://news.ycombinator.com/item?id=31368209)
+38. `aN/aN/NaN` [undefined](https://news.ycombinator.com/item?id=31360776)
 
-39. `12/05/2022` [undefined](https://news.ycombinator.com/item?id=31360776)
+39. `aN/aN/NaN` [undefined](https://news.ycombinator.com/item?id=31357314)
 
-40. `12/05/2022` [undefined](https://news.ycombinator.com/item?id=31357314)
+40. `aN/aN/NaN` [undefined](https://news.ycombinator.com/item?id=31371340)
 
-41. `08/05/2022` [undefined](https://news.ycombinator.com/item?id=31304777)
+41. `aN/aN/NaN` [undefined](https://news.ycombinator.com/item?id=31304441)
 
-42. `08/05/2022` [undefined](https://news.ycombinator.com/item?id=31304441)
+42. `aN/aN/NaN` [undefined](https://news.ycombinator.com/item?id=31304777)
 
-43. `05/05/2022` [undefined](https://news.ycombinator.com/item?id=31271038)
+43. `aN/aN/NaN` [undefined](https://news.ycombinator.com/item?id=31270142)
 
-44. `05/05/2022` [undefined](https://news.ycombinator.com/item?id=31270142)
+44. `aN/aN/NaN` [undefined](https://news.ycombinator.com/item?id=27078792)
 
-45. `04/05/2022` [undefined](https://news.ycombinator.com/item?id=31260061)
+45. `aN/aN/NaN` [undefined](https://news.ycombinator.com/item?id=31249181)
 
-46. `03/05/2022` [undefined](https://news.ycombinator.com/item?id=31250275)
+46. `aN/aN/NaN` [undefined](https://news.ycombinator.com/item?id=31271038)
 
-47. `03/05/2022` [undefined](https://news.ycombinator.com/item?id=31249181)
+47. `aN/aN/NaN` [undefined](https://news.ycombinator.com/item?id=31219324)
 
-48. `03/05/2022` [undefined](https://news.ycombinator.com/item?id=31244448)
+48. `aN/aN/NaN` [undefined](https://news.ycombinator.com/item?id=31260061)
 
-49. `02/05/2022` [undefined](https://news.ycombinator.com/item?id=31235109)
+49. `aN/aN/NaN` [undefined](https://news.ycombinator.com/item?id=31203384)
 
-50. `30/04/2022` [undefined](https://news.ycombinator.com/item?id=31220553)
+50. `aN/aN/NaN` [undefined](https://news.ycombinator.com/item?id=31250275)
 
-51. `30/04/2022` [undefined](https://news.ycombinator.com/item?id=31219324)
+51. `aN/aN/NaN` [undefined](https://news.ycombinator.com/item?id=31244448)
 
-52. `29/04/2022` [undefined](https://news.ycombinator.com/item?id=31203384)
+52. `aN/aN/NaN` [undefined](https://news.ycombinator.com/item?id=31235109)
 
-53. `27/04/2022` [undefined](https://news.ycombinator.com/item?id=31182099)
+53. `aN/aN/NaN` [undefined](https://news.ycombinator.com/item?id=31220553)
 
-54. `26/04/2022` [undefined](https://news.ycombinator.com/item?id=31163871)
+54. `aN/aN/NaN` [undefined](https://news.ycombinator.com/item?id=31182099)
 
-55. `26/04/2022` [undefined](https://news.ycombinator.com/item?id=31163709)
+55. `aN/aN/NaN` [undefined](https://news.ycombinator.com/item?id=31163871)
 
-56. `25/04/2022` [undefined](https://news.ycombinator.com/item?id=31149801)
+56. `aN/aN/NaN` [undefined](https://news.ycombinator.com/item?id=31163709)
 
-57. `23/04/2022` [undefined](https://news.ycombinator.com/item?id=31129936)
+57. `aN/aN/NaN` [undefined](https://news.ycombinator.com/item?id=31149801)
 
-58. `22/04/2022` [undefined](https://news.ycombinator.com/item?id=31129484)
+58. `aN/aN/NaN` [undefined](https://news.ycombinator.com/item?id=31129936)
 
-59. `22/04/2022` [undefined](https://news.ycombinator.com/item?id=31121319)
+59. `aN/aN/NaN` [undefined](https://news.ycombinator.com/item?id=31129484)
 
-60. `22/04/2022` [undefined](https://news.ycombinator.com/item?id=31121089)
+60. `aN/aN/NaN` [undefined](https://news.ycombinator.com/item?id=31094301)
 
-61. `22/04/2022` [undefined](https://news.ycombinator.com/item?id=31120094)
+61. `aN/aN/NaN` [undefined](https://news.ycombinator.com/item?id=31106536)
 
-62. `21/04/2022` [undefined](https://news.ycombinator.com/item?id=31115857)
+62. `aN/aN/NaN` [undefined](https://news.ycombinator.com/item?id=31121319)
 
-63. `21/04/2022` [undefined](https://news.ycombinator.com/item?id=31106536)
+63. `aN/aN/NaN` [undefined](https://news.ycombinator.com/item?id=31120094)
 
-64. `20/04/2022` [undefined](https://news.ycombinator.com/item?id=31099655)
+64. `aN/aN/NaN` [undefined](https://news.ycombinator.com/item?id=31121089)
 
-65. `20/04/2022` [undefined](https://news.ycombinator.com/item?id=31094301)
+65. `aN/aN/NaN` [undefined](https://news.ycombinator.com/item?id=31115857)
 
-66. `19/04/2022` [undefined](https://news.ycombinator.com/item?id=31083432)
+66. `aN/aN/NaN` [undefined](https://news.ycombinator.com/item?id=31099655)
 
-67. `19/04/2022` [undefined](https://news.ycombinator.com/item?id=31079144)
+67. `aN/aN/NaN` [undefined](https://news.ycombinator.com/item?id=31079144)
 
-68. `17/04/2022` [undefined](https://news.ycombinator.com/item?id=31062799)
+68. `aN/aN/NaN` [undefined](https://news.ycombinator.com/item?id=31083432)
 
-69. `17/04/2022` [undefined](https://news.ycombinator.com/item?id=31061683)
+69. `aN/aN/NaN` [undefined](https://news.ycombinator.com/item?id=31061683)
 
-70. `17/04/2022` [undefined](https://news.ycombinator.com/item?id=31061163)
+70. `aN/aN/NaN` [undefined](https://news.ycombinator.com/item?id=31062799)
 
-71. `16/04/2022` [undefined](https://news.ycombinator.com/item?id=31053274)
+71. `aN/aN/NaN` [undefined](https://news.ycombinator.com/item?id=31061163)
 
-72. `16/04/2022` [undefined](https://news.ycombinator.com/item?id=31052254)
+72. `aN/aN/NaN` [undefined](https://news.ycombinator.com/item?id=31052254)
 
-73. `15/04/2022` [undefined](https://news.ycombinator.com/item?id=31043655)
+73. `aN/aN/NaN` [undefined](https://news.ycombinator.com/item?id=31053274)
 
-74. `15/04/2022` [undefined](https://news.ycombinator.com/item?id=31040571)
+74. `aN/aN/NaN` [undefined](https://news.ycombinator.com/item?id=31040571)
 
-75. `13/04/2022` [undefined](https://news.ycombinator.com/item?id=31021611)
+75. `aN/aN/NaN` [undefined](https://news.ycombinator.com/item?id=31043655)
 
-76. `12/04/2022` [undefined](https://news.ycombinator.com/item?id=31009313)
+76. `aN/aN/NaN` [undefined](https://news.ycombinator.com/item?id=31021611)
 
-77. `12/04/2022` [undefined](https://news.ycombinator.com/item?id=31008141)
+77. `aN/aN/NaN` [undefined](https://news.ycombinator.com/item?id=31009313)
 
-78. `12/04/2022` [undefined](https://news.ycombinator.com/item?id=31005399)
+78. `aN/aN/NaN` [undefined](https://news.ycombinator.com/item?id=31005399)
 
-79. `12/04/2022` [undefined](https://news.ycombinator.com/item?id=31004928)
+79. `aN/aN/NaN` [undefined](https://news.ycombinator.com/item?id=31004928)
 
-80. `12/04/2022` [undefined](https://news.ycombinator.com/item?id=31003395)
+80. `aN/aN/NaN` [undefined](https://news.ycombinator.com/item?id=31008141)
 
-81. `12/04/2022` [undefined](https://news.ycombinator.com/item?id=30997735)
+81. `aN/aN/NaN` [undefined](https://news.ycombinator.com/item?id=31003395)
 
-82. `10/04/2022` [undefined](https://news.ycombinator.com/item?id=30980307)
+82. `aN/aN/NaN` [undefined](https://news.ycombinator.com/item?id=30997735)
 
-83. `10/04/2022` [undefined](https://news.ycombinator.com/item?id=30974544)
+83. `aN/aN/NaN` [undefined](https://news.ycombinator.com/item?id=30980307)
 
-84. `09/04/2022` [undefined](https://news.ycombinator.com/item?id=30965352)
+84. `aN/aN/NaN` [undefined](https://news.ycombinator.com/item?id=30974544)
 
-85. `08/04/2022` [undefined](https://news.ycombinator.com/item?id=30952084)
+85. `aN/aN/NaN` [undefined](https://news.ycombinator.com/item?id=30965352)
 
-86. `05/04/2022` [undefined](https://news.ycombinator.com/item?id=30925843)
+86. `aN/aN/NaN` [undefined](https://news.ycombinator.com/item?id=30952084)
 
-87. `05/04/2022` [undefined](https://news.ycombinator.com/item?id=30919257)
+87. `aN/aN/NaN` [undefined](https://news.ycombinator.com/item?id=30925843)
 
-88. `04/04/2022` [undefined](https://news.ycombinator.com/item?id=30911598)
+88. `aN/aN/NaN` [undefined](https://news.ycombinator.com/item?id=30919257)
 
-89. `02/04/2022` [undefined](https://news.ycombinator.com/item?id=30885668)
+89. `aN/aN/NaN` [undefined](https://news.ycombinator.com/item?id=30804253)
 
-90. `01/04/2022` [undefined](https://news.ycombinator.com/item?id=30873832)
+90. `aN/aN/NaN` [undefined](https://news.ycombinator.com/item?id=30767860)
 
-91. `31/03/2022` [undefined](https://news.ycombinator.com/item?id=30866244)
+91. `aN/aN/NaN` [undefined](https://news.ycombinator.com/item?id=30866244)
 
-92. `25/03/2022` [undefined](https://news.ycombinator.com/item?id=30804253)
+92. `aN/aN/NaN` [undefined](https://news.ycombinator.com/item?id=30873832)
 
-93. `22/03/2022` [undefined](https://news.ycombinator.com/item?id=30767860)
+93. `aN/aN/NaN` [undefined](https://news.ycombinator.com/item?id=30885668)
 
-94. `12/03/2022` [undefined](https://news.ycombinator.com/item?id=30651273)
+94. `aN/aN/NaN` [undefined](https://news.ycombinator.com/item?id=30911598)
 
-95. `09/03/2022` [undefined](https://news.ycombinator.com/item?id=30610238)
+95. `aN/aN/NaN` [undefined](https://news.ycombinator.com/item?id=30651273)
 
-96. `07/03/2022` [undefined](https://news.ycombinator.com/item?id=30592987)
+96. `aN/aN/NaN` [undefined](https://news.ycombinator.com/item?id=30610238)
 
-97. `07/03/2022` [undefined](https://news.ycombinator.com/item?id=30591177)
+97. `aN/aN/NaN` [undefined](https://news.ycombinator.com/item?id=30592987)
 
-98. `06/03/2022` [undefined](https://news.ycombinator.com/item?id=30575434)
+98. `aN/aN/NaN` [undefined](https://news.ycombinator.com/item?id=30591177)
 
-99. `06/03/2022` [undefined](https://news.ycombinator.com/item?id=30574389)
+99. `aN/aN/NaN` [undefined](https://news.ycombinator.com/item?id=30574389)
 
-100. `02/03/2022` [undefined](https://news.ycombinator.com/item?id=30533540)
+100. `aN/aN/NaN` [undefined](https://news.ycombinator.com/item?id=30575434)
 
-101. `02/03/2022` [undefined](https://news.ycombinator.com/item?id=30527999)
+101. `aN/aN/NaN` [undefined](https://news.ycombinator.com/item?id=30533540)
 
-102. `27/02/2022` [undefined](https://news.ycombinator.com/item?id=30493713)
+102. `aN/aN/NaN` [undefined](https://news.ycombinator.com/item?id=30527999)
 
-103. `21/02/2022` [undefined](https://news.ycombinator.com/item?id=30419451)
+103. `aN/aN/NaN` [undefined](https://news.ycombinator.com/item?id=30493713)
 
-104. `21/02/2022` [undefined](https://news.ycombinator.com/item?id=30417411)
+104. `aN/aN/NaN` [undefined](https://news.ycombinator.com/item?id=30392227)
 
-105. `18/02/2022` [undefined](https://news.ycombinator.com/item?id=30392227)
+105. `aN/aN/NaN` [undefined](https://news.ycombinator.com/item?id=30419451)
 
-106. `18/02/2022` [undefined](https://news.ycombinator.com/item?id=30382577)
+106. `aN/aN/NaN` [undefined](https://news.ycombinator.com/item?id=30417411)
 
-107. `16/02/2022` [undefined](https://news.ycombinator.com/item?id=30359430)
+107. `aN/aN/NaN` [undefined](https://news.ycombinator.com/item?id=30382577)
 
-108. `16/02/2022` [undefined](https://news.ycombinator.com/item?id=30358903)
+108. `aN/aN/NaN` [undefined](https://news.ycombinator.com/item?id=30349767)
 
-109. `15/02/2022` [undefined](https://news.ycombinator.com/item?id=30352207)
+109. `aN/aN/NaN` [undefined](https://news.ycombinator.com/item?id=30358903)
 
-110. `15/02/2022` [undefined](https://news.ycombinator.com/item?id=30349767)
+110. `aN/aN/NaN` [undefined](https://news.ycombinator.com/item?id=30359430)
 
-111. `15/02/2022` [undefined](https://news.ycombinator.com/item?id=30340503)
+111. `aN/aN/NaN` [undefined](https://news.ycombinator.com/item?id=30352207)
 
-112. `14/02/2022` [undefined](https://news.ycombinator.com/item?id=30338074)
+112. `aN/aN/NaN` [undefined](https://news.ycombinator.com/item?id=30340503)
 
-113. `14/02/2022` [undefined](https://news.ycombinator.com/item?id=30332535)
+113. `aN/aN/NaN` [undefined](https://news.ycombinator.com/item?id=30018197)
 
-114. `10/02/2022` [undefined](https://news.ycombinator.com/item?id=30290225)
+114. `aN/aN/NaN` [undefined](https://news.ycombinator.com/item?id=30338074)
 
-115. `09/02/2022` [undefined](https://news.ycombinator.com/item?id=30278595)
+115. `aN/aN/NaN` [undefined](https://news.ycombinator.com/item?id=30332535)
 
-116. `03/02/2022` [undefined](https://news.ycombinator.com/item?id=30193997)
+116. `aN/aN/NaN` [undefined](https://news.ycombinator.com/item?id=30290225)
 
-117. `28/01/2022` [undefined](https://news.ycombinator.com/item?id=30120927)
+117. `aN/aN/NaN` [undefined](https://news.ycombinator.com/item?id=30047025)
 
-118. `28/01/2022` [undefined](https://news.ycombinator.com/item?id=30116433)
+118. `aN/aN/NaN` [undefined](https://news.ycombinator.com/item?id=30278595)
 
-119. `27/01/2022` [undefined](https://news.ycombinator.com/item?id=30100427)
+119. `aN/aN/NaN` [undefined](https://news.ycombinator.com/item?id=30193997)
 
-120. `23/01/2022` [undefined](https://news.ycombinator.com/item?id=30047025)
+120. `aN/aN/NaN` [undefined](https://news.ycombinator.com/item?id=30120927)
 
-121. `21/01/2022` [undefined](https://news.ycombinator.com/item?id=30024165)
+121. `aN/aN/NaN` [undefined](https://news.ycombinator.com/item?id=30116433)
 
-122. `21/01/2022` [undefined](https://news.ycombinator.com/item?id=30018197)
+122. `aN/aN/NaN` [undefined](https://news.ycombinator.com/item?id=30100427)
 
-123. `17/01/2022` [undefined](https://news.ycombinator.com/item?id=29972655)
+123. `aN/aN/NaN` [undefined](https://news.ycombinator.com/item?id=30024165)
 
-124. `17/01/2022` [undefined](https://news.ycombinator.com/item?id=29971182)
+124. `aN/aN/NaN` [undefined](https://news.ycombinator.com/item?id=29972655)
 
-125. `17/01/2022` [undefined](https://news.ycombinator.com/item?id=29969757)
+125. `aN/aN/NaN` [undefined](https://news.ycombinator.com/item?id=29971182)
 
-126. `14/01/2022` [undefined](https://news.ycombinator.com/item?id=29938520)
+126. `aN/aN/NaN` [undefined](https://news.ycombinator.com/item?id=29969757)
 
-127. `14/01/2022` [undefined](https://news.ycombinator.com/item?id=29929438)
+127. `aN/aN/NaN` [undefined](https://news.ycombinator.com/item?id=29938520)
 
-128. `11/01/2022` [undefined](https://news.ycombinator.com/item?id=29892134)
+128. `aN/aN/NaN` [undefined](https://news.ycombinator.com/item?id=29929438)
 
-129. `06/01/2022` [undefined](https://news.ycombinator.com/item?id=29828386)
+129. `aN/aN/NaN` [undefined](https://news.ycombinator.com/item?id=29892134)
 
-130. `06/01/2022` [undefined](https://news.ycombinator.com/item?id=29821687)
+130. `aN/aN/NaN` [undefined](https://news.ycombinator.com/item?id=29821687)
 
-131. `03/01/2022` [undefined](https://news.ycombinator.com/item?id=29780739)
+131. `aN/aN/NaN` [undefined](https://news.ycombinator.com/item?id=29828386)
 
-132. `02/01/2022` [undefined](https://news.ycombinator.com/item?id=29774097)
+132. `aN/aN/NaN` [undefined](https://news.ycombinator.com/item?id=29780739)
 
-133. `01/01/2022` [undefined](https://news.ycombinator.com/item?id=29759204)
+133. `aN/aN/NaN` [undefined](https://news.ycombinator.com/item?id=29774097)
 
-134. `30/12/2021` [undefined](https://news.ycombinator.com/item?id=29735392)
+134. `aN/aN/NaN` [undefined](https://news.ycombinator.com/item?id=29759204)
 
-135. `28/12/2021` [undefined](https://news.ycombinator.com/item?id=29715464)
+135. `aN/aN/NaN` [undefined](https://news.ycombinator.com/item?id=29735392)
 
-136. `17/12/2021` [undefined](https://news.ycombinator.com/item?id=29590501)
+136. `aN/aN/NaN` [undefined](https://news.ycombinator.com/item?id=29715464)
 
-137. `16/12/2021` [undefined](https://news.ycombinator.com/item?id=29581125)
+137. `aN/aN/NaN` [undefined](https://news.ycombinator.com/item?id=29590501)
 
-138. `15/12/2021` [undefined](https://news.ycombinator.com/item?id=29559961)
+138. `aN/aN/NaN` [undefined](https://news.ycombinator.com/item?id=29581125)
 
-139. `12/12/2021` [undefined](https://news.ycombinator.com/item?id=29533495)
+139. `aN/aN/NaN` [undefined](https://news.ycombinator.com/item?id=29559961)
 
-140. `04/12/2021` [undefined](https://news.ycombinator.com/item?id=29442643)
+140. `aN/aN/NaN` [undefined](https://news.ycombinator.com/item?id=29533495)
 
-141. `01/12/2021` [undefined](https://news.ycombinator.com/item?id=29406112)
+141. `aN/aN/NaN` [undefined](https://news.ycombinator.com/item?id=29442643)
 
-142. `01/12/2021` [undefined](https://news.ycombinator.com/item?id=29401589)
+142. `aN/aN/NaN` [undefined](https://news.ycombinator.com/item?id=29406112)
 
-143. `01/12/2021` [undefined](https://news.ycombinator.com/item?id=29400741)
+143. `aN/aN/NaN` [undefined](https://news.ycombinator.com/item?id=29401589)
 
-144. `30/11/2021` [undefined](https://news.ycombinator.com/item?id=29397243)
+144. `aN/aN/NaN` [undefined](https://news.ycombinator.com/item?id=29400741)
 
-145. `30/11/2021` [undefined](https://news.ycombinator.com/item?id=29394162)
+145. `aN/aN/NaN` [undefined](https://news.ycombinator.com/item?id=29397243)
 
-146. `30/11/2021` [undefined](https://news.ycombinator.com/item?id=29387761)
+146. `aN/aN/NaN` [undefined](https://news.ycombinator.com/item?id=29394162)
 
-147. `29/11/2021` [undefined](https://news.ycombinator.com/item?id=29382643)
+147. `aN/aN/NaN` [undefined](https://news.ycombinator.com/item?id=29387761)
 
-148. `29/11/2021` [undefined](https://news.ycombinator.com/item?id=29377515)
+148. `aN/aN/NaN` [undefined](https://news.ycombinator.com/item?id=29382643)
 
-149. `29/11/2021` [undefined](https://news.ycombinator.com/item?id=29376832)
+149. `aN/aN/NaN` [undefined](https://news.ycombinator.com/item?id=29359038)
 
-150. `27/11/2021` [undefined](https://news.ycombinator.com/item?id=29360119)
+150. `aN/aN/NaN` [undefined](https://news.ycombinator.com/item?id=29377515)
 
-151. `27/11/2021` [undefined](https://news.ycombinator.com/item?id=29359966)
+151. `aN/aN/NaN` [undefined](https://news.ycombinator.com/item?id=29376832)
 
-152. `27/11/2021` [undefined](https://news.ycombinator.com/item?id=29359038)
+152. `aN/aN/NaN` [undefined](https://news.ycombinator.com/item?id=29359966)
 
-153. `26/11/2021` [undefined](https://news.ycombinator.com/item?id=29349079)
+153. `aN/aN/NaN` [undefined](https://news.ycombinator.com/item?id=29330335)
 
-154. `25/11/2021` [undefined](https://news.ycombinator.com/item?id=29338658)
+154. `aN/aN/NaN` [undefined](https://news.ycombinator.com/item?id=29360119)
 
-155. `24/11/2021` [undefined](https://news.ycombinator.com/item?id=29330335)
+155. `aN/aN/NaN` [undefined](https://news.ycombinator.com/item?id=29349079)
 
-156. `24/11/2021` [undefined](https://news.ycombinator.com/item?id=29330109)
+156. `aN/aN/NaN` [undefined](https://news.ycombinator.com/item?id=29338658)
 
-157. `23/11/2021` [undefined](https://news.ycombinator.com/item?id=29321987)
+157. `aN/aN/NaN` [undefined](https://news.ycombinator.com/item?id=29330109)
 
-158. `18/11/2021` [undefined](https://news.ycombinator.com/item?id=29261733)
+158. `aN/aN/NaN` [undefined](https://news.ycombinator.com/item?id=29321987)
 
-159. `17/11/2021` [undefined](https://news.ycombinator.com/item?id=29254147)
+159. `aN/aN/NaN` [undefined](https://news.ycombinator.com/item?id=29023981)
 
-160. `14/11/2021` [undefined](https://news.ycombinator.com/item?id=29217622)
+160. `aN/aN/NaN` [undefined](https://news.ycombinator.com/item?id=29261733)
 
-161. `13/11/2021` [undefined](https://news.ycombinator.com/item?id=29211532)
+161. `aN/aN/NaN` [undefined](https://news.ycombinator.com/item?id=29254147)
 
-162. `13/11/2021` [undefined](https://news.ycombinator.com/item?id=29209455)
+162. `aN/aN/NaN` [undefined](https://news.ycombinator.com/item?id=29217622)
 
-163. `13/11/2021` [undefined](https://news.ycombinator.com/item?id=29208518)
+163. `aN/aN/NaN` [undefined](https://news.ycombinator.com/item?id=29211532)
 
-164. `12/11/2021` [undefined](https://news.ycombinator.com/item?id=29196221)
+164. `aN/aN/NaN` [undefined](https://news.ycombinator.com/item?id=29208518)
 
-165. `11/11/2021` [undefined](https://news.ycombinator.com/item?id=29191918)
+165. `aN/aN/NaN` [undefined](https://news.ycombinator.com/item?id=29209455)
 
-166. `10/11/2021` [undefined](https://news.ycombinator.com/item?id=29171490)
+166. `aN/aN/NaN` [undefined](https://news.ycombinator.com/item?id=29196221)
 
-167. `10/11/2021` [undefined](https://news.ycombinator.com/item?id=29170955)
+167. `aN/aN/NaN` [undefined](https://news.ycombinator.com/item?id=29191918)
 
-168. `09/11/2021` [undefined](https://news.ycombinator.com/item?id=29162248)
+168. `aN/aN/NaN` [undefined](https://news.ycombinator.com/item?id=29171490)
 
-169. `09/11/2021` [undefined](https://news.ycombinator.com/item?id=29161585)
+169. `aN/aN/NaN` [undefined](https://news.ycombinator.com/item?id=29170955)
 
-170. `09/11/2021` [undefined](https://news.ycombinator.com/item?id=29159990)
+170. `aN/aN/NaN` [undefined](https://news.ycombinator.com/item?id=29162248)
 
-171. `09/11/2021` [undefined](https://news.ycombinator.com/item?id=29156529)
+171. `aN/aN/NaN` [undefined](https://news.ycombinator.com/item?id=29161585)
 
-172. `08/11/2021` [undefined](https://news.ycombinator.com/item?id=29149152)
+172. `aN/aN/NaN` [undefined](https://news.ycombinator.com/item?id=29159990)
 
-173. `07/11/2021` [undefined](https://news.ycombinator.com/item?id=29136429)
+173. `aN/aN/NaN` [undefined](https://news.ycombinator.com/item?id=29156529)
 
-174. `06/11/2021` [undefined](https://news.ycombinator.com/item?id=29132196)
+174. `aN/aN/NaN` [undefined](https://news.ycombinator.com/item?id=29149152)
 
-175. `04/11/2021` [undefined](https://news.ycombinator.com/item?id=29109995)
+175. `aN/aN/NaN` [undefined](https://news.ycombinator.com/item?id=29136429)
 
-176. `04/11/2021` [undefined](https://news.ycombinator.com/item?id=29106581)
+176. `aN/aN/NaN` [undefined](https://news.ycombinator.com/item?id=29132196)
 
-177. `03/11/2021` [undefined](https://news.ycombinator.com/item?id=29097692)
+177. `aN/aN/NaN` [undefined](https://news.ycombinator.com/item?id=29106581)
 
-178. `02/11/2021` [undefined](https://news.ycombinator.com/item?id=29083349)
+178. `aN/aN/NaN` [undefined](https://news.ycombinator.com/item?id=29077933)
 
-179. `02/11/2021` [undefined](https://news.ycombinator.com/item?id=29077933)
+179. `aN/aN/NaN` [undefined](https://news.ycombinator.com/item?id=29109995)
 
-180. `01/11/2021` [undefined](https://news.ycombinator.com/item?id=29063836)
+180. `aN/aN/NaN` [undefined](https://news.ycombinator.com/item?id=29097692)
 
-181. `31/10/2021` [undefined](https://news.ycombinator.com/item?id=29056215)
+181. `aN/aN/NaN` [undefined](https://news.ycombinator.com/item?id=29083349)
 
-182. `31/10/2021` [undefined](https://news.ycombinator.com/item?id=29055433)
+182. `aN/aN/NaN` [undefined](https://news.ycombinator.com/item?id=29063836)
 
-183. `31/10/2021` [undefined](https://news.ycombinator.com/item?id=29054673)
+183. `aN/aN/NaN` [undefined](https://news.ycombinator.com/item?id=29054673)
 
-184. `30/10/2021` [undefined](https://news.ycombinator.com/item?id=29052747)
+184. `aN/aN/NaN` [undefined](https://news.ycombinator.com/item?id=29056215)
 
-185. `29/10/2021` [undefined](https://news.ycombinator.com/item?id=29040793)
+185. `aN/aN/NaN` [undefined](https://news.ycombinator.com/item?id=29055433)
 
-186. `29/10/2021` [undefined](https://news.ycombinator.com/item?id=29038813)
+186. `aN/aN/NaN` [undefined](https://news.ycombinator.com/item?id=29052747)
 
-187. `28/10/2021` [undefined](https://news.ycombinator.com/item?id=29031488)
+187. `aN/aN/NaN` [undefined](https://news.ycombinator.com/item?id=29038813)
 
-188. `28/10/2021` [undefined](https://news.ycombinator.com/item?id=29027328)
+188. `aN/aN/NaN` [undefined](https://news.ycombinator.com/item?id=29040793)
 
-189. `28/10/2021` [undefined](https://news.ycombinator.com/item?id=29025401)
+189. `aN/aN/NaN` [undefined](https://news.ycombinator.com/item?id=29011872)
 
-190. `28/10/2021` [undefined](https://news.ycombinator.com/item?id=29024767)
+190. `aN/aN/NaN` [undefined](https://news.ycombinator.com/item?id=29024572)
 
-191. `28/10/2021` [undefined](https://news.ycombinator.com/item?id=29024702)
+191. `aN/aN/NaN` [undefined](https://news.ycombinator.com/item?id=29024032)
 
-192. `28/10/2021` [undefined](https://news.ycombinator.com/item?id=29024572)
+192. `aN/aN/NaN` [undefined](https://news.ycombinator.com/item?id=29024702)
 
-193. `28/10/2021` [undefined](https://news.ycombinator.com/item?id=29024039)
+193. `aN/aN/NaN` [undefined](https://news.ycombinator.com/item?id=29024767)
 
-194. `28/10/2021` [undefined](https://news.ycombinator.com/item?id=29024032)
+194. `aN/aN/NaN` [undefined](https://news.ycombinator.com/item?id=29027328)
 
-195. `28/10/2021` [undefined](https://news.ycombinator.com/item?id=29023981)
+195. `aN/aN/NaN` [undefined](https://news.ycombinator.com/item?id=29031488)
 
-196. `28/10/2021` [undefined](https://news.ycombinator.com/item?id=29022887)
+196. `aN/aN/NaN` [undefined](https://news.ycombinator.com/item?id=29022887)
 
-197. `27/10/2021` [undefined](https://news.ycombinator.com/item?id=29011872)
+197. `aN/aN/NaN` [undefined](https://news.ycombinator.com/item?id=29024039)
 
-198. `27/10/2021` [undefined](https://news.ycombinator.com/item?id=29010443)
+198. `aN/aN/NaN` [undefined](https://news.ycombinator.com/item?id=29025401)
 
-199. `27/10/2021` [undefined](https://news.ycombinator.com/item?id=29008811)
+199. `aN/aN/NaN` [undefined](https://news.ycombinator.com/item?id=29008811)
 
-200. `26/10/2021` [undefined](https://news.ycombinator.com/item?id=28997309)
+200. `aN/aN/NaN` [undefined](https://news.ycombinator.com/item?id=29010443)
 
-201. `26/10/2021` [undefined](https://news.ycombinator.com/item?id=28995268)
+201. `aN/aN/NaN` [undefined](https://news.ycombinator.com/item?id=28997309)
 
-202. `25/10/2021` [undefined](https://news.ycombinator.com/item?id=28992873)
+202. `aN/aN/NaN` [undefined](https://news.ycombinator.com/item?id=28995268)
 
-203. `24/10/2021` [undefined](https://news.ycombinator.com/item?id=28979048)
+203. `aN/aN/NaN` [undefined](https://news.ycombinator.com/item?id=28967514)
 
-204. `23/10/2021` [undefined](https://news.ycombinator.com/item?id=28967514)
+204. `aN/aN/NaN` [undefined](https://news.ycombinator.com/item?id=28992873)
 
-205. `20/10/2021` [undefined](https://news.ycombinator.com/item?id=28932206)
+205. `aN/aN/NaN` [undefined](https://news.ycombinator.com/item?id=28979048)
 
-206. `19/10/2021` [undefined](https://news.ycombinator.com/item?id=28924751)
+206. `aN/aN/NaN` [undefined](https://news.ycombinator.com/item?id=28932206)
 
-207. `19/10/2021` [undefined](https://news.ycombinator.com/item?id=28918554)
+207. `aN/aN/NaN` [undefined](https://news.ycombinator.com/item?id=28924751)
 
-208. `19/10/2021` [undefined](https://news.ycombinator.com/item?id=28915544)
+208. `aN/aN/NaN` [undefined](https://news.ycombinator.com/item?id=28918554)
 
-209. `17/10/2021` [undefined](https://news.ycombinator.com/item?id=28898157)
+209. `aN/aN/NaN` [undefined](https://news.ycombinator.com/item?id=28898157)
 
-210. `17/10/2021` [undefined](https://news.ycombinator.com/item?id=28897492)
+210. `aN/aN/NaN` [undefined](https://news.ycombinator.com/item?id=28915544)
 
-211. `17/10/2021` [undefined](https://news.ycombinator.com/item?id=28893605)
+211. `aN/aN/NaN` [undefined](https://news.ycombinator.com/item?id=28897492)
 
-212. `16/10/2021` [undefined](https://news.ycombinator.com/item?id=28892031)
+212. `aN/aN/NaN` [undefined](https://news.ycombinator.com/item?id=28893605)
 
-213. `16/10/2021` [undefined](https://news.ycombinator.com/item?id=28888763)
+213. `aN/aN/NaN` [undefined](https://news.ycombinator.com/item?id=28892031)
 
-214. `15/10/2021` [undefined](https://news.ycombinator.com/item?id=28874123)
+214. `aN/aN/NaN` [undefined](https://news.ycombinator.com/item?id=28888763)
 
-215. `15/10/2021` [undefined](https://news.ycombinator.com/item?id=28873956)
+215. `aN/aN/NaN` [undefined](https://news.ycombinator.com/item?id=28874123)
 
-216. `14/10/2021` [undefined](https://news.ycombinator.com/item?id=28861618)
+216. `aN/aN/NaN` [undefined](https://news.ycombinator.com/item?id=28873956)
 
-217. `14/10/2021` [undefined](https://news.ycombinator.com/item?id=28860713)
+217. `aN/aN/NaN` [undefined](https://news.ycombinator.com/item?id=28859521)
 
-218. `14/10/2021` [undefined](https://news.ycombinator.com/item?id=28859521)
+218. `aN/aN/NaN` [undefined](https://news.ycombinator.com/item?id=28861618)
 
-219. `12/10/2021` [undefined](https://news.ycombinator.com/item?id=28838132)
+219. `aN/aN/NaN` [undefined](https://news.ycombinator.com/item?id=28860713)
 
-220. `12/10/2021` [undefined](https://news.ycombinator.com/item?id=28835690)
+220. `aN/aN/NaN` [undefined](https://news.ycombinator.com/item?id=28835690)
 
-221. `10/10/2021` [undefined](https://news.ycombinator.com/item?id=28820601)
+221. `aN/aN/NaN` [undefined](https://news.ycombinator.com/item?id=28838132)
 
-222. `10/10/2021` [undefined](https://news.ycombinator.com/item?id=28820012)
+222. `aN/aN/NaN` [undefined](https://news.ycombinator.com/item?id=28820601)
 
-223. `08/10/2021` [undefined](https://news.ycombinator.com/item?id=28801507)
+223. `aN/aN/NaN` [undefined](https://news.ycombinator.com/item?id=28820012)
 
-224. `08/10/2021` [undefined](https://news.ycombinator.com/item?id=28799049)
+224. `aN/aN/NaN` [undefined](https://news.ycombinator.com/item?id=28801507)
 
-225. `08/10/2021` [undefined](https://news.ycombinator.com/item?id=28797182)
+225. `aN/aN/NaN` [undefined](https://news.ycombinator.com/item?id=28797182)
 
-226. `08/10/2021` [undefined](https://news.ycombinator.com/item?id=28795478)
+226. `aN/aN/NaN` [undefined](https://news.ycombinator.com/item?id=28795478)
 
-227. `06/10/2021` [undefined](https://news.ycombinator.com/item?id=28777997)
+227. `aN/aN/NaN` [undefined](https://news.ycombinator.com/item?id=28799049)
 
-228. `03/10/2021` [undefined](https://news.ycombinator.com/item?id=28740452)
+228. `aN/aN/NaN` [undefined](https://news.ycombinator.com/item?id=28777997)
 
-229. `03/10/2021` [undefined](https://news.ycombinator.com/item?id=28735620)
+229. `aN/aN/NaN` [undefined](https://news.ycombinator.com/item?id=28704873)
 
-230. `01/10/2021` [undefined](https://news.ycombinator.com/item?id=28714667)
+230. `aN/aN/NaN` [undefined](https://news.ycombinator.com/item?id=28735620)
 
-231. `30/09/2021` [undefined](https://news.ycombinator.com/item?id=28704873)
+231. `aN/aN/NaN` [undefined](https://news.ycombinator.com/item?id=28740452)
 
-232. `29/09/2021` [undefined](https://news.ycombinator.com/item?id=28695346)
+232. `aN/aN/NaN` [undefined](https://news.ycombinator.com/item?id=28714667)
 
-233. `07/05/2021` [undefined](https://news.ycombinator.com/item?id=27078792)
+233. `aN/aN/NaN` [undefined](https://news.ycombinator.com/item?id=28695346)
 
-234. `03/07/2020` [undefined](https://news.ycombinator.com/item?id=23723058)
+234. `aN/aN/NaN` [undefined](https://news.ycombinator.com/item?id=23723058)
 
-235. `01/07/2020` [undefined](https://news.ycombinator.com/item?id=23701208)
+235. `aN/aN/NaN` [undefined](https://news.ycombinator.com/item?id=23701208)
 
-236. `31/05/2020` [undefined](https://news.ycombinator.com/item?id=23370009)
+236. `aN/aN/NaN` [undefined](https://news.ycombinator.com/item?id=23370009)
 
-237. `30/05/2020` [undefined](https://news.ycombinator.com/item?id=23363767)
+237. `aN/aN/NaN` [undefined](https://news.ycombinator.com/item?id=23363767)
 
-238. `27/05/2020` [undefined](https://news.ycombinator.com/item?id=23324598)
+238. `aN/aN/NaN` [undefined](https://news.ycombinator.com/item?id=23318137)
 
-239. `27/05/2020` [undefined](https://news.ycombinator.com/item?id=23318137)
+239. `aN/aN/NaN` [undefined](https://news.ycombinator.com/item?id=23324598)
 
-240. `26/05/2020` [undefined](https://news.ycombinator.com/item?id=23309269)
+240. `aN/aN/NaN` [undefined](https://news.ycombinator.com/item?id=23309269)
 
-241. `22/05/2020` [undefined](https://news.ycombinator.com/item?id=23276456)
+241. `aN/aN/NaN` [undefined](https://news.ycombinator.com/item?id=23276456)
 
-242. `22/05/2020` [undefined](https://news.ycombinator.com/item?id=23275080)
+242. `aN/aN/NaN` [undefined](https://news.ycombinator.com/item?id=23275080)
 
-243. `20/05/2020` [undefined](https://news.ycombinator.com/item?id=23248980)
+243. `aN/aN/NaN` [undefined](https://news.ycombinator.com/item?id=23248980)
 
-244. `18/05/2020` [undefined](https://news.ycombinator.com/item?id=23227287)
+244. `aN/aN/NaN` [undefined](https://news.ycombinator.com/item?id=23227287)
 
-245. `16/05/2020` [undefined](https://news.ycombinator.com/item?id=23205579)
+245. `aN/aN/NaN` [undefined](https://news.ycombinator.com/item?id=23203699)
 
-246. `16/05/2020` [undefined](https://news.ycombinator.com/item?id=23203699)
+246. `aN/aN/NaN` [undefined](https://news.ycombinator.com/item?id=23205579)
 
-247. `12/05/2020` [undefined](https://news.ycombinator.com/item?id=23156060)
+247. `aN/aN/NaN` [undefined](https://news.ycombinator.com/item?id=23150699)
 
-248. `12/05/2020` [undefined](https://news.ycombinator.com/item?id=23150699)
+248. `aN/aN/NaN` [undefined](https://news.ycombinator.com/item?id=23138507)
 
-249. `11/05/2020` [undefined](https://news.ycombinator.com/item?id=23138507)
+249. `aN/aN/NaN` [undefined](https://news.ycombinator.com/item?id=23156060)
 
-250. `06/05/2020` [undefined](https://news.ycombinator.com/item?id=23096166)
+250. `aN/aN/NaN` [undefined](https://news.ycombinator.com/item?id=23096166)
 
-251. `06/05/2020` [undefined](https://news.ycombinator.com/item?id=23094477)
+251. `aN/aN/NaN` [undefined](https://news.ycombinator.com/item?id=23094477)
 
-252. `06/05/2020` [undefined](https://news.ycombinator.com/item?id=23092904)
+252. `aN/aN/NaN` [undefined](https://news.ycombinator.com/item?id=23092904)
 
-253. `05/05/2020` [undefined](https://news.ycombinator.com/item?id=23078078)
+253. `aN/aN/NaN` [undefined](https://news.ycombinator.com/item?id=23051053)
 
-254. `04/05/2020` [undefined](https://news.ycombinator.com/item?id=23066922)
+254. `aN/aN/NaN` [undefined](https://news.ycombinator.com/item?id=23035107)
 
-255. `02/05/2020` [undefined](https://news.ycombinator.com/item?id=23051053)
+255. `aN/aN/NaN` [undefined](https://news.ycombinator.com/item?id=23078078)
 
-256. `30/04/2020` [undefined](https://news.ycombinator.com/item?id=23035107)
+256. `aN/aN/NaN` [undefined](https://news.ycombinator.com/item?id=23066922)
 
-257. `29/04/2020` [undefined](https://news.ycombinator.com/item?id=23022940)
+257. `aN/aN/NaN` [undefined](https://news.ycombinator.com/item?id=22992544)
 
-258. `27/04/2020` [undefined](https://news.ycombinator.com/item?id=22997193)
+258. `aN/aN/NaN` [undefined](https://news.ycombinator.com/item?id=22979288)
 
-259. `27/04/2020` [undefined](https://news.ycombinator.com/item?id=22995682)
+259. `aN/aN/NaN` [undefined](https://news.ycombinator.com/item?id=22995008)
 
-260. `27/04/2020` [undefined](https://news.ycombinator.com/item?id=22995008)
+260. `aN/aN/NaN` [undefined](https://news.ycombinator.com/item?id=22995682)
 
-261. `27/04/2020` [undefined](https://news.ycombinator.com/item?id=22992544)
+261. `aN/aN/NaN` [undefined](https://news.ycombinator.com/item?id=23022940)
 
-262. `25/04/2020` [undefined](https://news.ycombinator.com/item?id=22979288)
+262. `aN/aN/NaN` [undefined](https://news.ycombinator.com/item?id=22997193)
 
-263. `21/04/2020` [undefined](https://news.ycombinator.com/item?id=22940564)
+263. `aN/aN/NaN` [undefined](https://news.ycombinator.com/item?id=22940564)
 
-264. `19/04/2020` [undefined](https://news.ycombinator.com/item?id=22919843)
+264. `aN/aN/NaN` [undefined](https://news.ycombinator.com/item?id=22919843)
 
-265. `19/04/2020` [undefined](https://news.ycombinator.com/item?id=22916281)
+265. `aN/aN/NaN` [undefined](https://news.ycombinator.com/item?id=22914610)
 
-266. `19/04/2020` [undefined](https://news.ycombinator.com/item?id=22914610)
+266. `aN/aN/NaN` [undefined](https://news.ycombinator.com/item?id=22916281)
 
-267. `14/04/2020` [undefined](https://news.ycombinator.com/item?id=22863536)
+267. `aN/aN/NaN` [undefined](https://news.ycombinator.com/item?id=22863536)
 
-268. `10/04/2020` [undefined](https://news.ycombinator.com/item?id=22831323)
+268. `aN/aN/NaN` [undefined](https://news.ycombinator.com/item?id=22818300)
 
-269. `09/04/2020` [undefined](https://news.ycombinator.com/item?id=22827833)
+269. `aN/aN/NaN` [undefined](https://news.ycombinator.com/item?id=22827833)
 
-270. `09/04/2020` [undefined](https://news.ycombinator.com/item?id=22826722)
+270. `aN/aN/NaN` [undefined](https://news.ycombinator.com/item?id=22823070)
 
-271. `09/04/2020` [undefined](https://news.ycombinator.com/item?id=22823070)
+271. `aN/aN/NaN` [undefined](https://news.ycombinator.com/item?id=22826722)
 
-272. `08/04/2020` [undefined](https://news.ycombinator.com/item?id=22818300)
+272. `aN/aN/NaN` [undefined](https://news.ycombinator.com/item?id=22831323)
 
-273. `05/04/2020` [undefined](https://news.ycombinator.com/item?id=22786287)
+273. `aN/aN/NaN` [undefined](https://news.ycombinator.com/item?id=22786287)
 
-274. `03/04/2020` [undefined](https://news.ycombinator.com/item?id=22772800)
+274. `aN/aN/NaN` [undefined](https://news.ycombinator.com/item?id=22772800)
 
-275. `02/04/2020` [undefined](https://news.ycombinator.com/item?id=22758218)
+275. `aN/aN/NaN` [undefined](https://news.ycombinator.com/item?id=22758218)
 
-276. `27/03/2020` [undefined](https://news.ycombinator.com/item?id=22702195)
+276. `aN/aN/NaN` [undefined](https://news.ycombinator.com/item?id=22702195)
 
-277. `21/03/2020` [undefined](https://news.ycombinator.com/item?id=22651120)
+277. `aN/aN/NaN` [undefined](https://news.ycombinator.com/item?id=22651120)
 
-278. `21/03/2020` [undefined](https://news.ycombinator.com/item?id=22650351)
+278. `aN/aN/NaN` [undefined](https://news.ycombinator.com/item?id=22650351)
 
-279. `21/03/2020` [undefined](https://news.ycombinator.com/item?id=22646358)
+279. `aN/aN/NaN` [undefined](https://news.ycombinator.com/item?id=22646358)
 
-280. `19/03/2020` [undefined](https://news.ycombinator.com/item?id=22630143)
+280. `aN/aN/NaN` [undefined](https://news.ycombinator.com/item?id=22628348)
 
-281. `19/03/2020` [undefined](https://news.ycombinator.com/item?id=22628348)
+281. `aN/aN/NaN` [undefined](https://news.ycombinator.com/item?id=22630143)
 
-282. `16/03/2020` [undefined](https://news.ycombinator.com/item?id=22596158)
+282. `aN/aN/NaN` [undefined](https://news.ycombinator.com/item?id=22591818)
 
-283. `16/03/2020` [undefined](https://news.ycombinator.com/item?id=22591818)
+283. `aN/aN/NaN` [undefined](https://news.ycombinator.com/item?id=22596158)
 
-284. `14/03/2020` [undefined](https://news.ycombinator.com/item?id=22576940)
+284. `aN/aN/NaN` [undefined](https://news.ycombinator.com/item?id=22574441)
 
-285. `14/03/2020` [undefined](https://news.ycombinator.com/item?id=22576589)
+285. `aN/aN/NaN` [undefined](https://news.ycombinator.com/item?id=22576589)
 
-286. `14/03/2020` [undefined](https://news.ycombinator.com/item?id=22574441)
+286. `aN/aN/NaN` [undefined](https://news.ycombinator.com/item?id=22576940)
 
-287. `13/03/2020` [undefined](https://news.ycombinator.com/item?id=22564665)
+287. `aN/aN/NaN` [undefined](https://news.ycombinator.com/item?id=22564665)
 
-288. `10/03/2020` [undefined](https://news.ycombinator.com/item?id=22537944)
+288. `aN/aN/NaN` [undefined](https://news.ycombinator.com/item?id=22537944)
 
-289. `26/02/2020` [undefined](https://news.ycombinator.com/item?id=22425834)
+289. `aN/aN/NaN` [undefined](https://news.ycombinator.com/item?id=22425834)
 
-290. `24/02/2020` [undefined](https://news.ycombinator.com/item?id=22405372)
+290. `aN/aN/NaN` [undefined](https://news.ycombinator.com/item?id=22405372)
 
-291. `23/02/2020` [undefined](https://news.ycombinator.com/item?id=22400375)
+291. `aN/aN/NaN` [undefined](https://news.ycombinator.com/item?id=22400375)
 
-292. `22/02/2020` [undefined](https://news.ycombinator.com/item?id=22392108)
+292. `aN/aN/NaN` [undefined](https://news.ycombinator.com/item?id=22391648)
 
-293. `22/02/2020` [undefined](https://news.ycombinator.com/item?id=22391648)
+293. `aN/aN/NaN` [undefined](https://news.ycombinator.com/item?id=22392108)
 
-294. `21/02/2020` [undefined](https://news.ycombinator.com/item?id=22385408)
+294. `aN/aN/NaN` [undefined](https://news.ycombinator.com/item?id=22385408)
 
-295. `19/02/2020` [undefined](https://news.ycombinator.com/item?id=22369080)
+295. `aN/aN/NaN` [undefined](https://news.ycombinator.com/item?id=22369080)
 
-296. `14/02/2020` [undefined](https://news.ycombinator.com/item?id=22328516)
+296. `aN/aN/NaN` [undefined](https://news.ycombinator.com/item?id=22325842)
 
-297. `14/02/2020` [undefined](https://news.ycombinator.com/item?id=22325842)
+297. `aN/aN/NaN` [undefined](https://news.ycombinator.com/item?id=22328516)
 
-298. `13/02/2020` [undefined](https://news.ycombinator.com/item?id=22318677)
+298. `aN/aN/NaN` [undefined](https://news.ycombinator.com/item?id=22317234)
 
-299. `13/02/2020` [undefined](https://news.ycombinator.com/item?id=22317234)
+299. `aN/aN/NaN` [undefined](https://news.ycombinator.com/item?id=22318677)
 
-300. `12/02/2020` [undefined](https://news.ycombinator.com/item?id=22310813)
+300. `aN/aN/NaN` [undefined](https://news.ycombinator.com/item?id=22310813)
 
-301. `30/01/2020` [undefined](https://news.ycombinator.com/item?id=22191416)
+301. `aN/aN/NaN` [undefined](https://news.ycombinator.com/item?id=22191416)
 
-302. `22/01/2020` [undefined](https://news.ycombinator.com/item?id=22120449)
+302. `aN/aN/NaN` [undefined](https://news.ycombinator.com/item?id=22120449)
 
-303. `20/01/2020` [undefined](https://news.ycombinator.com/item?id=22102016)
+303. `aN/aN/NaN` [undefined](https://news.ycombinator.com/item?id=22102016)
 
-304. `12/01/2020` [undefined](https://news.ycombinator.com/item?id=22027177)
+304. `aN/aN/NaN` [undefined](https://news.ycombinator.com/item?id=22027177)
 
-305. `04/01/2020` [undefined](https://news.ycombinator.com/item?id=21958359)
+305. `aN/aN/NaN` [undefined](https://news.ycombinator.com/item?id=21944573)
 
-306. `04/01/2020` [undefined](https://news.ycombinator.com/item?id=21957177)
+306. `aN/aN/NaN` [undefined](https://news.ycombinator.com/item?id=21958359)
 
-307. `03/01/2020` [undefined](https://news.ycombinator.com/item?id=21944573)
+307. `aN/aN/NaN` [undefined](https://news.ycombinator.com/item?id=21957177)
 
-308. `31/12/2019` [undefined](https://news.ycombinator.com/item?id=21923940)
+308. `aN/aN/NaN` [undefined](https://news.ycombinator.com/item?id=21923940)
 
-309. `29/12/2019` [undefined](https://news.ycombinator.com/item?id=21903007)
+309. `aN/aN/NaN` [undefined](https://news.ycombinator.com/item?id=21903007)
 
-310. `22/12/2019` [undefined](https://news.ycombinator.com/item?id=21858822)
+310. `aN/aN/NaN` [undefined](https://news.ycombinator.com/item?id=21858822)
 
-311. `20/12/2019` [undefined](https://news.ycombinator.com/item?id=21843713)
+311. `aN/aN/NaN` [undefined](https://news.ycombinator.com/item?id=21843713)
 
-312. `18/12/2019` [undefined](https://news.ycombinator.com/item?id=21822225)
+312. `aN/aN/NaN` [undefined](https://news.ycombinator.com/item?id=21822225)
 
-313. `16/12/2019` [undefined](https://news.ycombinator.com/item?id=21801178)
+313. `aN/aN/NaN` [undefined](https://news.ycombinator.com/item?id=21801178)
 
-314. `14/12/2019` [undefined](https://news.ycombinator.com/item?id=21790779)
+314. `aN/aN/NaN` [undefined](https://news.ycombinator.com/item?id=21790779)
 
-315. `13/12/2019` [undefined](https://news.ycombinator.com/item?id=21783303)
+315. `aN/aN/NaN` [undefined](https://news.ycombinator.com/item?id=21783303)
 
-316. `12/12/2019` [undefined](https://news.ycombinator.com/item?id=21772038)
+316. `aN/aN/NaN` [undefined](https://news.ycombinator.com/item?id=21770951)
 
-317. `12/12/2019` [undefined](https://news.ycombinator.com/item?id=21771600)
+317. `aN/aN/NaN` [undefined](https://news.ycombinator.com/item?id=21772038)
 
-318. `12/12/2019` [undefined](https://news.ycombinator.com/item?id=21770951)
+318. `aN/aN/NaN` [undefined](https://news.ycombinator.com/item?id=21771600)
 
-319. `10/12/2019` [undefined](https://news.ycombinator.com/item?id=21755871)
+319. `aN/aN/NaN` [undefined](https://news.ycombinator.com/item?id=21754642)
 
-320. `10/12/2019` [undefined](https://news.ycombinator.com/item?id=21754642)
+320. `aN/aN/NaN` [undefined](https://news.ycombinator.com/item?id=21755871)
 
-321. `09/12/2019` [undefined](https://news.ycombinator.com/item?id=21744772)
+321. `aN/aN/NaN` [undefined](https://news.ycombinator.com/item?id=21744772)
 
-322. `08/12/2019` [undefined](https://news.ycombinator.com/item?id=21736199)
+322. `aN/aN/NaN` [undefined](https://news.ycombinator.com/item?id=21736199)
 
-323. `06/12/2019` [undefined](https://news.ycombinator.com/item?id=21725853)
+323. `aN/aN/NaN` [undefined](https://news.ycombinator.com/item?id=21725853)
 
-324. `06/12/2019` [undefined](https://news.ycombinator.com/item?id=21719807)
+324. `aN/aN/NaN` [undefined](https://news.ycombinator.com/item?id=21719807)
 
-325. `05/12/2019` [undefined](https://news.ycombinator.com/item?id=21717022)
+325. `aN/aN/NaN` [undefined](https://news.ycombinator.com/item?id=21710105)
 
-326. `05/12/2019` [undefined](https://news.ycombinator.com/item?id=21712403)
+326. `aN/aN/NaN` [undefined](https://news.ycombinator.com/item?id=21712403)
 
-327. `05/12/2019` [undefined](https://news.ycombinator.com/item?id=21710105)
+327. `aN/aN/NaN` [undefined](https://news.ycombinator.com/item?id=21717022)
 
-328. `03/12/2019` [undefined](https://news.ycombinator.com/item?id=21695658)
+328. `aN/aN/NaN` [undefined](https://news.ycombinator.com/item?id=21695658)
 
-329. `29/11/2019` [undefined](https://news.ycombinator.com/item?id=21665125)
+329. `aN/aN/NaN` [undefined](https://news.ycombinator.com/item?id=21660203)
 
-330. `28/11/2019` [undefined](https://news.ycombinator.com/item?id=21660203)
+330. `aN/aN/NaN` [undefined](https://news.ycombinator.com/item?id=21665125)
 
-331. `26/11/2019` [undefined](https://news.ycombinator.com/item?id=21641760)
+331. `aN/aN/NaN` [undefined](https://news.ycombinator.com/item?id=21641760)
 
-332. `26/11/2019` [undefined](https://news.ycombinator.com/item?id=21639428)
+332. `aN/aN/NaN` [undefined](https://news.ycombinator.com/item?id=21639428)
 
-333. `25/11/2019` [undefined](https://news.ycombinator.com/item?id=21628449)
+333. `aN/aN/NaN` [undefined](https://news.ycombinator.com/item?id=21626972)
 
-334. `25/11/2019` [undefined](https://news.ycombinator.com/item?id=21628149)
+334. `aN/aN/NaN` [undefined](https://news.ycombinator.com/item?id=21628149)
 
-335. `25/11/2019` [undefined](https://news.ycombinator.com/item?id=21626972)
+335. `aN/aN/NaN` [undefined](https://news.ycombinator.com/item?id=21628449)
 
-336. `21/11/2019` [undefined](https://news.ycombinator.com/item?id=21593158)
+336. `aN/aN/NaN` [undefined](https://news.ycombinator.com/item?id=21593158)
 
-337. `20/11/2019` [undefined](https://news.ycombinator.com/item?id=21585235)
+337. `aN/aN/NaN` [undefined](https://news.ycombinator.com/item?id=21585235)
 
-338. `19/11/2019` [undefined](https://news.ycombinator.com/item?id=21572622)
+338. `aN/aN/NaN` [undefined](https://news.ycombinator.com/item?id=21572622)
 
-339. `15/11/2019` [undefined](https://news.ycombinator.com/item?id=21546382)
+339. `aN/aN/NaN` [undefined](https://news.ycombinator.com/item?id=21546382)
 
-340. `14/11/2019` [undefined](https://news.ycombinator.com/item?id=21536789)
+340. `aN/aN/NaN` [undefined](https://news.ycombinator.com/item?id=21536789)
 
-341. `12/11/2019` [undefined](https://news.ycombinator.com/item?id=21518152)
+341. `aN/aN/NaN` [undefined](https://news.ycombinator.com/item?id=21518152)
 
-342. `11/11/2019` [undefined](https://news.ycombinator.com/item?id=21501457)
+342. `aN/aN/NaN` [undefined](https://news.ycombinator.com/item?id=21501457)
 
-343. `09/11/2019` [undefined](https://news.ycombinator.com/item?id=21490731)
+343. `aN/aN/NaN` [undefined](https://news.ycombinator.com/item?id=21490731)
 
-344. `01/11/2019` [undefined](https://news.ycombinator.com/item?id=21421365)
+344. `aN/aN/NaN` [undefined](https://news.ycombinator.com/item?id=21421365)
 
-345. `31/10/2019` [undefined](https://news.ycombinator.com/item?id=21411104)
+345. `aN/aN/NaN` [undefined](https://news.ycombinator.com/item?id=21411104)
 
-346. `29/10/2019` [undefined](https://news.ycombinator.com/item?id=21383765)
+346. `aN/aN/NaN` [undefined](https://news.ycombinator.com/item?id=21383765)
 
-347. `25/10/2019` [undefined](https://news.ycombinator.com/item?id=21353020)
+347. `aN/aN/NaN` [undefined](https://news.ycombinator.com/item?id=21353020)
 
-348. `25/10/2019` [undefined](https://news.ycombinator.com/item?id=21352045)
+348. `aN/aN/NaN` [undefined](https://news.ycombinator.com/item?id=21352045)
 
-349. `24/10/2019` [undefined](https://news.ycombinator.com/item?id=21346272)
+349. `aN/aN/NaN` [undefined](https://news.ycombinator.com/item?id=21343860)
 
-350. `24/10/2019` [undefined](https://news.ycombinator.com/item?id=21343860)
+350. `aN/aN/NaN` [undefined](https://news.ycombinator.com/item?id=21346272)
 
-351. `22/10/2019` [undefined](https://news.ycombinator.com/item?id=21327114)
+351. `aN/aN/NaN` [undefined](https://news.ycombinator.com/item?id=21327114)
 
-352. `22/10/2019` [undefined](https://news.ycombinator.com/item?id=21323663)
+352. `aN/aN/NaN` [undefined](https://news.ycombinator.com/item?id=21323663)
 
-353. `21/10/2019` [undefined](https://news.ycombinator.com/item?id=21312609)
+353. `aN/aN/NaN` [undefined](https://news.ycombinator.com/item?id=21308939)
 
-354. `21/10/2019` [undefined](https://news.ycombinator.com/item?id=21310030)
+354. `aN/aN/NaN` [undefined](https://news.ycombinator.com/item?id=21307888)
 
-355. `21/10/2019` [undefined](https://news.ycombinator.com/item?id=21308939)
+355. `aN/aN/NaN` [undefined](https://news.ycombinator.com/item?id=21310030)
 
-356. `20/10/2019` [undefined](https://news.ycombinator.com/item?id=21307888)
+356. `aN/aN/NaN` [undefined](https://news.ycombinator.com/item?id=21312609)
 
-357. `20/10/2019` [undefined](https://news.ycombinator.com/item?id=21302498)
+357. `aN/aN/NaN` [undefined](https://news.ycombinator.com/item?id=21301784)
 
-358. `20/10/2019` [undefined](https://news.ycombinator.com/item?id=21301784)
+358. `aN/aN/NaN` [undefined](https://news.ycombinator.com/item?id=21302498)
 
-359. `19/10/2019` [undefined](https://news.ycombinator.com/item?id=21299546)
+359. `aN/aN/NaN` [undefined](https://news.ycombinator.com/item?id=21298233)
 
-360. `19/10/2019` [undefined](https://news.ycombinator.com/item?id=21298233)
+360. `aN/aN/NaN` [undefined](https://news.ycombinator.com/item?id=21299546)
 
-361. `19/10/2019` [undefined](https://news.ycombinator.com/item?id=21297462)
+361. `aN/aN/NaN` [undefined](https://news.ycombinator.com/item?id=21297462)
 
-362. `18/10/2019` [undefined](https://news.ycombinator.com/item?id=21294354)
+362. `aN/aN/NaN` [undefined](https://news.ycombinator.com/item?id=21294354)
 
-363. `18/10/2019` [undefined](https://news.ycombinator.com/item?id=21289832)
+363. `aN/aN/NaN` [undefined](https://news.ycombinator.com/item?id=21289832)
 
-364. `18/10/2019` [undefined](https://news.ycombinator.com/item?id=21289827)
+364. `aN/aN/NaN` [undefined](https://news.ycombinator.com/item?id=21289827)
 
-365. `17/10/2019` [undefined](https://news.ycombinator.com/item?id=21281025)
+365. `aN/aN/NaN` [undefined](https://news.ycombinator.com/item?id=21281025)
 
-366. `15/10/2019` [undefined](https://news.ycombinator.com/item?id=21260364)
+366. `aN/aN/NaN` [undefined](https://news.ycombinator.com/item?id=21259108)
 
-367. `15/10/2019` [undefined](https://news.ycombinator.com/item?id=21259108)
+367. `aN/aN/NaN` [undefined](https://news.ycombinator.com/item?id=21260364)
 
-368. `14/10/2019` [undefined](https://news.ycombinator.com/item?id=21249792)
+368. `aN/aN/NaN` [undefined](https://news.ycombinator.com/item?id=21249792)
 
-369. `12/10/2019` [undefined](https://news.ycombinator.com/item?id=21235957)
+369. `aN/aN/NaN` [undefined](https://news.ycombinator.com/item?id=21235957)
 
-370. `11/10/2019` [undefined](https://news.ycombinator.com/item?id=21225401)
+370. `aN/aN/NaN` [undefined](https://news.ycombinator.com/item?id=21225401)
 
-371. `10/10/2019` [undefined](https://news.ycombinator.com/item?id=21214633)
+371. `aN/aN/NaN` [undefined](https://news.ycombinator.com/item?id=21214633)
 
-372. `08/10/2019` [undefined](https://news.ycombinator.com/item?id=21195913)
+372. `aN/aN/NaN` [undefined](https://news.ycombinator.com/item?id=21192710)
 
-373. `08/10/2019` [undefined](https://news.ycombinator.com/item?id=21192710)
+373. `aN/aN/NaN` [undefined](https://news.ycombinator.com/item?id=21189256)
 
-374. `08/10/2019` [undefined](https://news.ycombinator.com/item?id=21189256)
+374. `aN/aN/NaN` [undefined](https://news.ycombinator.com/item?id=21195913)
 
-375. `07/10/2019` [undefined](https://news.ycombinator.com/item?id=21182982)
+375. `aN/aN/NaN` [undefined](https://news.ycombinator.com/item?id=21182982)
 
-376. `06/10/2019` [undefined](https://news.ycombinator.com/item?id=21175492)
+376. `aN/aN/NaN` [undefined](https://news.ycombinator.com/item?id=21175492)
 
-377. `04/10/2019` [undefined](https://news.ycombinator.com/item?id=21156482)
+377. `aN/aN/NaN` [undefined](https://news.ycombinator.com/item?id=21156482)
 
-378. `03/10/2019` [undefined](https://news.ycombinator.com/item?id=21153175)
+378. `aN/aN/NaN` [undefined](https://news.ycombinator.com/item?id=21153175)
 
-379. `30/09/2019` [undefined](https://news.ycombinator.com/item?id=21119553)
+379. `aN/aN/NaN` [undefined](https://news.ycombinator.com/item?id=21119553)
 
-380. `29/09/2019` [undefined](https://news.ycombinator.com/item?id=21110425)
+380. `aN/aN/NaN` [undefined](https://news.ycombinator.com/item?id=21110425)
 
-381. `24/09/2019` [undefined](https://news.ycombinator.com/item?id=21065272)
+381. `aN/aN/NaN` [undefined](https://news.ycombinator.com/item?id=21065272)
 
-382. `20/09/2019` [undefined](https://news.ycombinator.com/item?id=21025252)
+382. `aN/aN/NaN` [undefined](https://news.ycombinator.com/item?id=21025252)
 
-383. `19/09/2019` [undefined](https://news.ycombinator.com/item?id=21020106)
+383. `aN/aN/NaN` [undefined](https://news.ycombinator.com/item?id=21020106)
 
-384. `17/09/2019` [undefined](https://news.ycombinator.com/item?id=20995056)
+384. `aN/aN/NaN` [undefined](https://news.ycombinator.com/item?id=20995056)
 
-385. `12/09/2019` [undefined](https://news.ycombinator.com/item?id=20948826)
+385. `aN/aN/NaN` [undefined](https://news.ycombinator.com/item?id=20948826)
 
-386. `10/09/2019` [undefined](https://news.ycombinator.com/item?id=20929801)
+386. `aN/aN/NaN` [undefined](https://news.ycombinator.com/item?id=20929801)
 
-387. `09/09/2019` [undefined](https://news.ycombinator.com/item?id=20916749)
+387. `aN/aN/NaN` [undefined](https://news.ycombinator.com/item?id=20916749)
 
-388. `08/09/2019` [undefined](https://news.ycombinator.com/item?id=20912380)
+388. `aN/aN/NaN` [undefined](https://news.ycombinator.com/item?id=20912380)
 
-389. `05/09/2019` [undefined](https://news.ycombinator.com/item?id=20887708)
+389. `aN/aN/NaN` [undefined](https://news.ycombinator.com/item?id=20887708)
 
-390. `02/09/2019` [undefined](https://news.ycombinator.com/item?id=20860888)
+390. `aN/aN/NaN` [undefined](https://news.ycombinator.com/item?id=20860888)
 
-391. `01/09/2019` [undefined](https://news.ycombinator.com/item?id=20854024)
+391. `aN/aN/NaN` [undefined](https://news.ycombinator.com/item?id=20851880)
 
-392. `01/09/2019` [undefined](https://news.ycombinator.com/item?id=20851880)
+392. `aN/aN/NaN` [undefined](https://news.ycombinator.com/item?id=20854024)
 
-393. `26/08/2019` [undefined](https://news.ycombinator.com/item?id=20797343)
+393. `aN/aN/NaN` [undefined](https://news.ycombinator.com/item?id=20797343)
 
-394. `19/08/2019` [undefined](https://news.ycombinator.com/item?id=20740378)
+394. `aN/aN/NaN` [undefined](https://news.ycombinator.com/item?id=20740378)
 
-395. `15/08/2019` [undefined](https://news.ycombinator.com/item?id=20701671)
+395. `aN/aN/NaN` [undefined](https://news.ycombinator.com/item?id=20701671)
 
-396. `10/08/2019` [undefined](https://news.ycombinator.com/item?id=20660634)
+396. `aN/aN/NaN` [undefined](https://news.ycombinator.com/item?id=20658765)
 
-397. `09/08/2019` [undefined](https://news.ycombinator.com/item?id=20658765)
+397. `aN/aN/NaN` [undefined](https://news.ycombinator.com/item?id=20660634)
 
-398. `08/08/2019` [undefined](https://news.ycombinator.com/item?id=20646350)
+398. `aN/aN/NaN` [undefined](https://news.ycombinator.com/item?id=20646350)
 
-399. `03/08/2019` [undefined](https://news.ycombinator.com/item?id=20603378)
+399. `aN/aN/NaN` [undefined](https://news.ycombinator.com/item?id=20603378)
 
-400. `02/08/2019` [undefined](https://news.ycombinator.com/item?id=20595153)
+400. `aN/aN/NaN` [undefined](https://news.ycombinator.com/item?id=20595153)
 
-401. `02/08/2019` [undefined](https://news.ycombinator.com/item?id=20594802)
+401. `aN/aN/NaN` [undefined](https://news.ycombinator.com/item?id=20594802)
 
-402. `30/07/2019` [undefined](https://news.ycombinator.com/item?id=20562684)
+402. `aN/aN/NaN` [undefined](https://news.ycombinator.com/item?id=20562684)
 
-403. `28/07/2019` [undefined](https://news.ycombinator.com/item?id=20550167)
+403. `aN/aN/NaN` [undefined](https://news.ycombinator.com/item?id=20550167)
 
-404. `26/07/2019` [undefined](https://news.ycombinator.com/item?id=20532763)
+404. `aN/aN/NaN` [undefined](https://news.ycombinator.com/item?id=20526564)
 
-405. `25/07/2019` [undefined](https://news.ycombinator.com/item?id=20526564)
+405. `aN/aN/NaN` [undefined](https://news.ycombinator.com/item?id=20532763)
 
-406. `25/07/2019` [undefined](https://news.ycombinator.com/item?id=20526202)
+406. `aN/aN/NaN` [undefined](https://news.ycombinator.com/item?id=20526202)
 
-407. `24/07/2019` [undefined](https://news.ycombinator.com/item?id=20511555)
+407. `aN/aN/NaN` [undefined](https://news.ycombinator.com/item?id=20511555)
 
-408. `23/07/2019` [undefined](https://news.ycombinator.com/item?id=20509428)
+408. `aN/aN/NaN` [undefined](https://news.ycombinator.com/item?id=20496786)
 
-409. `23/07/2019` [undefined](https://news.ycombinator.com/item?id=20503612)
+409. `aN/aN/NaN` [undefined](https://news.ycombinator.com/item?id=20503612)
 
-410. `22/07/2019` [undefined](https://news.ycombinator.com/item?id=20498474)
+410. `aN/aN/NaN` [undefined](https://news.ycombinator.com/item?id=20509428)
 
-411. `22/07/2019` [undefined](https://news.ycombinator.com/item?id=20497541)
+411. `aN/aN/NaN` [undefined](https://news.ycombinator.com/item?id=20493947)
 
-412. `22/07/2019` [undefined](https://news.ycombinator.com/item?id=20496786)
+412. `aN/aN/NaN` [undefined](https://news.ycombinator.com/item?id=20497541)
 
-413. `21/07/2019` [undefined](https://news.ycombinator.com/item?id=20493947)
+413. `aN/aN/NaN` [undefined](https://news.ycombinator.com/item?id=20498474)
 
-414. `21/07/2019` [undefined](https://news.ycombinator.com/item?id=20491571)
+414. `aN/aN/NaN` [undefined](https://news.ycombinator.com/item?id=20491571)
 
-415. `18/07/2019` [undefined](https://news.ycombinator.com/item?id=20468845)
+415. `aN/aN/NaN` [undefined](https://news.ycombinator.com/item?id=20468845)
 
-416. `17/07/2019` [undefined](https://news.ycombinator.com/item?id=20455873)
+416. `aN/aN/NaN` [undefined](https://news.ycombinator.com/item?id=20455873)
 
-417. `16/07/2019` [undefined](https://news.ycombinator.com/item?id=20453241)
+417. `aN/aN/NaN` [undefined](https://news.ycombinator.com/item?id=20453241)
 
-418. `15/07/2019` [undefined](https://news.ycombinator.com/item?id=20445261)
+418. `aN/aN/NaN` [undefined](https://news.ycombinator.com/item?id=20444474)
 
-419. `15/07/2019` [undefined](https://news.ycombinator.com/item?id=20444474)
+419. `aN/aN/NaN` [undefined](https://news.ycombinator.com/item?id=20445261)
 
-420. `15/07/2019` [undefined](https://news.ycombinator.com/item?id=20444323)
+420. `aN/aN/NaN` [undefined](https://news.ycombinator.com/item?id=20444323)
 
-421. `15/07/2019` [undefined](https://news.ycombinator.com/item?id=20443765)
+421. `aN/aN/NaN` [undefined](https://news.ycombinator.com/item?id=20443765)
 
-422. `12/07/2019` [undefined](https://news.ycombinator.com/item?id=20417832)
+422. `aN/aN/NaN` [undefined](https://news.ycombinator.com/item?id=20417832)
 
-423. `08/07/2019` [undefined](https://news.ycombinator.com/item?id=20381779)
+423. `aN/aN/NaN` [undefined](https://news.ycombinator.com/item?id=20381388)
 
-424. `08/07/2019` [undefined](https://news.ycombinator.com/item?id=20381388)
+424. `aN/aN/NaN` [undefined](https://news.ycombinator.com/item?id=20381779)
 
-425. `07/07/2019` [undefined](https://news.ycombinator.com/item?id=20374601)
+425. `aN/aN/NaN` [undefined](https://news.ycombinator.com/item?id=20374601)
 
-426. `05/07/2019` [undefined](https://news.ycombinator.com/item?id=20359255)
+426. `aN/aN/NaN` [undefined](https://news.ycombinator.com/item?id=20359255)
 
-427. `05/07/2019` [undefined](https://news.ycombinator.com/item?id=20359100)
+427. `aN/aN/NaN` [undefined](https://news.ycombinator.com/item?id=20359100)
 
-428. `05/07/2019` [undefined](https://news.ycombinator.com/item?id=20358970)
+428. `aN/aN/NaN` [undefined](https://news.ycombinator.com/item?id=20358970)
 
-429. `03/07/2019` [undefined](https://news.ycombinator.com/item?id=20342987)
+429. `aN/aN/NaN` [undefined](https://news.ycombinator.com/item?id=20342987)
 
-430. `03/07/2019` [undefined](https://news.ycombinator.com/item?id=20341354)
+430. `aN/aN/NaN` [undefined](https://news.ycombinator.com/item?id=20341354)
 
-431. `02/07/2019` [undefined](https://news.ycombinator.com/item?id=20340406)
+431. `aN/aN/NaN` [undefined](https://news.ycombinator.com/item?id=20340406)
 
-432. `24/06/2019` [undefined](https://news.ycombinator.com/item?id=20269293)
+432. `aN/aN/NaN` [undefined](https://news.ycombinator.com/item?id=19997813)
 
-433. `24/06/2019` [undefined](https://news.ycombinator.com/item?id=20264911)
+433. `aN/aN/NaN` [undefined](https://news.ycombinator.com/item?id=20001151)
 
-434. `24/06/2019` [undefined](https://news.ycombinator.com/item?id=20260863)
+434. `aN/aN/NaN` [undefined](https://news.ycombinator.com/item?id=20048205)
 
-435. `23/06/2019` [undefined](https://news.ycombinator.com/item?id=20257990)
+435. `aN/aN/NaN` [undefined](https://news.ycombinator.com/item?id=20044876)
 
-436. `19/06/2019` [undefined](https://news.ycombinator.com/item?id=20225118)
+436. `aN/aN/NaN` [undefined](https://news.ycombinator.com/item?id=20033728)
 
-437. `18/06/2019` [undefined](https://news.ycombinator.com/item?id=20213943)
+437. `aN/aN/NaN` [undefined](https://news.ycombinator.com/item?id=20070281)
 
-438. `18/06/2019` [undefined](https://news.ycombinator.com/item?id=20209816)
+438. `aN/aN/NaN` [undefined](https://news.ycombinator.com/item?id=20068291)
 
-439. `17/06/2019` [undefined](https://news.ycombinator.com/item?id=20207623)
+439. `aN/aN/NaN` [undefined](https://news.ycombinator.com/item?id=20068269)
 
-440. `14/06/2019` [undefined](https://news.ycombinator.com/item?id=20185182)
+440. `aN/aN/NaN` [undefined](https://news.ycombinator.com/item?id=20118963)
 
-441. `14/06/2019` [undefined](https://news.ycombinator.com/item?id=20182090)
+441. `aN/aN/NaN` [undefined](https://news.ycombinator.com/item?id=20103589)
 
-442. `14/06/2019` [undefined](https://news.ycombinator.com/item?id=20179820)
+442. `aN/aN/NaN` [undefined](https://news.ycombinator.com/item?id=20110442)
 
-443. `13/06/2019` [undefined](https://news.ycombinator.com/item?id=20173974)
+443. `aN/aN/NaN` [undefined](https://news.ycombinator.com/item?id=20087573)
 
-444. `11/06/2019` [undefined](https://news.ycombinator.com/item?id=20157809)
+444. `aN/aN/NaN` [undefined](https://news.ycombinator.com/item?id=20144619)
 
-445. `10/06/2019` [undefined](https://news.ycombinator.com/item?id=20147015)
+445. `aN/aN/NaN` [undefined](https://news.ycombinator.com/item?id=20157809)
 
-446. `10/06/2019` [undefined](https://news.ycombinator.com/item?id=20144619)
+446. `aN/aN/NaN` [undefined](https://news.ycombinator.com/item?id=20140790)
 
-447. `09/06/2019` [undefined](https://news.ycombinator.com/item?id=20140790)
+447. `aN/aN/NaN` [undefined](https://news.ycombinator.com/item?id=20147015)
 
-448. `06/06/2019` [undefined](https://news.ycombinator.com/item?id=20118963)
+448. `aN/aN/NaN` [undefined](https://news.ycombinator.com/item?id=19851744)
 
-449. `06/06/2019` [undefined](https://news.ycombinator.com/item?id=20110442)
+449. `aN/aN/NaN` [undefined](https://news.ycombinator.com/item?id=19839081)
 
-450. `05/06/2019` [undefined](https://news.ycombinator.com/item?id=20103589)
+450. `aN/aN/NaN` [undefined](https://news.ycombinator.com/item?id=19851934)
 
-451. `03/06/2019` [undefined](https://news.ycombinator.com/item?id=20087573)
+451. `aN/aN/NaN` [undefined](https://news.ycombinator.com/item?id=19861725)
 
-452. `01/06/2019` [undefined](https://news.ycombinator.com/item?id=20070281)
+452. `aN/aN/NaN` [undefined](https://news.ycombinator.com/item?id=19860093)
 
-453. `01/06/2019` [undefined](https://news.ycombinator.com/item?id=20068291)
+453. `aN/aN/NaN` [undefined](https://news.ycombinator.com/item?id=19922062)
 
-454. `01/06/2019` [undefined](https://news.ycombinator.com/item?id=20068269)
+454. `aN/aN/NaN` [undefined](https://news.ycombinator.com/item?id=19894233)
 
-455. `30/05/2019` [undefined](https://news.ycombinator.com/item?id=20048205)
+455. `aN/aN/NaN` [undefined](https://news.ycombinator.com/item?id=19927908)
 
-456. `29/05/2019` [undefined](https://news.ycombinator.com/item?id=20044876)
+456. `aN/aN/NaN` [undefined](https://news.ycombinator.com/item?id=19939292)
 
-457. `28/05/2019` [undefined](https://news.ycombinator.com/item?id=20033728)
+457. `aN/aN/NaN` [undefined](https://news.ycombinator.com/item?id=19926803)
 
-458. `24/05/2019` [undefined](https://news.ycombinator.com/item?id=20001151)
+458. `aN/aN/NaN` [undefined](https://news.ycombinator.com/item?id=19963640)
 
-459. `24/05/2019` [undefined](https://news.ycombinator.com/item?id=19997813)
+459. `aN/aN/NaN` [undefined](https://news.ycombinator.com/item?id=19955958)
 
-460. `22/05/2019` [undefined](https://news.ycombinator.com/item?id=19981869)
+460. `aN/aN/NaN` [undefined](https://news.ycombinator.com/item?id=19968114)
 
-461. `21/05/2019` [undefined](https://news.ycombinator.com/item?id=19968114)
+461. `aN/aN/NaN` [undefined](https://news.ycombinator.com/item?id=19981869)
 
-462. `20/05/2019` [undefined](https://news.ycombinator.com/item?id=19963640)
+462. `aN/aN/NaN` [undefined](https://news.ycombinator.com/item?id=20269293)
 
-463. `19/05/2019` [undefined](https://news.ycombinator.com/item?id=19955958)
+463. `aN/aN/NaN` [undefined](https://news.ycombinator.com/item?id=20264911)
 
-464. `17/05/2019` [undefined](https://news.ycombinator.com/item?id=19939292)
+464. `aN/aN/NaN` [undefined](https://news.ycombinator.com/item?id=20257990)
 
-465. `16/05/2019` [undefined](https://news.ycombinator.com/item?id=19927908)
+465. `aN/aN/NaN` [undefined](https://news.ycombinator.com/item?id=20260863)
 
-466. `16/05/2019` [undefined](https://news.ycombinator.com/item?id=19926803)
+466. `aN/aN/NaN` [undefined](https://news.ycombinator.com/item?id=20207623)
 
-467. `15/05/2019` [undefined](https://news.ycombinator.com/item?id=19922062)
+467. `aN/aN/NaN` [undefined](https://news.ycombinator.com/item?id=20225118)
 
-468. `12/05/2019` [undefined](https://news.ycombinator.com/item?id=19894233)
+468. `aN/aN/NaN` [undefined](https://news.ycombinator.com/item?id=20209816)
 
-469. `08/05/2019` [undefined](https://news.ycombinator.com/item?id=19861725)
+469. `aN/aN/NaN` [undefined](https://news.ycombinator.com/item?id=20213943)
 
-470. `08/05/2019` [undefined](https://news.ycombinator.com/item?id=19860093)
+470. `aN/aN/NaN` [undefined](https://news.ycombinator.com/item?id=20182090)
 
-471. `07/05/2019` [undefined](https://news.ycombinator.com/item?id=19851934)
+471. `aN/aN/NaN` [undefined](https://news.ycombinator.com/item?id=20179820)
 
-472. `07/05/2019` [undefined](https://news.ycombinator.com/item?id=19851744)
+472. `aN/aN/NaN` [undefined](https://news.ycombinator.com/item?id=20185182)
 
-473. `06/05/2019` [undefined](https://news.ycombinator.com/item?id=19839081)
+473. `aN/aN/NaN` [undefined](https://news.ycombinator.com/item?id=20173974)
 
 
